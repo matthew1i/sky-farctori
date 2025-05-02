@@ -32,6 +32,7 @@
       "Completed Root": "2025-05-02 05:16:57 +0000",
       "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:35 +0000",
       "Completed Captain Hook§r": "2025-05-02 05:26:46 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-02 23:36:34 +0000",
       "Completed Cobble Cobble§r": "2025-05-02 10:04:01 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:30 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 06:48:02 +0000",
@@ -95,7 +96,8 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
-      "Completed Age of Storage§r": "2025-05-02 05:16:57 +0000"
+      "Completed Age of Storage§r": "2025-05-02 05:16:57 +0000",
+      "Completed Hop to It§r": "2025-05-02 23:37:35 +0000"
     },
     "done": false
   },
@@ -159,7 +161,8 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
-      "Completed Age of Storage§r": "2025-05-02 05:16:57 +0000"
+      "Completed Age of Storage§r": "2025-05-02 05:16:57 +0000",
+      "Completed Hop to It§r": "2025-05-02 23:37:35 +0000"
     },
     "done": false
   },
@@ -253,6 +256,7 @@
       "Completed Root": "2025-05-02 05:16:57 +0000",
       "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:35 +0000",
       "Completed Captain Hook§r": "2025-05-02 05:26:46 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-02 23:36:34 +0000",
       "Completed Cobble Cobble§r": "2025-05-02 10:04:01 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:30 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 06:48:02 +0000",
@@ -467,6 +471,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/hoppingbonsai": {
+    "criteria": {
+      "Obtain Bonsai Pot": "2025-05-02 23:37:43 +0000"
+    },
+    "done": true
+  },
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2025-05-02 05:36:04 +0000"
@@ -546,6 +556,12 @@
   "sf4:age_enhancement/tank": {
     "criteria": {
       "Obtain Tank": "2025-05-02 07:35:35 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_storage/hopper": {
+    "criteria": {
+      "Obtain Hopper": "2025-05-02 23:37:35 +0000"
     },
     "done": true
   },
@@ -687,9 +703,10 @@
   },
   "sf4:age1/diamond": {
     "criteria": {
+      "Obtain Diamond": "2025-05-02 23:36:34 +0000",
       "Completed Root": "2025-05-02 05:16:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/obsidian": {
     "criteria": {
@@ -806,6 +823,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/diamond": {
+    "criteria": {
+      "Obtain Diamond": "2025-05-02 23:36:34 +0000"
+    },
+    "done": false
+  },
   "tutorial:tutorial/copied/string": {
     "criteria": {
       "Obtain Cottonwood Sapling": "2025-05-02 06:16:27 +0000",
@@ -896,6 +919,7 @@
   },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
+      "Completed Cowabonsai!§r": "2025-05-02 23:37:43 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
       "Completed Shredded Wheat§r": "2025-05-02 09:15:53 +0000",
       "Completed Fertile Soil§r": "2025-05-02 06:51:20 +0000",

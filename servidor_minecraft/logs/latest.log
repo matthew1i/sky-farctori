@@ -7189,3 +7189,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [23:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Silver Spoon]
 [23:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [It's Electric]
 [23:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [This Tree is Forever]
+[23:30:40] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: sky_orchards:log_diamond[axis=y]
+Tool: 1xitem.hatchetIron@250
+Pos: BlockPos{x=-26, y=73, z=-1}
+[23:36:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Trees to Diamonds]
+[23:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Hop to It]
+[23:37:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Cowabonsai!]
