@@ -7108,3 +7108,11 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [04:07:48] [Thread-78/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at ganymedes01.headcrumbs.utils.ThreadedProfileFiller$1.run(ThreadedProfileFiller.java:25)
 [04:07:48] [Thread-78/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Thread.run(Thread.java:750)
 [04:07:49] [Server thread/INFO] [MatterOverdrive]: Galaxy saved to './world/galaxy.dat'. Took 38 milliseconds
+[04:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped zxymatthewyxz
+[04:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: liamsitol has made the advancement [On the Rocks]
+[04:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [On the Rocks]
+[04:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: liamsitol has made the advancement [COALateral Damage]
+[04:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [COALateral Damage]
+[04:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: liamsitol was shot by Skeleton
+[04:17:19] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[04:17:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: liamsitol moved wrongly!

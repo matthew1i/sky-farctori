@@ -1,4 +1,10 @@
 {
+  "tutorial:tutorial/oakwood": {
+    "criteria": {
+      "Obtain Oak Wood": "2025-05-02 04:12:04 +0000"
+    },
+    "done": false
+  },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 04:07:46 +0000"
@@ -17,6 +23,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/oakplanks": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2025-05-02 04:12:36 +0000"
+    },
+    "done": false
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 04:07:46 +0000"
@@ -26,7 +38,9 @@
   "sf4:age1/complete": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000"
     },
     "done": false
   },
@@ -154,9 +168,10 @@
   },
   "sf4:age1/coal": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:07:47 +0000"
+      "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Obtain Coal": "2025-05-02 04:14:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/complete": {
     "criteria": {
@@ -242,7 +257,9 @@
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:07:47 +0000",
       "Completed Root": "2025-05-02 04:07:47 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000"
     },
     "done": false
   },
@@ -286,6 +303,13 @@
   "sf4:age1/sapling/bone": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
+    },
+    "done": false
+  },
+  "pacifist:pacifist_run/peaceful": {
+    "criteria": {
+      "brokeLeaves": "2025-05-02 04:12:30 +0000",
+      "brokeLog": "2025-05-02 04:12:00 +0000"
     },
     "done": false
   },
@@ -338,6 +362,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2025-05-02 04:13:19 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/gravel": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
@@ -359,6 +389,12 @@
   "sf4:age1/prestige_notify": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
+    },
+    "done": false
+  },
+  "hardcore:hardcore/survive": {
+    "criteria": {
+      "Get killed": "2025-05-02 04:17:19 +0000"
     },
     "done": false
   },
@@ -425,9 +461,10 @@
   },
   "sf4:age1/cobblestone": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:07:47 +0000"
+      "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Obtain Cobblestone Block": "2025-05-02 04:13:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/gold": {
     "criteria": {

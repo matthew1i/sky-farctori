@@ -26,7 +26,9 @@
   "sf4:age1/complete": {
     "criteria": {
       "Completed Root": "2025-05-02 04:01:29 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000"
     },
     "done": false
   },
@@ -154,9 +156,10 @@
   },
   "sf4:age1/coal": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:01:29 +0000"
+      "Completed Root": "2025-05-02 04:01:29 +0000",
+      "Obtain Coal": "2025-05-02 04:15:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/complete": {
     "criteria": {
@@ -242,7 +245,9 @@
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:01:29 +0000",
       "Completed Root": "2025-05-02 04:01:29 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000"
     },
     "done": false
   },
@@ -338,6 +343,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2025-05-02 04:14:02 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/gravel": {
     "criteria": {
       "Completed Root": "2025-05-02 04:01:29 +0000"
@@ -419,9 +430,10 @@
   },
   "sf4:age1/cobblestone": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:01:29 +0000"
+      "Completed Root": "2025-05-02 04:01:29 +0000",
+      "Obtain Cobblestone Block": "2025-05-02 04:14:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/gold": {
     "criteria": {
