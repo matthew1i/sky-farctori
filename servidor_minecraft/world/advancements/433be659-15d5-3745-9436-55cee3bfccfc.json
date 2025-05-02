@@ -46,6 +46,7 @@
       "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
       "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
+      "Completed Stop Slabbing Yourself§r": "2025-05-02 20:25:35 +0000",
       "Completed Clay Aiken§r": "2025-05-02 06:21:41 +0000"
     },
     "done": false
@@ -162,9 +163,10 @@
   },
   "sf4:age1/slabs": {
     "criteria": {
+      "Obtain Chest Slab": "2025-05-02 20:25:35 +0000",
       "Completed Root": "2025-05-02 05:16:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/lavasource": {
     "criteria": {
@@ -242,6 +244,7 @@
       "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
       "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
+      "Completed Stop Slabbing Yourself§r": "2025-05-02 20:25:35 +0000",
       "Completed Clay Aiken§r": "2025-05-02 06:21:41 +0000"
     },
     "done": false
@@ -264,6 +267,12 @@
       "inventoryChange": "2025-05-02 05:16:31 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/slabs": {
+    "criteria": {
+      "Obtain Chest Slab": "2025-05-02 20:25:35 +0000"
+    },
+    "done": false
   },
   "tutorial:tutorial/copied/claysapling": {
     "criteria": {
