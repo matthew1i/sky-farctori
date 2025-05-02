@@ -16,12 +16,15 @@
     "criteria": {
       "Completed Tin Man§r": "2025-05-02 09:11:38 +0000",
       "Completed Air Fryer§r": "2025-05-02 05:36:04 +0000",
+      "Completed Silver Spoon§r": "2025-05-02 23:23:00 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-05-02 05:22:33 +0000",
       "Completed Sticky Keys§r": "2025-05-02 05:26:56 +0000",
       "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:27 +0000",
       "Completed Stone Crook§r": "2025-05-02 06:48:55 +0000",
       "Completed Water You Waiting For?§r": "2025-05-02 06:14:04 +0000",
+      "Completed Silver Surfer§r": "2025-05-02 23:21:10 +0000",
       "Completed Break a Leg§r": "2025-05-02 07:04:44 +0000",
+      "Completed This Tree is Forever§r": "2025-05-02 23:28:02 +0000",
       "Completed Blue Man Group§r": "2025-05-02 08:26:14 +0000",
       "Completed I Love Lucy§r": "2025-05-02 05:38:24 +0000",
       "Completed Hotbois§r": "2025-05-02 06:25:37 +0000",
@@ -32,6 +35,7 @@
       "Completed Cobble Cobble§r": "2025-05-02 10:04:01 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:30 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 06:48:02 +0000",
+      "Completed It\u0027s Electric§r": "2025-05-02 23:24:37 +0000",
       "Completed Dirty Dancing§r": "2025-05-02 05:28:32 +0000",
       "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 06:54:38 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 05:16:57 +0000",
@@ -104,9 +108,10 @@
   },
   "sf4:age1/sapling/redstone": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Redstone Sapling": "2025-05-02 23:24:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "compactmachines:test/3x3x3": {
     "criteria": {
@@ -231,13 +236,16 @@
     "criteria": {
       "Completed Tin Man§r": "2025-05-02 09:11:38 +0000",
       "Completed Air Fryer§r": "2025-05-02 05:36:04 +0000",
+      "Completed Silver Spoon§r": "2025-05-02 23:23:00 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-05-02 05:22:33 +0000",
       "Completed Sticky Keys§r": "2025-05-02 05:26:56 +0000",
       "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:27 +0000",
       "Completed Stone Crook§r": "2025-05-02 06:48:55 +0000",
       "Completed Water You Waiting For?§r": "2025-05-02 06:14:04 +0000",
+      "Completed Silver Surfer§r": "2025-05-02 23:21:10 +0000",
       "Completed Break a Leg§r": "2025-05-02 07:04:44 +0000",
+      "Completed This Tree is Forever§r": "2025-05-02 23:28:02 +0000",
       "Completed Blue Man Group§r": "2025-05-02 08:26:14 +0000",
       "Completed I Love Lucy§r": "2025-05-02 05:38:24 +0000",
       "Completed Hotbois§r": "2025-05-02 06:25:37 +0000",
@@ -248,6 +256,7 @@
       "Completed Cobble Cobble§r": "2025-05-02 10:04:01 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:30 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 06:48:02 +0000",
+      "Completed It\u0027s Electric§r": "2025-05-02 23:24:37 +0000",
       "Completed Dirty Dancing§r": "2025-05-02 05:28:32 +0000",
       "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 06:54:38 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 05:16:57 +0000",
@@ -316,9 +325,10 @@
   },
   "sf4:age1/sapling/diamond": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Diamond Sapling": "2025-05-02 23:28:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/watersource": {
     "criteria": {
@@ -424,9 +434,10 @@
   },
   "sf4:age1/sapling/silver": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Silver Sapling": "2025-05-02 23:23:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_power/completenoprestige": {
     "criteria": {
@@ -553,9 +564,10 @@
   },
   "sf4:age1/amber/silver": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Silver Amber": "2025-05-02 23:21:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/toolstation": {
     "criteria": {
@@ -599,7 +611,9 @@
     "criteria": {
       "Obtain Dirt Sapling": "2025-05-02 05:22:33 +0000",
       "Obtain Lead Sapling": "2025-05-02 08:42:59 +0000",
+      "Obtain Silver Sapling": "2025-05-02 23:23:00 +0000",
       "Obtain Coal Sapling": "2025-05-02 06:21:02 +0000",
+      "Obtain Diamond Sapling": "2025-05-02 23:28:02 +0000",
       "Obtain Cottonwood Sapling": "2025-05-02 06:16:27 +0000",
       "Obtain Lapis Sapling": "2025-05-02 08:26:14 +0000",
       "Obtain Petrified Sapling": "2025-05-02 05:44:39 +0000",
@@ -607,6 +621,7 @@
       "Obtain Iron Sapling": "2025-05-02 08:17:58 +0000",
       "Obtain Sand Sapling": "2025-05-02 06:19:46 +0000",
       "Obtain Gold Sapling": "2025-05-02 09:19:09 +0000",
+      "Obtain Redstone Sapling": "2025-05-02 23:24:37 +0000",
       "Obtain Clay Sapling": "2025-05-02 05:57:32 +0000",
       "Obtain Gravel Sapling": "2025-05-02 05:48:35 +0000",
       "Obtain Bone Sapling": "2025-05-02 07:04:44 +0000"
@@ -784,6 +799,12 @@
       "Obtain 8 Oak Logs": "2025-05-02 05:26:32 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/diamondsapling": {
+    "criteria": {
+      "Obtain Diamond Sapling": "2025-05-02 23:28:02 +0000"
+    },
+    "done": false
   },
   "tutorial:tutorial/copied/string": {
     "criteria": {
