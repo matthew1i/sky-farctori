@@ -7112,3 +7112,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
 [21:09:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
 [21:09:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[21:39:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[21:39:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[21:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[21:39:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[21:39:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
