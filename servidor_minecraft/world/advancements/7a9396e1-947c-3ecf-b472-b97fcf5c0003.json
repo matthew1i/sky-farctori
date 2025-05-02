@@ -40,7 +40,8 @@
       "Completed Root": "2025-05-02 04:07:47 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
-      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000"
+      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:38:57 +0000"
     },
     "done": false
   },
@@ -64,9 +65,10 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:07:47 +0000"
+      "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Obtain Iron Ingot": "2025-05-02 04:38:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
@@ -259,7 +261,8 @@
       "Completed Root": "2025-05-02 04:07:47 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
-      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000"
+      "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:38:57 +0000"
     },
     "done": false
   },
@@ -466,6 +469,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-05-02 04:38:57 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/gold": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
@@ -488,6 +497,7 @@
   "sf4:age1/sapling": {
     "criteria": {
       "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
+      "Has Sapling": "2025-05-02 04:39:41 +0000",
       "Completed Root": "2025-05-02 04:07:47 +0000"
     },
     "done": false

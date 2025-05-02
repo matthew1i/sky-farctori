@@ -41,6 +41,7 @@
       "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
       "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:32:45 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 04:28:32 +0000"
     },
     "done": false
@@ -65,9 +66,10 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:01:29 +0000"
+      "Completed Root": "2025-05-02 04:01:29 +0000",
+      "Obtain Iron Ingot": "2025-05-02 04:32:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
@@ -274,6 +276,7 @@
       "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
       "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:32:45 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 04:28:32 +0000"
     },
     "done": false
@@ -475,6 +478,12 @@
       "Obtain Cobblestone Block": "2025-05-02 04:14:02 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-05-02 04:32:45 +0000"
+    },
+    "done": false
   },
   "sf4:age1/sapling/gold": {
     "criteria": {
