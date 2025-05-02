@@ -8772,3 +8772,41 @@ Pos: BlockPos{x=-62, y=30, z=125}
 Block: minecraft:stone[variant=stone]
 Tool: 1xitem.pickaxeIron@250
 Pos: BlockPos{x=-62, y=30, z=126}
+[05:01:04] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[05:01:04] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[05:01:06] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:01:07] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[05:01:07] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[05:01:07] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=36, y=11, z=147}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=36, y=12, z=147}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=34, y=11, z=147}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=34, y=12, z=147}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=34, y=11, z=148}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=34, y=12, z=148}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=35, y=11, z=148}
+[05:06:35] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: minecraft:coal_ore
+Tool: 1xitem.pickaxeIron@250
+Pos: BlockPos{x=35, y=12, z=148}
