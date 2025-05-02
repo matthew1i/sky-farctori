@@ -798,6 +798,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/market": {
+    "criteria": {
+      "Obtain Market": "2025-05-02 23:16:13 +0000"
+    },
+    "done": true
+  },
   "hardcore:hardcore/survive": {
     "criteria": {
       "Get killed": "2025-05-02 05:17:57 +0000"
@@ -815,7 +821,8 @@
     "criteria": {
       "Completed Bonsai!!!§r": "2025-05-02 06:51:18 +0000",
       "Completed Shredded Wheat§r": "2025-05-02 09:15:53 +0000",
-      "Completed Age of Farming§r": "2025-05-02 05:16:57 +0000"
+      "Completed Age of Farming§r": "2025-05-02 05:16:57 +0000",
+      "Completed This Little Piggy§r": "2025-05-02 23:16:13 +0000"
     },
     "done": false
   },
@@ -871,6 +878,7 @@
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
       "Completed Shredded Wheat§r": "2025-05-02 09:15:53 +0000",
       "Completed Fertile Soil§r": "2025-05-02 06:51:20 +0000",
+      "Completed This Little Piggy§r": "2025-05-02 23:16:13 +0000",
       "Completed Bonsai!!!§r": "2025-05-02 06:51:18 +0000",
       "Completed Age of Farming§r": "2025-05-02 05:16:57 +0000"
     },
