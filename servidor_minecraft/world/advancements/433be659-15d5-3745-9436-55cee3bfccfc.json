@@ -206,6 +206,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/wheatseeds": {
+    "criteria": {
+      "Obtain Wheat Seeds": "2025-05-02 04:42:10 +0000"
+    },
+    "done": true
+  },
   "sf4:age_storage/root": {
     "criteria": {
       "inventoryChange": "2025-05-02 04:01:28 +0000"
@@ -411,6 +417,12 @@
     },
     "done": false
   },
+  "hardcore:hardcore/survive": {
+    "criteria": {
+      "Get killed": "2025-05-02 04:42:34 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/clay_bucket": {
     "criteria": {
       "Completed Root": "2025-05-02 04:01:29 +0000"
@@ -419,6 +431,7 @@
   },
   "sf4:age_farming/complete": {
     "criteria": {
+      "Completed Shredded Wheat§r": "2025-05-02 04:42:10 +0000",
       "Completed Age of Farming§r": "2025-05-02 04:01:28 +0000"
     },
     "done": false
@@ -521,6 +534,7 @@
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:01:29 +0000",
+      "Completed Shredded Wheat§r": "2025-05-02 04:42:10 +0000",
       "Completed Age of Farming§r": "2025-05-02 04:01:28 +0000"
     },
     "done": false

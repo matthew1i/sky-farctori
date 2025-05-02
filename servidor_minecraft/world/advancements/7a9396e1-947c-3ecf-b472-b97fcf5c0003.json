@@ -37,7 +37,10 @@
   },
   "sf4:age1/complete": {
     "criteria": {
+      "Completed Water You Waiting For?§r": "2025-05-02 04:48:33 +0000",
       "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-02 04:51:20 +0000",
+      "Completed Not a Helmet§r": "2025-05-02 04:48:21 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
       "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000",
@@ -85,9 +88,10 @@
   },
   "sf4:age1/iron_bucket": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:07:47 +0000"
+      "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Obtain Iron Bucket": "2025-05-02 04:48:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/slime": {
     "criteria": {
@@ -156,6 +160,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/water": {
+    "criteria": {
+      "Obtain Water in an Iron Bucket": "2025-05-02 04:48:33 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/lapis": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
@@ -193,6 +203,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/wheatseeds": {
+    "criteria": {
+      "Obtain Wheat Seeds": "2025-05-02 04:40:15 +0000"
+    },
+    "done": true
+  },
   "sf4:age_storage/root": {
     "criteria": {
       "inventoryChange": "2025-05-02 04:07:46 +0000"
@@ -201,9 +217,10 @@
   },
   "sf4:age1/diamond": {
     "criteria": {
+      "Obtain Diamond": "2025-05-02 04:51:20 +0000",
       "Completed Root": "2025-05-02 04:07:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/obsidian": {
     "criteria": {
@@ -258,7 +275,10 @@
   "sf4:age1/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:07:47 +0000",
+      "Completed Water You Waiting For?§r": "2025-05-02 04:48:33 +0000",
       "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-02 04:51:20 +0000",
+      "Completed Not a Helmet§r": "2025-05-02 04:48:21 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:07:47 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:13:19 +0000",
       "Completed COALateral Damage§r": "2025-05-02 04:14:14 +0000",
@@ -330,9 +350,10 @@
   },
   "sf4:age1/water": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:07:47 +0000"
+      "Completed Root": "2025-05-02 04:07:47 +0000",
+      "Obtain Water in an Iron Bucket": "2025-05-02 04:48:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/acorn/dirt_cooked": {
     "criteria": {
@@ -350,6 +371,12 @@
   "sf4:age1/twerk": {
     "criteria": {
       "Completed Root": "2025-05-02 04:07:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/diamond": {
+    "criteria": {
+      "Obtain Diamond": "2025-05-02 04:51:20 +0000"
     },
     "done": false
   },
@@ -409,6 +436,7 @@
   },
   "sf4:age_farming/complete": {
     "criteria": {
+      "Completed Shredded Wheat§r": "2025-05-02 04:40:15 +0000",
       "Completed Age of Farming§r": "2025-05-02 04:07:46 +0000"
     },
     "done": false
@@ -469,6 +497,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/ironbucket": {
+    "criteria": {
+      "Obtain Iron Bucket": "2025-05-02 04:48:21 +0000"
+    },
+    "done": false
+  },
   "tutorial:tutorial/copied/ironingot": {
     "criteria": {
       "Obtain Iron Ingot": "2025-05-02 04:38:57 +0000"
@@ -511,6 +545,7 @@
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:07:47 +0000",
+      "Completed Shredded Wheat§r": "2025-05-02 04:40:15 +0000",
       "Completed Age of Farming§r": "2025-05-02 04:07:46 +0000"
     },
     "done": false

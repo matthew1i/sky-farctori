@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/oakplanks": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2025-05-02 04:40:54 +0000"
+    },
+    "done": false
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 04:38:12 +0000"
@@ -32,7 +38,10 @@
   "sf4:age1/complete": {
     "criteria": {
       "Completed Root": "2025-05-02 04:38:12 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:38:12 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:38:12 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:43:06 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:44:15 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:51:39 +0000"
     },
     "done": false
   },
@@ -56,9 +65,10 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:38:12 +0000"
+      "Completed Root": "2025-05-02 04:38:12 +0000",
+      "Obtain Iron Ingot": "2025-05-02 04:51:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
@@ -160,9 +170,10 @@
   },
   "sf4:age1/coal": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:38:12 +0000"
+      "Completed Root": "2025-05-02 04:38:12 +0000",
+      "Obtain Coal": "2025-05-02 04:44:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/complete": {
     "criteria": {
@@ -248,7 +259,10 @@
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 04:38:12 +0000",
       "Completed Root": "2025-05-02 04:38:12 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 04:38:12 +0000"
+      "Completed SkyFactory 4§r": "2025-05-02 04:38:12 +0000",
+      "Completed On the Rocks§r": "2025-05-02 04:43:06 +0000",
+      "Completed COALateral Damage§r": "2025-05-02 04:44:15 +0000",
+      "Completed Oh, the Irony§r": "2025-05-02 04:51:39 +0000"
     },
     "done": false
   },
@@ -335,7 +349,8 @@
   },
   "sf4:age1/twerk": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:38:12 +0000"
+      "Completed Root": "2025-05-02 04:38:12 +0000",
+      "Obtain 8 Oak Logs": "2025-05-02 04:44:02 +0000"
     },
     "done": false
   },
@@ -348,6 +363,12 @@
   "sf4:age1/cobblestone_generator": {
     "criteria": {
       "Completed Root": "2025-05-02 04:38:12 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2025-05-02 04:43:06 +0000"
     },
     "done": false
   },
@@ -393,6 +414,12 @@
     },
     "done": false
   },
+  "pacifist:pacifist_run/lose": {
+    "criteria": {
+      "killed poor innocent creature": "2025-05-02 04:40:39 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/amber/iron": {
     "criteria": {
       "Completed Root": "2025-05-02 04:38:12 +0000"
@@ -432,7 +459,14 @@
   },
   "sf4:age1/cobblestone": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:38:12 +0000"
+      "Completed Root": "2025-05-02 04:38:12 +0000",
+      "Obtain Cobblestone Block": "2025-05-02 04:43:06 +0000"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-05-02 04:51:39 +0000"
     },
     "done": false
   },
@@ -458,6 +492,7 @@
   "sf4:age1/sapling": {
     "criteria": {
       "Completed SkyFactory 4§r": "2025-05-02 04:38:12 +0000",
+      "Has Sapling": "2025-05-02 04:41:56 +0000",
       "Completed Root": "2025-05-02 04:38:12 +0000"
     },
     "done": false
