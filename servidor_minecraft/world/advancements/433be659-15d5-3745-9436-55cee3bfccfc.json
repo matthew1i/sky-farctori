@@ -1,4 +1,10 @@
 {
+  "tutorial:tutorial/oakwood": {
+    "criteria": {
+      "Obtain Oak Wood": "2025-05-02 04:22:16 +0000"
+    },
+    "done": false
+  },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 04:01:28 +0000"
@@ -17,6 +23,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/oakplanks": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2025-05-02 04:25:30 +0000"
+    },
+    "done": false
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 04:01:28 +0000"
@@ -28,7 +40,8 @@
       "Completed Root": "2025-05-02 04:01:29 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
-      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000"
+      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000",
+      "Completed Sixteen Tons§r": "2025-05-02 04:28:32 +0000"
     },
     "done": false
   },
@@ -136,6 +149,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/skyorchards": {
+    "criteria": {
+      "Obtain Coal Sapling": "2025-05-02 04:28:32 +0000"
+    },
+    "done": false
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 04:01:28 +0000"
@@ -172,6 +191,12 @@
       "inventoryChange": "2025-05-02 04:01:28 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/coalsapling": {
+    "criteria": {
+      "Obtain Coal Sapling": "2025-05-02 04:28:32 +0000"
+    },
+    "done": false
   },
   "sf4:age1/slabs": {
     "criteria": {
@@ -218,9 +243,10 @@
   },
   "sf4:age1/sapling/coal": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:01:29 +0000"
+      "Completed Root": "2025-05-02 04:01:29 +0000",
+      "Obtain Coal Sapling": "2025-05-02 04:28:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
@@ -247,7 +273,8 @@
       "Completed Root": "2025-05-02 04:01:29 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
       "Completed On the Rocks§r": "2025-05-02 04:14:02 +0000",
-      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000"
+      "Completed COALateral Damage§r": "2025-05-02 04:15:10 +0000",
+      "Completed Sixteen Tons§r": "2025-05-02 04:28:32 +0000"
     },
     "done": false
   },
@@ -294,6 +321,13 @@
     },
     "done": false
   },
+  "pacifist:pacifist_run/peaceful": {
+    "criteria": {
+      "brokeLeaves": "2025-05-02 04:22:08 +0000",
+      "brokeLog": "2025-05-02 04:22:12 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/lead": {
     "criteria": {
       "Completed Root": "2025-05-02 04:01:29 +0000"
@@ -327,7 +361,8 @@
   },
   "sf4:age1/twerk": {
     "criteria": {
-      "Completed Root": "2025-05-02 04:01:29 +0000"
+      "Completed Root": "2025-05-02 04:01:29 +0000",
+      "Obtain 8 Oak Logs": "2025-05-02 04:25:20 +0000"
     },
     "done": false
   },
@@ -388,6 +423,12 @@
   "sf4:age1/lava": {
     "criteria": {
       "Completed Root": "2025-05-02 04:01:29 +0000"
+    },
+    "done": false
+  },
+  "pacifist:pacifist_run/lose": {
+    "criteria": {
+      "killed poor innocent creature": "2025-05-02 04:26:10 +0000"
     },
     "done": false
   },
@@ -457,6 +498,7 @@
   "sf4:age1/sapling": {
     "criteria": {
       "Completed SkyFactory 4§r": "2025-05-02 04:01:29 +0000",
+      "Has Sapling": "2025-05-02 04:23:40 +0000",
       "Completed Root": "2025-05-02 04:01:29 +0000"
     },
     "done": false
