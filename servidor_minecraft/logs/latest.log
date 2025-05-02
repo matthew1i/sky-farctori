@@ -7131,3 +7131,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [22:06:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Pilin moved wrongly!
 [22:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz was shot by Skeleton
 [22:07:02] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[22:09:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[22:09:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[22:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[22:09:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[22:09:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[22:12:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]

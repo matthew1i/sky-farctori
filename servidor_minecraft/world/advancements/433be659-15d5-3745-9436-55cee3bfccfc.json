@@ -460,6 +460,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "cast": "2025-05-02 22:13:56 +0000"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 05:16:31 +0000"
