@@ -31,6 +31,7 @@
       "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
+      "Completed It\u0027s Electric§r": "2025-05-02 22:43:43 +0000",
       "Completed Dirty Dancing§r": "2025-05-02 05:23:03 +0000",
       "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 07:16:12 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
@@ -100,9 +101,10 @@
   },
   "sf4:age1/sapling/redstone": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
+      "Completed Root": "2025-05-02 05:16:31 +0000",
+      "Obtain Redstone Sapling": "2025-05-02 22:43:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/bdsandmupgrade2": {
     "criteria": {
@@ -243,6 +245,7 @@
       "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
+      "Completed It\u0027s Electric§r": "2025-05-02 22:43:43 +0000",
       "Completed Dirty Dancing§r": "2025-05-02 05:23:03 +0000",
       "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 07:16:12 +0000",
       "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
@@ -608,6 +611,7 @@
       "Obtain Iron Sapling": "2025-05-02 08:18:39 +0000",
       "Obtain Sand Sapling": "2025-05-02 06:58:43 +0000",
       "Obtain Gold Sapling": "2025-05-02 22:30:12 +0000",
+      "Obtain Redstone Sapling": "2025-05-02 22:43:43 +0000",
       "Obtain Clay Sapling": "2025-05-02 06:21:41 +0000",
       "Obtain Gravel Sapling": "2025-05-02 05:49:44 +0000",
       "Obtain Bone Sapling": "2025-05-02 06:06:17 +0000"
