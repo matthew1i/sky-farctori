@@ -234,7 +234,8 @@
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
-      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000"
+      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
+      "Completed An Enchanting Evening§r": "2025-05-03 00:33:14 +0000"
     },
     "done": false
   },
@@ -775,6 +776,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/enchantmenttable": {
+    "criteria": {
+      "Obtain Enchantment Table": "2025-05-03 00:33:14 +0000"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/complete": {
     "criteria": {
       "Completed Tim the Tool Man Taylor§r": "2025-05-02 07:47:56 +0000",
@@ -784,7 +791,8 @@
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
-      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000"
+      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
+      "Completed An Enchanting Evening§r": "2025-05-03 00:33:14 +0000"
     },
     "done": false
   },
