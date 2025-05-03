@@ -225,3 +225,13 @@ Pos: BlockPos{x=-27, y=71, z=-3}
 [02:56:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zxymatthewyxz moved too quickly! 0.0,333.73428619243543,0.0
 [02:57:20] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@5a54c363)
 [02:58:49] [Server thread/INFO] [FML]: Unloading dimension 7
+[03:08:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pilin lost connection: Disconnected
+[03:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin left the game
+[03:09:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[03:09:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[03:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[03:09:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-52.zip.
+[03:09:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[03:09:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[03:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Set own game mode to Creative Mode]
