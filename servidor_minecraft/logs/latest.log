@@ -209,3 +209,12 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [02:14:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.viesis.viescraft.common.entity.airships.EntityAirshipBaseVC from class com.viesis.viescraft.common.entity.airships.EntityBaseVC
 [02:14:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.viesis.viescraft.common.entity.airships.EntityAirshipBaseVC from class com.viesis.viescraft.common.entity.airships.EntityBaseVC
 [02:19:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [This Tree is Forever]
+[02:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]
+[02:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]
+[02:39:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[02:39:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[02:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[02:39:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-49.zip.
+[02:39:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[02:39:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!

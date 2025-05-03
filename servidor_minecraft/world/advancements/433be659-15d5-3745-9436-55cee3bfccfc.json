@@ -21,6 +21,7 @@
       "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:51 +0000",
       "Completed Water You Waiting For?§r": "2025-05-02 08:56:37 +0000",
       "Completed Break a Leg§r": "2025-05-02 06:06:17 +0000",
+      "Completed This Tree is Forever§r": "2025-05-03 02:19:12 +0000",
       "Completed Blue Man Group§r": "2025-05-02 08:29:50 +0000",
       "Completed I Love Lucy§r": "2025-05-02 05:42:11 +0000",
       "Completed Hotbois§r": "2025-05-02 07:56:16 +0000",
@@ -267,6 +268,7 @@
       "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:51 +0000",
       "Completed Water You Waiting For?§r": "2025-05-02 08:56:37 +0000",
       "Completed Break a Leg§r": "2025-05-02 06:06:17 +0000",
+      "Completed This Tree is Forever§r": "2025-05-03 02:19:12 +0000",
       "Completed Blue Man Group§r": "2025-05-02 08:29:50 +0000",
       "Completed I Love Lucy§r": "2025-05-02 05:42:11 +0000",
       "Completed Hotbois§r": "2025-05-02 07:56:16 +0000",
@@ -356,9 +358,10 @@
   },
   "sf4:age1/sapling/diamond": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
+      "Completed Root": "2025-05-02 05:16:31 +0000",
+      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/watersource": {
     "criteria": {
@@ -657,6 +660,7 @@
       "Obtain Dirt Sapling": "2025-05-02 05:22:11 +0000",
       "Obtain Lead Sapling": "2025-05-02 09:25:46 +0000",
       "Obtain Coal Sapling": "2025-05-02 07:16:41 +0000",
+      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000",
       "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
       "Obtain Lapis Sapling": "2025-05-02 08:29:50 +0000",
       "Obtain Petrified Sapling": "2025-05-02 05:45:47 +0000",
@@ -743,7 +747,8 @@
   },
   "tutorial:tutorial/copied/lava": {
     "criteria": {
-      "Obtain Lava Clay Bucket": "2025-05-02 07:56:16 +0000"
+      "Obtain Lava Clay Bucket": "2025-05-02 07:56:16 +0000",
+      "Obtain Lava Iron Bucket": "2025-05-03 02:26:06 +0000"
     },
     "done": false
   },
@@ -860,6 +865,12 @@
       "Obtain 8 Oak Logs": "2025-05-02 05:46:00 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/diamondsapling": {
+    "criteria": {
+      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000"
+    },
+    "done": false
   },
   "tutorial:tutorial/copied/diamond": {
     "criteria": {
