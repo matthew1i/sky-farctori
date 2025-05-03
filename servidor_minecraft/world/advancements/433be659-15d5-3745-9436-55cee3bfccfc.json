@@ -205,6 +205,12 @@
     },
     "done": true
   },
+  "sf4:age_exploration/nether": {
+    "criteria": {
+      "Entered Nether": "2025-05-03 01:01:44 +0000"
+    },
+    "done": true
+  },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000"
@@ -287,6 +293,8 @@
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000",
+      "Completed Nether Here Nor There§r": "2025-05-03 01:01:44 +0000",
+      "Completed No Cake Like Home§r": "2025-05-03 01:01:44 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000"
     },
     "done": false
@@ -519,9 +527,17 @@
     },
     "done": true
   },
+  "sf4:age_exploration/overworldcake": {
+    "criteria": {
+      "Obtain Overworld Cake": "2025-05-03 01:01:44 +0000"
+    },
+    "done": true
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000"
+      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000",
+      "Completed Nether Here Nor There§r": "2025-05-03 01:01:44 +0000",
+      "Completed No Cake Like Home§r": "2025-05-03 01:01:44 +0000"
     },
     "done": false
   },
@@ -859,6 +875,12 @@
       "Completed Root": "2025-05-02 05:16:31 +0000"
     },
     "done": true
+  },
+  "sf4:age_exploration/dragonkill": {
+    "criteria": {
+      "Enter Custom End Dimension": "2025-05-03 01:01:44 +0000"
+    },
+    "done": false
   },
   "compactmachines:test/5x5x52": {
     "criteria": {
