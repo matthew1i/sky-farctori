@@ -193,3 +193,12 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [01:52:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [You're Boron Me]
 [01:52:43] [Server thread/INFO] [FML]: Unloading dimension 7
 [01:53:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Go, Go, Building Gadget]
+[02:00:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Pilin moved too quickly! 0.0,333.0086705593279,0.0
+[02:03:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zxymatthewyxz moved too quickly! 0.0,333.8913064400799,0.0
+[02:09:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[02:09:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[02:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[02:09:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-46.zip.
+[02:09:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[02:09:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
