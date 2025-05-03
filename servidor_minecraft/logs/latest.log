@@ -1,2 +1,13 @@
 [00:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]
 [00:02:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zxymatthewyxz moved wrongly!
+[00:09:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[00:09:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[00:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[00:09:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[00:09:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[00:10:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Axe Me Anything]
+[00:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Chargin' Mah Lazer!]
+[00:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]
+[00:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Charger 2: Electric Boogaloo]
+[00:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [I Don't Know]

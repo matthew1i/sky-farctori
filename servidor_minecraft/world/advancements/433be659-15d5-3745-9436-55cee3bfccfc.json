@@ -428,8 +428,10 @@
   },
   "sf4:age_power/completenoprestige": {
     "criteria": {
+      "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000"
+      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
     "done": false
   },
@@ -761,6 +763,18 @@
     },
     "done": false
   },
+  "sf4:age_power/charger1": {
+    "criteria": {
+      "Obtain Tier 1 Charger": "2025-05-03 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_power/charger2": {
+    "criteria": {
+      "Obtain Tier 2 Charger": "2025-05-03 00:16:50 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/water": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:31 +0000",
@@ -791,7 +805,9 @@
   },
   "sf4:age_power/complete": {
     "criteria": {
-      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000"
+      "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
+      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
     "done": false
   },

@@ -55,7 +55,8 @@
       "Completed Ironwood§r": "2025-05-02 08:17:58 +0000",
       "Completed Hardwood§r": "2025-05-02 05:44:39 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 06:21:02 +0000",
-      "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000"
+      "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000",
+      "Completed I Don\u0027t Know§r": "2025-05-03 00:17:15 +0000"
     },
     "done": false
   },
@@ -75,9 +76,10 @@
   },
   "sf4:age1/sapling/slime": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Blue Slime Sapling": "2025-05-03 00:17:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/string": {
     "criteria": {
@@ -172,6 +174,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/slimesapling": {
+    "criteria": {
+      "Obtain Blue Slime Sapling": "2025-05-03 00:17:15 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/slabs": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000"
@@ -218,7 +226,8 @@
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000"
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
+      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000"
     },
     "done": false
   },
@@ -279,7 +288,8 @@
       "Completed Ironwood§r": "2025-05-02 08:17:58 +0000",
       "Completed Hardwood§r": "2025-05-02 05:44:39 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 06:21:02 +0000",
-      "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000"
+      "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000",
+      "Completed I Don\u0027t Know§r": "2025-05-03 00:17:15 +0000"
     },
     "done": false
   },
@@ -481,6 +491,12 @@
   "sf4:age_farming/hoppingbonsai": {
     "criteria": {
       "Obtain Bonsai Pot": "2025-05-02 23:37:43 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/lumberaxe": {
+    "criteria": {
+      "Obtain Tinkers\u0027 Lumber Axe": "2025-05-03 00:10:49 +0000"
     },
     "done": true
   },
@@ -758,7 +774,8 @@
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000"
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
+      "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000"
     },
     "done": false
   },
