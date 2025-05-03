@@ -218,3 +218,10 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [02:39:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-49.zip.
 [02:39:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
 [02:39:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[02:43:00] [Server thread/WARN] [oreexcavation]: Block harvest failed unexpectedly.
+Block: sky_orchards:log_emerald[axis=y]
+Tool: 1xitem.tconstruct.lumberaxe@216
+Pos: BlockPos{x=-27, y=71, z=-3}
+[02:56:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zxymatthewyxz moved too quickly! 0.0,333.73428619243543,0.0
+[02:57:20] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@5a54c363)
+[02:58:49] [Server thread/INFO] [FML]: Unloading dimension 7
