@@ -28,6 +28,7 @@
       "Completed Root": "2025-05-02 05:16:31 +0000",
       "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:41 +0000",
       "Completed Captain Hook§r": "2025-05-02 05:45:29 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-03 00:20:28 +0000",
       "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
@@ -242,6 +243,7 @@
       "Completed Root": "2025-05-02 05:16:31 +0000",
       "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:41 +0000",
       "Completed Captain Hook§r": "2025-05-02 05:45:29 +0000",
+      "Completed Trees to Diamonds§r": "2025-05-03 00:20:28 +0000",
       "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
       "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
       "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
@@ -430,6 +432,7 @@
     "criteria": {
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
+      "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
@@ -677,9 +680,10 @@
   },
   "sf4:age1/diamond": {
     "criteria": {
+      "Obtain Diamond": "2025-05-03 00:20:28 +0000",
       "Completed Root": "2025-05-02 05:16:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/obsidian": {
     "criteria": {
@@ -756,6 +760,12 @@
     },
     "done": true
   },
+  "sf4:age_power/charger3": {
+    "criteria": {
+      "Obtain Tier 3 Charger": "2025-05-03 00:20:51 +0000"
+    },
+    "done": true
+  },
   "pacifist:pacifist_run/peaceful": {
     "criteria": {
       "brokeLeaves": "2025-05-02 05:16:53 +0000",
@@ -796,6 +806,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/diamond": {
+    "criteria": {
+      "Obtain Diamond": "2025-05-03 00:20:28 +0000"
+    },
+    "done": false
+  },
   "tutorial:tutorial/copied/string": {
     "criteria": {
       "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
@@ -806,6 +822,7 @@
   "sf4:age_power/complete": {
     "criteria": {
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
+      "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },

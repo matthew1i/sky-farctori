@@ -12,6 +12,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/greenslimydirt": {
+    "criteria": {
+      "Obtain Green Slime Dirt": "2025-05-03 00:24:30 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/complete": {
     "criteria": {
       "Completed Tin Man§r": "2025-05-02 09:11:38 +0000",
@@ -56,6 +62,7 @@
       "Completed Hardwood§r": "2025-05-02 05:44:39 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 06:21:02 +0000",
       "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000",
+      "Completed I\u0027ve Been Slimed§r": "2025-05-03 00:24:30 +0000",
       "Completed I Don\u0027t Know§r": "2025-05-03 00:17:15 +0000"
     },
     "done": false
@@ -289,6 +296,7 @@
       "Completed Hardwood§r": "2025-05-02 05:44:39 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 06:21:02 +0000",
       "Completed Clay Aiken§r": "2025-05-02 05:57:32 +0000",
+      "Completed I\u0027ve Been Slimed§r": "2025-05-03 00:24:30 +0000",
       "Completed I Don\u0027t Know§r": "2025-05-03 00:17:15 +0000"
     },
     "done": false
@@ -572,9 +580,10 @@
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:57 +0000"
+      "Completed Root": "2025-05-02 05:16:57 +0000",
+      "Obtain Green Slime Dirt": "2025-05-03 00:24:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/tank": {
     "criteria": {
