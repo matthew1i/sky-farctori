@@ -198,6 +198,12 @@
     },
     "done": false
   },
+  "sf4:age_power/autopackager": {
+    "criteria": {
+      "Obtain Auto Packager": "2025-05-03 01:49:54 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/lavasource": {
     "criteria": {
       "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
@@ -461,10 +467,12 @@
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
       "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
+      "Completed Package Control§r": "2025-05-03 01:49:54 +0000",
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Need iiii Speed§r": "2025-05-03 01:43:40 +0000",
       "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Go, Go, Building Gadget§r": "2025-05-03 01:53:42 +0000",
       "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
@@ -870,10 +878,12 @@
     "criteria": {
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
       "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
+      "Completed Package Control§r": "2025-05-03 01:49:54 +0000",
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Need iiii Speed§r": "2025-05-03 01:43:40 +0000",
       "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Go, Go, Building Gadget§r": "2025-05-03 01:53:42 +0000",
       "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
@@ -978,6 +988,12 @@
   "sf4:age_allthethingsomglol/root": {
     "criteria": {
       "inventoryChange": "2025-05-02 05:16:31 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_power/buildinggadget": {
+    "criteria": {
+      "Obtain Building Gadget": "2025-05-03 01:53:42 +0000"
     },
     "done": true
   }

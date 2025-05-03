@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "sf4:age_exploration/tritaniumore": {
+    "criteria": {
+      "Obtain Ice Tritanium Ore": "2025-05-03 01:49:21 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/wooden_crook": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
@@ -342,7 +348,10 @@
       "Completed Nether Here Nor There§r": "2025-05-03 00:58:50 +0000",
       "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
-      "Completed Enter the Twilight§r": "2025-05-03 01:45:27 +0000"
+      "Completed You\u0027re Boron Me§r": "2025-05-03 01:52:11 +0000",
+      "Completed You\u0027re Tritanium to Bring Me Down§r": "2025-05-03 01:49:21 +0000",
+      "Completed Enter the Twilight§r": "2025-05-03 01:45:27 +0000",
+      "Completed Even Scotty Doesn\u0027t Know§r": "2025-05-03 01:51:16 +0000"
     },
     "done": false
   },
@@ -400,6 +409,12 @@
   "twilightforest:alt/entities/wolves": {
     "criteria": {
       "0": "2025-05-03 01:46:44 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/boronore": {
+    "criteria": {
+      "Obtain Boron Ore": "2025-05-03 01:52:11 +0000"
     },
     "done": true
   },
@@ -637,7 +652,10 @@
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 05:16:57 +0000",
       "Completed Nether Here Nor There§r": "2025-05-03 00:58:50 +0000",
-      "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000"
+      "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000",
+      "Completed You\u0027re Boron Me§r": "2025-05-03 01:52:11 +0000",
+      "Completed You\u0027re Tritanium to Bring Me Down§r": "2025-05-03 01:49:21 +0000",
+      "Completed Even Scotty Doesn\u0027t Know§r": "2025-05-03 01:51:16 +0000"
     },
     "done": false
   },
@@ -665,6 +683,12 @@
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
       "Obtain Green Slime Dirt": "2025-05-03 00:24:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wild_boar": {
+    "criteria": {
+      "slay": "2025-05-03 01:49:09 +0000"
     },
     "done": true
   },
@@ -730,6 +754,19 @@
       "Placed Dirt Sapling": "2025-05-02 05:23:18 +0000"
     },
     "done": false
+  },
+  "sf4:age_exploration/dilithiumore": {
+    "criteria": {
+      "Obtain Dilithium Crystals": "2025-05-03 01:51:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "5": "2025-05-03 01:49:09 +0000",
+      "6": "2025-05-03 01:49:09 +0000"
+    },
+    "done": true
   },
   "sf4:age1/amber/gold": {
     "criteria": {
