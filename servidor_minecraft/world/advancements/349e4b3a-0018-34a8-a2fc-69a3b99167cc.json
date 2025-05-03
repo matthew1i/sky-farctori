@@ -232,6 +232,7 @@
       "Completed Forging Ahead§r": "2025-05-02 23:05:01 +0000",
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
+      "Completed Ding!§r": "2025-05-03 00:44:00 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
       "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
@@ -716,6 +717,12 @@
     },
     "done": false
   },
+  "sf4:age_enhancement/levelup": {
+    "criteria": {
+      "Level Up Tinkers\u0027 Pickaxe": "2025-05-03 00:44:00 +0000"
+    },
+    "done": true
+  },
   "sf4:age_exploration/root": {
     "criteria": {
       "inventoryChange": "2025-05-02 05:16:57 +0000"
@@ -789,6 +796,7 @@
       "Completed Forging Ahead§r": "2025-05-02 23:05:01 +0000",
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
+      "Completed Ding!§r": "2025-05-03 00:44:00 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
       "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
