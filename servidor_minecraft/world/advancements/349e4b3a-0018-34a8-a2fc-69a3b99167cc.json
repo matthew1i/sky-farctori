@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/cast": {
+    "criteria": {
+      "Obtain Metal Pickaxe Head Cast": "2025-05-03 01:22:31 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/wooden_crook": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
@@ -239,15 +245,18 @@
   "sf4:age_enhancement/completenoprestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
+      "Completed Better With Mods§r": "2025-05-03 01:19:25 +0000",
       "Completed Tim the Tool Man Taylor§r": "2025-05-02 07:47:56 +0000",
       "Completed To Be ORe Not to Be§r": "2025-05-02 08:34:59 +0000",
       "Completed Forging Ahead§r": "2025-05-02 23:05:01 +0000",
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Ding!§r": "2025-05-03 00:44:00 +0000",
+      "Completed It\u0027s Over 20!§r": "2025-05-03 01:23:19 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
       "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
+      "Completed Sign My Cast§r": "2025-05-03 01:22:31 +0000",
       "Completed An Enchanting Evening§r": "2025-05-03 00:33:14 +0000"
     },
     "done": false
@@ -819,15 +828,18 @@
   },
   "sf4:age_enhancement/complete": {
     "criteria": {
+      "Completed Better With Mods§r": "2025-05-03 01:19:25 +0000",
       "Completed Tim the Tool Man Taylor§r": "2025-05-02 07:47:56 +0000",
       "Completed To Be ORe Not to Be§r": "2025-05-02 08:34:59 +0000",
       "Completed Forging Ahead§r": "2025-05-02 23:05:01 +0000",
       "Completed Keep It Between the Lines§r": "2025-05-02 07:45:40 +0000",
       "Completed Rolling into the Station§r": "2025-05-02 07:46:09 +0000",
       "Completed Ding!§r": "2025-05-03 00:44:00 +0000",
+      "Completed It\u0027s Over 20!§r": "2025-05-03 01:23:19 +0000",
       "Completed Age of Enhancement§r": "2025-05-02 05:16:57 +0000",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:35:35 +0000",
       "Completed Axe Me Anything§r": "2025-05-03 00:10:49 +0000",
+      "Completed Sign My Cast§r": "2025-05-03 01:22:31 +0000",
       "Completed An Enchanting Evening§r": "2025-05-03 00:33:14 +0000"
     },
     "done": false
@@ -837,6 +849,18 @@
       "Obtain Porcelain Melter": "2025-05-02 08:34:59 +0000"
     },
     "done": false
+  },
+  "sf4:age_enhancement/20damage": {
+    "criteria": {
+      "Deal 20 or More Damage": "2025-05-03 01:23:19 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/tconmodifier": {
+    "criteria": {
+      "Apply 1 Modifer": "2025-05-03 01:19:25 +0000"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/claybucket": {
     "criteria": {
@@ -883,6 +907,15 @@
   "sf4:age1/acorn/dirt_cooked": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_allthethingsomglol/modifiermaster": {
+    "criteria": {
+      "Diamond": "2025-05-03 01:26:46 +0000",
+      "Sharpness": "2025-05-03 01:19:25 +0000",
+      "Haste": "2025-05-03 01:27:14 +0000",
+      "Necrotic": "2025-05-03 01:20:06 +0000"
     },
     "done": false
   },
