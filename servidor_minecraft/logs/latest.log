@@ -70,3 +70,14 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [00:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Set the time to 733041 in dimension 0]
 [00:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Changing to clear weather]
 [00:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Set the time to 743549 in dimension 0]
+[00:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Tesla was Right!]
+[00:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Generator, I Hardly Know Her]
+[00:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Citizen Cane]
+[00:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [COALateral Damage]
+[00:58:49] [Server thread/INFO] [topography]: GenSettings: 
+[00:58:49] [Server thread/INFO] [topography]: Preset: Sky Factory 4
+[00:58:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a54c363)
+[00:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [No Cake Like Home]
+[00:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pilin: Given [Overworld Cake] * 1 to Pilin]
+[00:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Nether Here Nor There]
+[00:58:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)

@@ -47,6 +47,7 @@
       "Completed On the Rocks§r": "2025-05-02 05:53:37 +0000",
       "Completed Starting from the Bottom§r": "2025-05-02 05:21:55 +0000",
       "Completed Oh, the Irony§r": "2025-05-02 08:21:44 +0000",
+      "Completed COALateral Damage§r": "2025-05-03 00:57:06 +0000",
       "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
       "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
@@ -80,6 +81,12 @@
       "Completed Root": "2025-05-02 05:16:31 +0000",
       "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
       "Obtain String": "2025-05-02 06:18:05 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_power/wirelesscharger": {
+    "criteria": {
+      "Obtain Wireless Charger": "2025-05-03 00:49:33 +0000"
     },
     "done": true
   },
@@ -262,6 +269,7 @@
       "Completed On the Rocks§r": "2025-05-02 05:53:37 +0000",
       "Completed Starting from the Bottom§r": "2025-05-02 05:21:55 +0000",
       "Completed Oh, the Irony§r": "2025-05-02 08:21:44 +0000",
+      "Completed COALateral Damage§r": "2025-05-03 00:57:06 +0000",
       "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
       "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
       "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
@@ -432,7 +440,9 @@
     "criteria": {
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
+      "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
+      "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
@@ -650,9 +660,10 @@
   },
   "sf4:age1/coal": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
+      "Completed Root": "2025-05-02 05:16:31 +0000",
+      "Obtain Coal": "2025-05-03 00:57:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/copied/iron": {
     "criteria": {
@@ -740,6 +751,12 @@
     },
     "done": false
   },
+  "sf4:age_power/simplegenerator": {
+    "criteria": {
+      "Obtain Simple Combustion Generator": "2025-05-03 00:53:20 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/iron": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:31 +0000",
@@ -822,7 +839,9 @@
   "sf4:age_power/complete": {
     "criteria": {
       "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
+      "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
+      "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
@@ -840,6 +859,13 @@
       "Completed Root": "2025-05-02 05:16:31 +0000"
     },
     "done": true
+  },
+  "compactmachines:test/5x5x52": {
+    "criteria": {
+      "Craft Simple Fluid Combustion Generator": "2025-05-03 00:55:05 +0000",
+      "Craft Simple Combustion Generator": "2025-05-03 00:53:20 +0000"
+    },
+    "done": false
   },
   "sf4:age_farming/complete": {
     "criteria": {

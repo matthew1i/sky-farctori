@@ -504,6 +504,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/sugarcaneseed": {
+    "criteria": {
+      "Obtain Sugar Cane Seeds": "2025-05-03 00:53:21 +0000"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/lumberaxe": {
     "criteria": {
       "Obtain Tinkers\u0027 Lumber Axe": "2025-05-03 00:10:49 +0000"
@@ -913,6 +919,7 @@
   "sf4:age_farming/complete": {
     "criteria": {
       "Completed Bonsai!!!§r": "2025-05-02 06:51:18 +0000",
+      "Completed Citizen Cane§r": "2025-05-03 00:53:21 +0000",
       "Completed Shredded Wheat§r": "2025-05-02 09:15:53 +0000",
       "Completed Age of Farming§r": "2025-05-02 05:16:57 +0000",
       "Completed This Little Piggy§r": "2025-05-02 23:16:13 +0000"
@@ -970,6 +977,7 @@
     "criteria": {
       "Completed Cowabonsai!§r": "2025-05-02 23:37:43 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
+      "Completed Citizen Cane§r": "2025-05-03 00:53:21 +0000",
       "Completed Shredded Wheat§r": "2025-05-02 09:15:53 +0000",
       "Completed Fertile Soil§r": "2025-05-02 06:51:20 +0000",
       "Completed This Little Piggy§r": "2025-05-02 23:16:13 +0000",
