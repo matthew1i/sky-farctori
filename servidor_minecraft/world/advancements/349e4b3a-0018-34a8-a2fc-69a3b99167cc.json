@@ -345,6 +345,7 @@
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 05:16:57 +0000",
+      "Completed Come Fly With Me§r": "2025-05-03 02:13:57 +0000",
       "Completed Nether Here Nor There§r": "2025-05-03 00:58:50 +0000",
       "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000",
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
@@ -651,6 +652,7 @@
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-05-02 05:16:57 +0000",
+      "Completed Come Fly With Me§r": "2025-05-03 02:13:57 +0000",
       "Completed Nether Here Nor There§r": "2025-05-03 00:58:50 +0000",
       "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000",
       "Completed You\u0027re Boron Me§r": "2025-05-03 01:52:11 +0000",
@@ -1031,6 +1033,12 @@
       "Obtain Diamond Sapling": "2025-05-02 23:28:02 +0000"
     },
     "done": false
+  },
+  "sf4:age_exploration/viescraft": {
+    "criteria": {
+      "Obtain Airship": "2025-05-03 02:13:57 +0000"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/diamond": {
     "criteria": {
