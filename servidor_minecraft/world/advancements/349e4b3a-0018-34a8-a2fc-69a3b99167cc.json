@@ -130,6 +130,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2025-05-03 01:46:47 +0000"
+    },
+    "done": false
+  },
   "compactmachines:test/3x3x3": {
     "criteria": {
       "Obtain Grass Block": "2025-05-02 06:55:55 +0000"
@@ -335,7 +341,8 @@
       "Completed Age of Exploration§r": "2025-05-02 05:16:57 +0000",
       "Completed Nether Here Nor There§r": "2025-05-03 00:58:50 +0000",
       "Completed No Cake Like Home§r": "2025-05-03 00:58:50 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000"
+      "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",
+      "Completed Enter the Twilight§r": "2025-05-03 01:45:27 +0000"
     },
     "done": false
   },
@@ -383,6 +390,18 @@
       "Completed Root": "2025-05-02 05:16:57 +0000"
     },
     "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "0": "2025-05-03 01:45:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "0": "2025-05-03 01:46:44 +0000"
+    },
+    "done": true
   },
   "sf4:age_farming/animalseeds": {
     "criteria": {
@@ -486,6 +505,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2025-05-03 01:46:31 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/silver": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
@@ -521,6 +546,13 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_log": "2025-05-03 01:46:09 +0000",
+      "canopy_sapling": "2025-05-03 01:46:07 +0000"
+    },
+    "done": false
+  },
   "sf4:age_farming/hoppingbonsai": {
     "criteria": {
       "Obtain Bonsai Pot": "2025-05-02 23:37:43 +0000"
@@ -530,6 +562,12 @@
   "sf4:age_farming/sugarcaneseed": {
     "criteria": {
       "Obtain Sugar Cane Seeds": "2025-05-03 00:53:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/swarm_spider": {
+    "criteria": {
+      "slay": "2025-05-03 01:47:47 +0000"
     },
     "done": true
   },
@@ -576,6 +614,12 @@
       "Obtain Oak Wood": "2025-05-02 05:23:57 +0000"
     },
     "done": false
+  },
+  "twilightforest:alt/entities/hostile_wolf": {
+    "criteria": {
+      "hurt_by_indirect": "2025-05-03 01:46:44 +0000"
+    },
+    "done": true
   },
   "sf4:age_enhancement/root": {
     "criteria": {
@@ -636,10 +680,22 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2025-05-03 01:45:27 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/iron_bucket": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
       "Obtain Iron Bucket": "2025-05-02 08:06:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "1": "2025-05-03 01:47:47 +0000"
     },
     "done": true
   },
@@ -869,6 +925,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/twilightforest": {
+    "criteria": {
+      "Entered Twilight Forest Dimension": "2025-05-03 01:45:27 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/iron": {
     "criteria": {
       "Completed Root": "2025-05-02 05:16:57 +0000",
@@ -964,6 +1026,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-05-03 01:45:27 +0000"
+    },
+    "done": true
+  },
   "sf4:age1/clay_bucket": {
     "criteria": {
       "Obtain Unfired Clay Bucket": "2025-05-02 05:59:28 +0000",
@@ -1005,6 +1073,18 @@
       "Obtain Iron Ingot": "2025-05-02 09:00:34 +0000"
     },
     "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "hostile_wolf": "2025-05-03 01:46:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-05-03 01:47:47 +0000"
+    },
+    "done": true
   },
   "sf4:age1/drying_rack": {
     "criteria": {

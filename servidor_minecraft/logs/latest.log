@@ -175,3 +175,16 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [01:39:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-43.zip.
 [01:39:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
 [01:39:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[01:39:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Need iiii Speed]
+[01:45:25] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@5a54c363)
+[01:45:25] [Server thread/INFO] [topography]: Loading Dimension Definition for 7
+[01:45:25] [Server thread/ERROR] [bnbgaminglib]: Failed to load script file null.txt
+[01:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pilin: Given [Overworld Cake] * 1 to Pilin]
+[01:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Enter the Twilight]
+[01:45:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2162ms behind, skipping 43 tick(s)
+[01:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [The Silence of the Forest]
+[01:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [Bug Stomper]
+[01:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[01:48:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[01:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [You're Tritanium to Bring Me Down]
