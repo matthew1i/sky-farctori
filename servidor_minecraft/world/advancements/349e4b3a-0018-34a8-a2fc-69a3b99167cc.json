@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "compactmachines:test/7x7x7": {
+    "criteria": {
+      "Obtain Netherrack": "2025-05-03 01:13:51 +0000"
+    },
+    "done": false
+  },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 05:16:57 +0000",

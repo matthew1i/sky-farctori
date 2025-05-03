@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "compactmachines:test/7x7x7": {
+    "criteria": {
+      "Obtain Netherrack": "2025-05-03 01:14:06 +0000"
+    },
+    "done": false
+  },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
@@ -876,16 +882,16 @@
     },
     "done": true
   },
-  "sf4:age_exploration/dragonkill": {
-    "criteria": {
-      "Enter Custom End Dimension": "2025-05-03 01:01:44 +0000"
-    },
-    "done": false
-  },
   "compactmachines:test/5x5x52": {
     "criteria": {
       "Craft Simple Fluid Combustion Generator": "2025-05-03 00:55:05 +0000",
       "Craft Simple Combustion Generator": "2025-05-03 00:53:20 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/dragonkill": {
+    "criteria": {
+      "Enter Custom End Dimension": "2025-05-03 01:01:44 +0000"
     },
     "done": false
   },
