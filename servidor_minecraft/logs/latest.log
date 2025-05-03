@@ -161,3 +161,17 @@ Pos: BlockPos{x=-27, y=71, z=-2}
 [01:23:19] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
 [01:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pilin has made the advancement [It's Over 20!]
 [01:23:28] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:32:05] [Server thread/INFO] [topography]: GenSettings: 
+[01:32:05] [Server thread/INFO] [topography]: Preset: Sky Factory 4
+[01:32:05] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a54c363)
+[01:35:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zxymatthewyxz moved wrongly!
+[01:37:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [zxymatthewyxz: Given [Overworld Cake] * 1 to Pilin]
+[01:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zxymatthewyxz has made the advancement [Level Up!]
+[01:39:13] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[01:39:13] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[01:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:39:15] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[01:39:15] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup ./backups/world/Backup--world--2025-05-02--03-43.zip.
+[01:39:15] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[01:39:15] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!

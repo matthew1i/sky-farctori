@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "sf4:age_power/upgradeablegenerators": {
+    "criteria": {
+      "Obtain Simple Upgradable Combustion Generator": "2025-05-03 01:38:38 +0000"
+    },
+    "done": true
+  },
   "sf4:age_power/wirelesscharger": {
     "criteria": {
       "Obtain Wireless Charger": "2025-05-03 00:49:33 +0000"
@@ -458,6 +464,7 @@
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
     "done": false
@@ -865,6 +872,7 @@
       "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
       "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
       "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
+      "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
       "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
     },
     "done": false
