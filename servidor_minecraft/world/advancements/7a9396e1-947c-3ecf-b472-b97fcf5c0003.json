@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_panda": {
+    "criteria": {
+      "battle_panda_0": "2025-09-24 02:30:39 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-09-24 01:17:48 +0000"
@@ -265,7 +271,8 @@
       "minecraft:witch": "2025-09-24 01:50:44 +0000",
       "minecraft:enderman": "2025-09-24 00:53:19 +0000",
       "minecraft:stray": "2025-09-24 01:53:43 +0000",
-      "minecraft:zombie": "2025-09-24 00:40:43 +0000"
+      "minecraft:zombie": "2025-09-24 00:40:43 +0000",
+      "minecraft:drowned": "2025-09-24 02:27:53 +0000"
     },
     "done": false
   },
@@ -278,6 +285,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-24 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_iori_hazenoki": {
+    "criteria": {
+      "battle_iori_hazenoki_0": "2025-09-24 02:19:52 +0000"
     },
     "done": true
   },
@@ -349,7 +362,13 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 02:11:42 +0000"
+      "update_0": "2025-09-24 02:33:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_domain_expansion": {
+    "criteria": {
+      "mastery_domain_expansion_0": "2025-09-24 02:27:52 +0000"
     },
     "done": true
   },
@@ -374,6 +393,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-09-24 00:40:11 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_toge_inumaki": {
+    "criteria": {
+      "battle_toge_inumaki_0": "2025-09-24 02:25:09 +0000"
     },
     "done": true
   },
@@ -503,6 +528,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2025-09-24 02:20:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-09-24 00:40:11 +0000"
@@ -590,6 +621,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-09-24 01:15:50 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_nobara_kugisaki": {
+    "criteria": {
+      "battle_nobara_kugisaki_0": "2025-09-24 02:20:51 +0000"
     },
     "done": true
   },
@@ -726,6 +763,12 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_1_semi": {
+    "criteria": {
+      "sorcerer_grade_1_semi_0": "2025-09-24 02:20:51 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:fame_2": {
     "criteria": {
       "fame_2_0": "2025-09-24 00:58:25 +0000"
@@ -747,6 +790,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-09-24 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_hana_kurusu": {
+    "criteria": {
+      "battle_hana_kurusu_0": "2025-09-24 02:27:30 +0000"
     },
     "done": true
   },

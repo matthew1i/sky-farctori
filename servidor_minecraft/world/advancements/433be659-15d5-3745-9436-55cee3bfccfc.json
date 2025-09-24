@@ -1045,7 +1045,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 02:07:14 +0000"
+      "update_0": "2025-09-24 02:36:59 +0000"
     },
     "done": true
   },
@@ -1085,6 +1085,12 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_1": {
+    "criteria": {
+      "sorcerer_grade_1_0": "2025-09-24 02:28:55 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:sorcerer_grade_2": {
     "criteria": {
       "sorcerer_grade_2_0": "2025-09-24 02:07:14 +0000"
@@ -1094,6 +1100,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-09-24 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-24 02:30:14 +0000"
     },
     "done": true
   },
@@ -1115,9 +1127,21 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_panda": {
+    "criteria": {
+      "battle_panda_0": "2025-09-24 02:30:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-09-24 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-09-24 02:36:22 +0000"
     },
     "done": true
   },
@@ -1133,9 +1157,45 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_iori_hazenoki": {
+    "criteria": {
+      "battle_iori_hazenoki_0": "2025-09-24 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-24 02:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-09-24 02:30:14 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mei_mei": {
+    "criteria": {
+      "battle_mei_mei_0": "2025-09-24 02:30:05 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-09-24 01:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-24 02:30:14 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_jiro_awasaka": {
+    "criteria": {
+      "battle_jiro_awasaka_0": "2025-09-24 02:25:55 +0000"
     },
     "done": true
   },
@@ -1151,6 +1211,12 @@
     },
     "done": true
   },
+  "jujutsucraft:black_flash": {
+    "criteria": {
+      "black_flash_0": "2025-09-24 02:18:08 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_kasumi_miwa": {
     "criteria": {
       "battle_kasumi_miwa_0": "2025-09-24 01:49:15 +0000"
@@ -1160,6 +1226,24 @@
   "jujutsucraft:battle_nobara_kugisaki": {
     "criteria": {
       "battle_nobara_kugisaki_0": "2025-09-24 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-24 02:23:53 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_aoi_todo": {
+    "criteria": {
+      "battle_aoi_todo_0": "2025-09-24 02:20:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-09-24 02:24:12 +0000"
     },
     "done": true
   },
@@ -1181,9 +1265,21 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_1_semi": {
+    "criteria": {
+      "sorcerer_grade_1_semi_0": "2025-09-24 02:19:52 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:fame_1": {
     "criteria": {
       "fame_1_0": "2025-09-24 02:07:14 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_hana_kurusu": {
+    "criteria": {
+      "battle_hana_kurusu_0": "2025-09-24 02:27:30 +0000"
     },
     "done": true
   },
