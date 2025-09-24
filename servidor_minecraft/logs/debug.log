@@ -7878,3 +7878,132 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 03:40:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
 [24Sep2025 03:40:37.078] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
 [24Sep2025 03:40:37.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:40:51.937] [IO-Worker-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[24Sep2025 03:40:52.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:40:53.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:40:53.438] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:41:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:41:20.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:41:20.453] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:41:20.453] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:41:23.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:41:39.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[24Sep2025 03:41:42.731] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:41:42.731] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:41:43.231] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:41:43.232] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:41:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:41:57.893] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[24Sep2025 03:42:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:42:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:42:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:42:32.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:42:32.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:42:36.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:43:21.102] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[24Sep2025 03:43:32.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:43:32.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:44:16.222] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:44:16.222] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:44:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to zxymatthewyxz]
+[24Sep2025 03:44:16.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[24Sep2025 03:44:16.475] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[24Sep2025 03:44:16.475] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[24Sep2025 03:44:54.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:44:55.516] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:44:55.516] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:45:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:45:03.392] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:45:03.393] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:45:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:45:55.438] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:45:55.438] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:46:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:46:01.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:46:01.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:46:04.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[24Sep2025 03:46:14.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -3.4050155001222464,0.0,9.474528552373272
+[24Sep2025 03:47:28.736] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[24Sep2025 03:47:28.801] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[24Sep2025 03:48:37.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:48:37.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:48:38.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:49:04.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:49:05.694] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:49:05.694] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:49:08.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[24Sep2025 03:49:15.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:49:31.585] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:49:31.585] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:49:31.585] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:49:31.586] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:49:31.586] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:49:31.586] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:49:52.550] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[24Sep2025 03:50:37.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved too quickly! 6.300000011920929,-9.157815359624578,18.30000001192093
+[24Sep2025 03:50:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:51:02.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 03:51:07.390] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[24Sep2025 03:51:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Subjugation Mission -Kenjaku-]
+[24Sep2025 03:51:55.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:51:55.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:51:55.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:51:56.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:51:57.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:51:57.165] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:51:58.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[24Sep2025 03:52:10.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:52:31.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved too quickly! 1.2178635784992586,-21.0,-9.475462651879411
+[24Sep2025 03:52:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has completed the challenge [Anti-Open Barrier Type Domain]
+[24Sep2025 03:53:06.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:53:06.785] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:53:06.786] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:53:10.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[24Sep2025 03:53:43.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:53:43.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:54:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Cover Me in Debris]
+[24Sep2025 03:54:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 03:54:46.186] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:54:46.186] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:54:46.187] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:54:46.187] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:54:46.446] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[24Sep2025 03:54:50.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 03:54:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 03:55:02.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Sep2025 03:55:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 03:55:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:55:21.802] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:55:21.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:55:24.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7026ms or 140 ticks behind
+[24Sep2025 03:55:49.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10025ms or 200 ticks behind
+[24Sep2025 03:56:09.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
+[24Sep2025 03:56:31.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7395ms or 147 ticks behind
+[24Sep2025 03:56:32.177] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[24Sep2025 03:56:52.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6288ms or 125 ticks behind
+[24Sep2025 03:57:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:57:06.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:57:06.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:57:11.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
+[24Sep2025 03:57:12.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:57:33.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[24Sep2025 03:57:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:57:41.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 03:58:01.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[24Sep2025 03:58:20.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Sep2025 03:58:37.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[24Sep2025 03:59:36.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:59:36.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:59:47.290] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:59:47.290] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:59:47.290] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:59:47.290] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 04:00:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 04:00:05.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[24Sep2025 04:00:06.966] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[24Sep2025 04:00:16.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 04:00:20.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 04:00:28.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8534ms or 170 ticks behind
+[24Sep2025 04:00:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Protection IV to zxymatthewyxz's item]
+[24Sep2025 04:00:49.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
+[24Sep2025 04:00:56.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]

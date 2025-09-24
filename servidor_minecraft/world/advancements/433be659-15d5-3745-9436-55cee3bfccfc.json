@@ -1436,7 +1436,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:37:44 +0000"
+      "update_0": "2025-09-24 03:51:56 +0000"
     },
     "done": true
   },
@@ -1494,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_cursed_spirit_grade_special_7": {
     "criteria": {
       "battle_cursed_spirit_grade_special_7_0": "2025-09-24 02:58:11 +0000"
@@ -1509,6 +1515,12 @@
   "jujutsucraft:skill_dismantle": {
     "criteria": {
       "skill_dismantle_0": "2025-09-24 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1584,6 +1596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_chojuro_zenin": {
     "criteria": {
       "battle_chojuro_zenin_0": "2025-09-24 02:51:51 +0000"
@@ -1620,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-24 03:36:15 +0000"
@@ -1638,9 +1662,21 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-09-24 03:54:12 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_dagon": {
     "criteria": {
       "battle_dagon_0": "2025-09-24 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_kenjaku": {
+    "criteria": {
+      "battle_kenjaku_0": "2025-09-24 03:51:54 +0000"
     },
     "done": true
   },
@@ -1659,6 +1695,12 @@
   "jujutsucraft:mastery_open_barrier_type_domain": {
     "criteria": {
       "mastery_open_barrier_type_domain_0": "2025-09-24 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1698,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-24 03:36:15 +0000"
@@ -1734,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-09-24 03:36:15 +0000"
@@ -1749,6 +1803,12 @@
   "jujutsucraft:battle_toji_fushiguro": {
     "criteria": {
       "battle_toji_fushiguro_0": "2025-09-24 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1770,15 +1830,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-09-24 03:15:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:reward_weapons": {
     "criteria": {
       "reward_weapons_0": "2025-09-24 03:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },

@@ -1554,7 +1554,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:37:44 +0000"
+      "update_0": "2025-09-24 03:45:20 +0000"
     },
     "done": true
   },
@@ -1693,6 +1693,12 @@
   "jujutsucraft:reward_weapons": {
     "criteria": {
       "reward_weapons_0": "2025-09-24 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:anti_open_barrier_type_domain": {
+    "criteria": {
+      "anti_open_barrier_type_domain_0": "2025-09-24 03:52:50 +0000"
     },
     "done": true
   },
