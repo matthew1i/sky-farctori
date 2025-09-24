@@ -840,7 +840,13 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:08:08 +0000"
+      "update_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:advancement_six_eyes": {
+    "criteria": {
+      "advancement_six_eyes_0": "2025-09-24 03:11:29 +0000"
     },
     "done": true
   },
@@ -865,6 +871,12 @@
   "jujutsucraft:battle_kento_nanami": {
     "criteria": {
       "battle_kento_nanami_0": "2025-09-24 02:52:19 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_infinity": {
+    "criteria": {
+      "skill_infinity_0": "2025-09-24 03:11:29 +0000"
     },
     "done": true
   },
@@ -898,9 +910,33 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_cursed_technique_reversal_red": {
+    "criteria": {
+      "skill_cursed_technique_reversal_red_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_eso": {
     "criteria": {
       "battle_eso_0": "2025-09-24 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_high_speed": {
+    "criteria": {
+      "skill_high_speed_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_gojo": {
+    "criteria": {
+      "skill_gojo_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_strike_strengthening": {
+    "criteria": {
+      "skill_strike_strengthening_0": "2025-09-24 03:09:22 +0000"
     },
     "done": true
   },
@@ -916,6 +952,12 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_hollow_technique_purple": {
+    "criteria": {
+      "skill_hollow_technique_purple_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:black_flash": {
     "criteria": {
       "black_flash_0": "2025-09-24 02:40:15 +0000"
@@ -925,6 +967,12 @@
   "jujutsucraft:battle_mahoraga": {
     "criteria": {
       "battle_mahoraga_0": "2025-09-24 02:55:36 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cursed_technique_lapse_blue": {
+    "criteria": {
+      "skill_cursed_technique_lapse_blue_0": "2025-09-24 03:09:22 +0000"
     },
     "done": true
   },
@@ -961,6 +1009,12 @@
   "jujutsucraft:fame_special": {
     "criteria": {
       "fame_special_0": "2025-09-24 02:45:10 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:anti_open_barrier_type_domain": {
+    "criteria": {
+      "anti_open_barrier_type_domain_0": "2025-09-24 03:13:07 +0000"
     },
     "done": true
   },

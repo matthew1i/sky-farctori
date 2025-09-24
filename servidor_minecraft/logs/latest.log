@@ -2057,3 +2057,103 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 03:09:45.089] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
 [24Sep2025 03:09:45.089] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
 [24Sep2025 03:10:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 13000]
+[24Sep2025 03:11:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:11:23.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:11:25.363] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:11:25.363] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:11:27.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Sep2025 03:11:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has completed the challenge [Six Eyes]
+[24Sep2025 03:11:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Infinity]
+[24Sep2025 03:11:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 13000]
+[24Sep2025 03:11:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:12:07.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:12:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:12:14.453] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:12:14.453] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:12:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Sukuna's Finger] to Pilin]
+[24Sep2025 03:12:21.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Sukuna's Finger] to Pilin]
+[24Sep2025 03:12:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:12:34.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:13:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has completed the challenge [Anti-Open Barrier Type Domain]
+[24Sep2025 03:13:18.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[24Sep2025 03:13:24.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Rogue Company]
+[24Sep2025 03:13:24.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [$350,000,000]
+[24Sep2025 03:13:33.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved wrongly!
+[24Sep2025 03:13:38.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[24Sep2025 03:13:56.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:13:56.530] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:13:56.530] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:14:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:14:00.717] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:14:00.717] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:14:01.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:14:02.199] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:14:02.199] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:14:15.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22089ms or 441 ticks behind
+[24Sep2025 03:14:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:14:25.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:14:25.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:14:25.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:14:26.042] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:14:26.042] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:14:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:14:35.161] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:14:35.162] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:14:37.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6324ms or 126 ticks behind
+[24Sep2025 03:14:37.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:14:40.649] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:14:40.649] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:15:03.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11382ms or 227 ticks behind
+[24Sep2025 03:15:04.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:15:05.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:15:05.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:15:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:15:11.975] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:15:11.976] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:15:17.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:15:17.420] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:15:17.420] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:15:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:15:22.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:15:22.770] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:15:26.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7929ms or 158 ticks behind
+[24Sep2025 03:15:45.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Sukuna's Finger] to Pilin]
+[24Sep2025 03:15:47.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 20 [Sukuna's Finger] to Pilin]
+[24Sep2025 03:15:54.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:16:24.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:16:28.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Piercing Blood]
+[24Sep2025 03:16:53.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[24Sep2025 03:16:57.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:17:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Blood Waves]
+[24Sep2025 03:17:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Supernova]
+[24Sep2025 03:17:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Piercing Blood]
+[24Sep2025 03:17:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Convergence]
+[24Sep2025 03:17:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Flowing Red Scale]
+[24Sep2025 03:17:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Blood Manipulation]
+[24Sep2025 03:17:04.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:17:04.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:17:05.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:17:23.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15153ms or 303 ticks behind
+[24Sep2025 03:17:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:18:00.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21232ms or 424 ticks behind
+[24Sep2025 03:18:34.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19559ms or 391 ticks behind
+[24Sep2025 03:18:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Sukuna's Finger] to Pilin]
+[24Sep2025 03:19:08.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19235ms or 384 ticks behind
+[24Sep2025 03:19:38.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14398ms or 287 ticks behind
+[24Sep2025 03:19:39.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:19:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Open]
+[24Sep2025 03:19:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Cleave]
+[24Sep2025 03:19:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Dismantle]
+[24Sep2025 03:19:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Malevolent Shrine]
+[24Sep2025 03:19:40.493] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:19:40.493] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:19:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:19:41.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:19:41.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:19:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Dismantle]
+[24Sep2025 03:20:00.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[24Sep2025 03:20:16.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Did I do it!?]
+[24Sep2025 03:20:22.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6657ms or 133 ticks behind
+[24Sep2025 03:20:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:20:26.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:20:26.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
