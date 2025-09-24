@@ -5559,3 +5559,197 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 00:36:08.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
 [24Sep2025 00:36:08.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
 [24Sep2025 00:36:40.312] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[24Sep2025 00:36:48.690] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[24Sep2025 00:36:48.690] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[24Sep2025 00:37:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:37:04.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:37:04.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:37:36.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 00:37:36.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 00:37:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:37:56.618] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:37:56.619] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:38:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:38:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 7.9725350799516725,-5.802471482589922,-2.215248548593223
+[24Sep2025 00:38:36.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13521ms or 270 ticks behind
+[24Sep2025 00:38:36.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! 4.703533679436868,1.5800000131130219,-8.996871578198679
+[24Sep2025 00:38:36.429] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:38:36.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:38:47.816] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[24Sep2025 00:38:50.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:38:52.206] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:38:52.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:38:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin fell from a high place
+[24Sep2025 00:39:01.387] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:39:01.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:39:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -3-]
+[24Sep2025 00:39:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -3-]
+[24Sep2025 00:39:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -3-]
+[24Sep2025 00:39:51.788] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[24Sep2025 00:39:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was doomed to fall by Toshihisa Negi
+[24Sep2025 00:39:57.246] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:39:57.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:22.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:40:24.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:40:24.142] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:40:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 00:40:29.448] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:40:29.449] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 00:40:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Monster Hunter]
+[24Sep2025 00:40:43.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:40:44.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:40:44.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:45.535] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:40:45.536] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:40:53.719] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[24Sep2025 00:40:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:40:55.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:40:55.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:40:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Monster Hunter]
+[24Sep2025 00:41:05.855] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_turn_b is being run through DFU (hash d8fd307218b615348ceb21b3b3074bf5992d2ded7e27550426035d748fea79df), this will cause launch time delays
+[24Sep2025 00:41:05.876] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/intersection_5_c is being run through DFU (hash 6246cc58374d0fb40be45f360c9bef04e92b9b44031b724065f2bd2264d21f20), this will cause launch time delays
+[24Sep2025 00:41:05.879] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/stonecutter_schematic is being run through DFU (hash 2ca6d796905b7c1e876194f0d74683cf386b444f3a84b3027b79fc67435b2410), this will cause launch time delays
+[24Sep2025 00:41:05.882] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway_ruined_cap is being run through DFU (hash 197f987949680aae911df1634176a2c7569669b5c55c1543ebd940ab9291f955), this will cause launch time delays
+[24Sep2025 00:41:05.884] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway is being run through DFU (hash 8048c6f6de1249948431150b3e1f2062037723fdf5ea3f472913fcacd935431f), this will cause launch time delays
+[24Sep2025 00:41:05.886] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_2_2 is being run through DFU (hash 8350877663276cd9164266500d561b1c68887c5b30d09ad5c10aee2f8e1f9176), this will cause launch time delays
+[24Sep2025 00:41:05.887] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/vent is being run through DFU (hash bff7ca9b418da0eec81ce91c9defaaaf270767bfae6c8cd5a94469b5e6cf43d3), this will cause launch time delays
+[24Sep2025 00:41:05.889] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_hallway_ruined is being run through DFU (hash b3e05abcd83461b8f706daa3593f83e2f56a85f90bee7684949f09257573c7a2), this will cause launch time delays
+[24Sep2025 00:41:05.891] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway_cap_1 is being run through DFU (hash a8d9e363e1584ef4754dde5d20ea9d4ab574ea8097d2baac5075671821387800), this will cause launch time delays
+[24Sep2025 00:41:05.894] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_entrance_2 is being run through DFU (hash 0d17dcd14b4a6823f64b8349a88051568395be172c95f966b6ccdffbd48c9201), this will cause launch time delays
+[24Sep2025 00:41:05.898] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_entrance_3 is being run through DFU (hash 9b9f6002a667fb1e3dcd1f9b8d7cf75ac1dd4b17e10e1249c71ed9eb376c59f8), this will cause launch time delays
+[24Sep2025 00:41:05.900] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_entrance_1 is being run through DFU (hash 81b11386df188385b3a47e1c6b5fc5cceb6697fa3f56422d18ba32c4bd65af7f), this will cause launch time delays
+[24Sep2025 00:41:05.903] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_turn_a is being run through DFU (hash 4e1894b9db3b774587934c1648f3d444d3185815ccf3284d4fbe1bba9d12a806), this will cause launch time delays
+[24Sep2025 00:41:05.905] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway_cap_2 is being run through DFU (hash 1f9aea79fa411a4fcc97336beec94dbecba91b685324d5079101b48f5b089896), this will cause launch time delays
+[24Sep2025 00:41:05.906] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_2_4 is being run through DFU (hash dd26cbbf1fb50b9b188bc32356c2e0e2584ef715a99f28d34fdf78fbaea2a861), this will cause launch time delays
+[24Sep2025 00:41:05.907] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_2_5 is being run through DFU (hash fb79febe7223fe32c862c012df8cbf143c0d634ae3aa234a013841008dd7edbd), this will cause launch time delays
+[24Sep2025 00:41:05.908] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/container_large is being run through DFU (hash 2f1673f91fd0bc7148b321cc55a1980b8d2460a1eee36734502046a16464def5), this will cause launch time delays
+[24Sep2025 00:41:05.909] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_cap_1 is being run through DFU (hash dc12b544ce9988d0136ed830618e1c4a5ac25e2e3a2ed9f488a5ff60e83f4c6f), this will cause launch time delays
+[24Sep2025 00:41:05.911] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/intersection_5_a is being run through DFU (hash c3242587217437a01ffac85136adbe7f447d0028e9683b901a454d6ac2108f90), this will cause launch time delays
+[24Sep2025 00:41:05.913] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_cap_down is being run through DFU (hash e7560e92096348e0983e2c9e1c48df2b1d9d3fddacdfb44d42d032d36599ac2e), this will cause launch time delays
+[24Sep2025 00:41:05.914] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_ruined_up_small is being run through DFU (hash 366d5e94eb01ae422489092b7a69dd2cd156b570e7e82a878611577815a94e5e), this will cause launch time delays
+[24Sep2025 00:41:05.915] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_ruined_up is being run through DFU (hash 18a78a93ab03a2d46e255ce4c450d18603085ba372fe237222975be29a10990d), this will cause launch time delays
+[24Sep2025 00:41:05.916] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_cap_up is being run through DFU (hash ecddba42e9bd83c00a9755fea5aa1f879f29a4a2609e9f8c203a8c79873ea424), this will cause launch time delays
+[24Sep2025 00:41:05.917] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_ruined_down_small is being run through DFU (hash 54887652d734c88e681524df41db869ade8dcc4141e9bd01cd20d1cd8006d360), this will cause launch time delays
+[24Sep2025 00:41:05.918] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_cap_2 is being run through DFU (hash 867b012ff4e305479a011a33292e1412bf23b377e2c3a3b53ea3eaf33b9a9885), this will cause launch time delays
+[24Sep2025 00:41:05.919] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large is being run through DFU (hash 852fa4c9e54fa7da287d5be85557a6145b49cbc0b586f05a29a24d8abddbaea8), this will cause launch time delays
+[24Sep2025 00:41:05.922] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/shaft_large_ruined is being run through DFU (hash 78ded88e44f5f3d1186987083c2e774ca848d262dccc7506657af65986d0db07), this will cause launch time delays
+[24Sep2025 00:41:05.925] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/container is being run through DFU (hash f388973286503e7b3454869ad6ccbff8d53da4c146f71535d0c53827adf5927a), this will cause launch time delays
+[24Sep2025 00:41:05.925] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/transfer_unit is being run through DFU (hash d4edde514543d9bf77b263859755689c577cb3ad24ca6a83424b4a18e00c3736), this will cause launch time delays
+[24Sep2025 00:41:05.927] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_2_3 is being run through DFU (hash 5601faff15259ac8bb029a5151638dc73caa1a621f5a093141d158023941e868), this will cause launch time delays
+[24Sep2025 00:41:05.929] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_2_1 is being run through DFU (hash 65b657b639addfdf14c53bd4b0d4441ec499e2e0c629824b50aab2b110a7c44a), this will cause launch time delays
+[24Sep2025 00:41:05.932] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/spawner is being run through DFU (hash 8640d6f7244e1b9f3b7a1bc339a2c340fb9455aea03ccdffa0563a947889caeb), this will cause launch time delays
+[24Sep2025 00:41:05.997] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_hallway_2 is being run through DFU (hash 730528fc5696377912127f4e3c22d75ac318748d3f6eca13fa6043eba1bc0440), this will cause launch time delays
+[24Sep2025 00:41:05.999] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_cap_3 is being run through DFU (hash ee6785b1d2b6121bab6209f72d56304e784d4ec85809529dd87cb925f7851ee8), this will cause launch time delays
+[24Sep2025 00:41:06.000] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_hallway_1 is being run through DFU (hash 9b7685b61f9d66efcaf5d4b247958f361adf03183c62c851e25cfc27a7f891b9), this will cause launch time delays
+[24Sep2025 00:41:06.003] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway_ruined is being run through DFU (hash 454b5ae2da1431d92c1c21e3ea3d1ca5353af049f523e8f8b486c22da06a6d8d), this will cause launch time delays
+[24Sep2025 00:41:06.006] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/intersection_split_7_b is being run through DFU (hash e835b4b257bf326090f52471100b4d17e7e3deb90a2f9052633c31af58fa1520), this will cause launch time delays
+[24Sep2025 00:41:06.010] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/large_cap_4 is being run through DFU (hash 774e43223d22ec925b6c6128c63e1106c8427fee2cbaccb9531f246241b9c107), this will cause launch time delays
+[24Sep2025 00:41:06.014] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/hammer is being run through DFU (hash 29de489d792c94f7a459389804cdcfce7d19007a6fe24704e622292366f1f650), this will cause launch time delays
+[24Sep2025 00:41:06.015] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/cave_3 is being run through DFU (hash 3d25e43accc78eb2f61a02451eaf6c2a529e4bcd493b9a487ade9f954c6b0779), this will cause launch time delays
+[24Sep2025 00:41:06.016] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/cave_1 is being run through DFU (hash 6e4145984cc95b77b31f0d1a06e3813167bc309ebafd9c1a9224ad392c3a4383), this will cause launch time delays
+[24Sep2025 00:41:06.017] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/cave_2 is being run through DFU (hash 0b5f1cc8ced0f71de7a2df550f93058b2999293e38ccb74acee95c0e7ccc4cdb), this will cause launch time delays
+[24Sep2025 00:41:06.023] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/small_hallway_debris is being run through DFU (hash a24663aeb94265e1cd9805132f3ad3c75dae0a36a00a9b6135f14782f3c0dcfe), this will cause launch time delays
+[24Sep2025 00:41:06.033] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/crate_3_1 is being run through DFU (hash 77c8fcd97189bbfa5c88bb6c361ae030e29bb0ee4a10cfe13dbefb188688f8d4), this will cause launch time delays
+[24Sep2025 00:41:06.073] [Worker-Main-28/DEBUG] [ModernFix/]: Structure tetra:forged_ruins/extractor_schematic is being run through DFU (hash d6ae96037cf3a33282649d7b86285f9cace116adbfa6d5e0f7a7aab0f275dd79), this will cause launch time delays
+[24Sep2025 00:41:14.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Reverse Cursed Technique Lv1]
+[24Sep2025 00:41:15.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:41:17.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:41:17.606] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:41:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement ['X' Marks the Spot]
+[24Sep2025 00:41:23.603] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Sep2025 00:41:25.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Diamonds!]
+[24Sep2025 00:41:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Monster Hunter]
+[24Sep2025 00:41:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was doomed to fall by Pilin
+[24Sep2025 00:41:48.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:41:48.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:41:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was blown up by Creeper
+[24Sep2025 00:41:51.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:41:51.596] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:42:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Gamerule doImmediateRespawn is now set to: true]
+[24Sep2025 00:42:50.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 00:42:50.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 00:42:57.263] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[24Sep2025 00:43:10.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:43:11.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:43:11.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:43:41.853] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:43:41.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:43:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement ['X' Marks the Spot]
+[24Sep2025 00:43:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Stone Age]
+[24Sep2025 00:43:51.634] [Netty Epoll Server IO #0/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (story/more_upgrades)
+[24Sep2025 00:43:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Acquire Hardware]
+[24Sep2025 00:44:22.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:44:22.809] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:44:22.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:45:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Created team [pene]]
+[24Sep2025 00:45:34.935] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[24Sep2025 00:45:38.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam add nopvp
+[24Sep2025 00:46:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added Pilin to team [pene]]
+[24Sep2025 00:46:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:29.002] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:29.002] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:33.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added liamsitol to team [pene]]
+[24Sep2025 00:46:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:34.150] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:34.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:43.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:43.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added zxymatthewyxz to team [pene]]
+[24Sep2025 00:46:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam modify nopvp friendlyfire false
+[24Sep2025 00:46:49.654] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[24Sep2025 00:46:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:51.243] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:51.243] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:58.096] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:58.096] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:05.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:05.580] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:05.580] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:15.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:15.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:15.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=70, z=90}
+[24Sep2025 00:47:16.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=70, z=90}
+[24Sep2025 00:47:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:22.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:22.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam join nopvp @
+[24Sep2025 00:47:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Created team [nopvp]]
+[24Sep2025 00:47:46.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:46.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:46.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:50.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 00:47:50.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 00:47:51.148] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[24Sep2025 00:47:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:47:56.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:47:56.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:47:56.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=77, z=89}
+[24Sep2025 00:48:12.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added 3 members to team [nopvp]]
+[24Sep2025 00:48:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:48:19.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:48:19.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:48:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:33.051] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:33.052] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:38.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:38.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:38.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:44.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:44.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Grade 4 Sorcerer]
+[24Sep2025 00:48:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Rabbit Escape]
+[24Sep2025 00:48:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:57.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:57.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:57.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=70, z=84}
+[24Sep2025 00:48:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:00.288] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:00.289] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]

@@ -1214,3 +1214,135 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 00:36:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
 [24Sep2025 00:36:08.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
 [24Sep2025 00:36:08.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:37:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:37:04.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:37:04.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:37:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:37:56.618] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:37:56.619] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:38:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:38:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 7.9725350799516725,-5.802471482589922,-2.215248548593223
+[24Sep2025 00:38:36.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13521ms or 270 ticks behind
+[24Sep2025 00:38:36.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! 4.703533679436868,1.5800000131130219,-8.996871578198679
+[24Sep2025 00:38:36.429] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:38:36.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:38:50.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:38:52.206] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:38:52.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:38:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin fell from a high place
+[24Sep2025 00:39:01.387] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:39:01.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:39:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -3-]
+[24Sep2025 00:39:08.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -3-]
+[24Sep2025 00:39:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -4-]
+[24Sep2025 00:39:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -3-]
+[24Sep2025 00:39:55.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was doomed to fall by Toshihisa Negi
+[24Sep2025 00:39:57.246] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:39:57.247] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:22.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:40:24.141] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:40:24.142] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:40:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 00:40:29.448] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:40:29.449] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 00:40:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Monster Hunter]
+[24Sep2025 00:40:43.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:40:44.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:40:44.559] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:40:45.535] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:40:45.536] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:40:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:40:55.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:40:55.519] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:40:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Monster Hunter]
+[24Sep2025 00:41:14.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Reverse Cursed Technique Lv1]
+[24Sep2025 00:41:15.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:41:17.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:41:17.606] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:41:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement ['X' Marks the Spot]
+[24Sep2025 00:41:25.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Diamonds!]
+[24Sep2025 00:41:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Monster Hunter]
+[24Sep2025 00:41:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was doomed to fall by Pilin
+[24Sep2025 00:41:48.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:41:48.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:41:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was blown up by Creeper
+[24Sep2025 00:41:51.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:41:51.596] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:42:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Gamerule doImmediateRespawn is now set to: true]
+[24Sep2025 00:43:10.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:43:11.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:43:11.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:43:41.853] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:43:41.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:43:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement ['X' Marks the Spot]
+[24Sep2025 00:43:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Stone Age]
+[24Sep2025 00:43:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Acquire Hardware]
+[24Sep2025 00:44:22.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:44:22.809] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:44:22.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:45:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Created team [pene]]
+[24Sep2025 00:45:38.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam add nopvp
+[24Sep2025 00:46:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added Pilin to team [pene]]
+[24Sep2025 00:46:28.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:29.002] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:29.002] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:33.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added liamsitol to team [pene]]
+[24Sep2025 00:46:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:34.150] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:34.151] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:43.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:43.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added zxymatthewyxz to team [pene]]
+[24Sep2025 00:46:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam modify nopvp friendlyfire false
+[24Sep2025 00:46:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:51.243] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:51.243] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:46:57.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:46:58.096] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:46:58.096] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:05.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:05.580] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:05.580] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:15.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:15.706] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:15.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=70, z=90}
+[24Sep2025 00:47:16.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=18, y=70, z=90}
+[24Sep2025 00:47:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:22.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:22.904] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <liamsitol> Iteam join nopvp @
+[24Sep2025 00:47:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Created team [nopvp]]
+[24Sep2025 00:47:46.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:47:46.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:47:46.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:47:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:47:56.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:47:56.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:47:56.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=77, z=89}
+[24Sep2025 00:48:12.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Added 3 members to team [nopvp]]
+[24Sep2025 00:48:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:48:19.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:48:19.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:48:32.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:33.051] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:33.052] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:38.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:38.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:38.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:44.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:44.139] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Grade 4 Sorcerer]
+[24Sep2025 00:48:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Rabbit Escape]
+[24Sep2025 00:48:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:48:57.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:48:57.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:48:57.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=25, y=70, z=84}
+[24Sep2025 00:48:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:00.288] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:00.289] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
