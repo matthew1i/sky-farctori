@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_toad": {
+    "criteria": {
+      "skill_toad_0": "2025-09-24 01:19:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-09-24 01:05:50 +0000"
@@ -299,6 +305,7 @@
       "minecraft:spider": "2025-09-24 00:41:35 +0000",
       "minecraft:creeper": "2025-09-24 00:40:57 +0000",
       "minecraft:witch": "2025-09-24 00:42:19 +0000",
+      "minecraft:enderman": "2025-09-24 01:18:06 +0000",
       "minecraft:zombie": "2025-09-24 00:41:35 +0000",
       "minecraft:drowned": "2025-09-24 00:49:26 +0000",
       "minecraft:zombie_villager": "2025-09-24 00:42:27 +0000"
@@ -413,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-24 01:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-09-24 00:49:53 +0000"
@@ -425,9 +438,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-24 01:18:00 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 01:17:16 +0000"
+      "update_0": "2025-09-24 01:21:08 +0000"
     },
     "done": true
   },
@@ -529,6 +548,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-09-24 01:25:06 +0000",
       "opened_chest": "2025-09-24 00:43:49 +0000"
     },
     "done": false
@@ -632,6 +652,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-09-24 00:42:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-24 01:25:06 +0000"
     },
     "done": true
   },
@@ -760,9 +786,11 @@
       "minecraft:birch_forest": "2025-09-24 01:07:08 +0000",
       "minecraft:windswept_hills": "2025-09-24 00:33:19 +0000",
       "minecraft:beach": "2025-09-24 00:41:11 +0000",
+      "minecraft:dark_forest": "2025-09-24 01:23:32 +0000",
       "minecraft:river": "2025-09-24 00:55:57 +0000",
       "minecraft:forest": "2025-09-24 00:56:20 +0000",
       "minecraft:ocean": "2025-09-24 00:44:14 +0000",
+      "minecraft:windswept_savanna": "2025-09-24 01:23:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-24 01:06:06 +0000",
       "minecraft:savanna": "2025-09-24 01:17:39 +0000",
       "minecraft:plains": "2025-09-24 00:36:33 +0000"
@@ -898,6 +926,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-09-24 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-09-24 01:18:00 +0000"
     },
     "done": true
   },

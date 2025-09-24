@@ -293,7 +293,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 01:16:04 +0000"
+      "update_0": "2025-09-24 01:26:43 +0000"
     },
     "done": true
   },
@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_kinji_hakari": {
+    "criteria": {
+      "battle_kinji_hakari_0": "2025-09-24 01:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-24 01:03:58 +0000"
@@ -578,9 +584,11 @@
       "minecraft:birch_forest": "2025-09-24 01:06:52 +0000",
       "minecraft:windswept_hills": "2025-09-24 00:28:46 +0000",
       "minecraft:beach": "2025-09-24 00:41:09 +0000",
+      "minecraft:dark_forest": "2025-09-24 01:23:28 +0000",
       "minecraft:river": "2025-09-24 00:43:16 +0000",
       "minecraft:forest": "2025-09-24 00:55:59 +0000",
       "minecraft:ocean": "2025-09-24 00:52:07 +0000",
+      "minecraft:windswept_savanna": "2025-09-24 01:22:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-24 01:05:45 +0000",
       "minecraft:savanna": "2025-09-24 00:59:32 +0000",
       "minecraft:plains": "2025-09-24 00:31:32 +0000"
