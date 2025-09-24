@@ -1868,3 +1868,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 02:38:33.793] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
 [24Sep2025 02:38:41.143] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
 [24Sep2025 02:38:41.143] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 02:40:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has completed the challenge [Black Flash]
+[24Sep2025 02:41:11.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:41:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to -425.500000, 63.500000, 5292.500000]
+[24Sep2025 02:41:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 02:42:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [I'm a Sandwich Person]
+[24Sep2025 02:44:10.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Mastery Domain Amplification (WIP)]
+[24Sep2025 02:44:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 02:44:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 02:45:06.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -4.341368917993293,-3.0,21.67340106866868
+[24Sep2025 02:45:10.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -1-]
+[24Sep2025 02:45:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -Special-]
+[24Sep2025 02:45:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Grade 1 Sorcerer]
+[24Sep2025 02:45:10.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -1-]
+[24Sep2025 02:45:10.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -Special-]
+[24Sep2025 02:45:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Grade 1 Sorcerer]
+[24Sep2025 02:45:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -Special-]
+[24Sep2025 02:45:10.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Special Grade Sorcerer]
+[24Sep2025 02:45:11.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz was kicked for floating too long!
+[24Sep2025 02:45:12.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Flying is not enabled on this server
+[24Sep2025 02:45:12.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 02:45:12.034] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 02:45:19.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:51895] logged in with entity id 105499 at (-369.34735840913777, 74.78915156060265, 5507.811300240139)
+[24Sep2025 02:45:19.947] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 02:45:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 02:45:19.984] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 02:45:19.989] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 02:45:20.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was loaded
+[24Sep2025 02:45:20.268] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 02:45:20.268] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 02:46:56.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 13000]
+[24Sep2025 02:47:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Hanger Rack]
+[24Sep2025 02:47:18.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 02:48:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Subjugation Mission -Sea-]
+[24Sep2025 02:48:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to zxymatthewyxz]
+[24Sep2025 02:48:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Strongest Shikigami]
+[24Sep2025 02:49:57.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! 9.300000011920929,0.0,19.30000001192093
+[24Sep2025 02:50:07.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 02:50:07.587] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 02:50:07.588] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 02:50:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:50:13.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 02:50:13.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 02:50:13.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]

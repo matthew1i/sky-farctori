@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_1": {
+    "criteria": {
+      "sorcerer_grade_1_0": "2025-09-24 02:45:10 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:sorcerer_grade_2": {
     "criteria": {
       "sorcerer_grade_2_0": "2025-09-24 01:56:36 +0000"
@@ -693,7 +699,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 02:36:10 +0000"
+      "update_0": "2025-09-24 02:45:10 +0000"
     },
     "done": true
   },
@@ -1389,6 +1395,12 @@
     },
     "done": true
   },
+  "jujutsucraft:fame_1": {
+    "criteria": {
+      "fame_1_0": "2025-09-24 02:45:10 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:fame_4": {
     "criteria": {
       "fame_4_0": "2025-09-24 00:39:08 +0000"
@@ -1428,6 +1440,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-09-24 01:42:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_special": {
+    "criteria": {
+      "fame_special_0": "2025-09-24 02:45:10 +0000"
     },
     "done": true
   },
