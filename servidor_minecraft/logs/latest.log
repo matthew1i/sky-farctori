@@ -2157,3 +2157,119 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 03:20:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
 [24Sep2025 03:20:26.589] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
 [24Sep2025 03:20:26.590] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:20:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:20:52.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! -10.236619077560505,-1.3589296830585198,-0.35554593673134605
+[24Sep2025 03:20:52.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! -10.568816813998211,0.0,0.07308987376006826
+[24Sep2025 03:20:54.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16880ms or 337 ticks behind
+[24Sep2025 03:21:18.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/178168, l='ServerLevel[world]', x=219.64, y=65.00, z=397.50] died, message: 'Leatherworker died'
+[24Sep2025 03:21:18.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9893ms or 197 ticks behind
+[24Sep2025 03:21:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:21:42.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Mastery Falling Blossom Emotion]
+[24Sep2025 03:21:43.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9288ms or 185 ticks behind
+[24Sep2025 03:21:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Anti-Open Barrier Type Domain]
+[24Sep2025 03:21:55.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/179078, l='ServerLevel[world]', x=155.75, y=65.00, z=415.66] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 03:21:59.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/188338, l='ServerLevel[world]', x=288.50, y=63.00, z=295.46] died, message: 'Farmer died'
+[24Sep2025 03:22:06.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7958ms or 159 ticks behind
+[24Sep2025 03:22:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Anemia]
+[24Sep2025 03:22:29.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8204ms or 164 ticks behind
+[24Sep2025 03:22:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:22:48.888] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:22:48.888] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:22:57.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/180444, l='ServerLevel[world]', x=164.10, y=70.00, z=459.55] died, message: 'Librarian was slain by Zombie'
+[24Sep2025 03:23:01.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16755ms or 335 ticks behind
+[24Sep2025 03:23:24.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8504ms or 170 ticks behind
+[24Sep2025 03:23:47.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
+[24Sep2025 03:23:48.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:24:07.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5837ms or 116 ticks behind
+[24Sep2025 03:24:28.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5980ms or 119 ticks behind
+[24Sep2025 03:24:48.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4890ms or 97 ticks behind
+[24Sep2025 03:24:55.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Sukuna's Arms] to Pilin]
+[24Sep2025 03:25:08.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[24Sep2025 03:25:28.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5767ms or 115 ticks behind
+[24Sep2025 03:25:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:25:38.074] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:25:38.074] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:25:51.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7827ms or 156 ticks behind
+[24Sep2025 03:25:59.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -0.17641994755032897,0.0,11.314186436427121
+[24Sep2025 03:25:59.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/194868, l='ServerLevel[world]', x=287.30, y=64.00, z=299.50] died, message: 'Farmer died'
+[24Sep2025 03:26:00.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 10.892312852922629,0.0,2.3571569012237603
+[24Sep2025 03:26:04.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:26:10.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
+[24Sep2025 03:26:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Open]
+[24Sep2025 03:26:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Cleave]
+[24Sep2025 03:26:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Dismantle]
+[24Sep2025 03:26:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Malevolent Shrine]
+[24Sep2025 03:26:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has completed the challenge [Observation of the Soul]
+[24Sep2025 03:26:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Cursed Technique Changer] to Pilin]
+[24Sep2025 03:26:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [High Speed]
+[24Sep2025 03:26:27.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Hollow Technique: Purple]
+[24Sep2025 03:26:27.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Cursed Technique Reversal: Red]
+[24Sep2025 03:26:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Strike Strengthening]
+[24Sep2025 03:26:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Cursed Technique Lapse: Blue]
+[24Sep2025 03:26:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Limitless]
+[24Sep2025 03:26:29.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[24Sep2025 03:26:30.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/194861, l='ServerLevel[world]', x=253.78, y=65.00, z=292.87] died, message: 'Farmer died'
+[24Sep2025 03:26:34.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Six Eyes] to Pilin]
+[24Sep2025 03:26:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Infinity]
+[24Sep2025 03:26:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Six Eyes] to Pilin]
+[24Sep2025 03:26:42.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/195002, l='ServerLevel[world]', x=255.52, y=69.00, z=210.54] died, message: 'Unemployed died'
+[24Sep2025 03:26:42.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Simple Domain] to Pilin]
+[24Sep2025 03:26:45.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Domain Expansion] to Pilin]
+[24Sep2025 03:26:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has completed the challenge [Open Barrier Type Domain]
+[24Sep2025 03:26:47.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[24Sep2025 03:26:48.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Falling Blossom Emotion] to Pilin]
+[24Sep2025 03:26:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Mastery Falling Blossom Emotion]
+[24Sep2025 03:26:51.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Domain Amplification] to Pilin]
+[24Sep2025 03:26:54.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Master Reverse Cursed Technique] to Pilin]
+[24Sep2025 03:26:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Super Grade Up Recommendation] to Pilin]
+[24Sep2025 03:27:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Grade Up Recommendation] to Pilin]
+[24Sep2025 03:27:05.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[24Sep2025 03:27:17.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/194911, l='ServerLevel[world]', x=260.50, y=63.00, z=275.75] died, message: 'Mason died'
+[24Sep2025 03:27:24.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[24Sep2025 03:27:32.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 3.5986327614607205,-0.34399992132186696,-9.344547982032566
+[24Sep2025 03:27:37.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:27:41.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[24Sep2025 03:27:48.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -9.566470652533972,0.0,5.546865651959507
+[24Sep2025 03:27:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:27:50.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 9.850552786316442,0.0,-5.092347312939694
+[24Sep2025 03:28:00.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/179110, l='ServerLevel[world]', x=133.13, y=68.19, z=432.93] died, message: 'Fisherman died'
+[24Sep2025 03:28:00.354] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/179109, l='ServerLevel[world]', x=132.46, y=68.02, z=433.30] died, message: 'Leatherworker died'
+[24Sep2025 03:28:00.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/180480, l='ServerLevel[world]', x=120.86, y=65.00, z=456.57] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 03:28:00.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/178572, l='ServerLevel[world]', x=221.51, y=65.00, z=380.40] died, message: 'Shepherd died'
+[24Sep2025 03:28:00.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/199636, l='ServerLevel[world]', x=342.41, y=87.00, z=215.51] died, message: 'Unemployed died'
+[24Sep2025 03:28:00.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/199637, l='ServerLevel[world]', x=325.49, y=83.33, z=218.65] died, message: 'Nitwit died'
+[24Sep2025 03:28:00.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/178576, l='ServerLevel[world]', x=196.64, y=73.00, z=363.93] died, message: 'Unemployed died'
+[24Sep2025 03:28:00.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/178575, l='ServerLevel[world]', x=196.51, y=72.00, z=365.55] died, message: 'Unemployed died'
+[24Sep2025 03:28:00.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/178565, l='ServerLevel[world]', x=195.94, y=71.50, z=366.17] died, message: 'Leatherworker died'
+[24Sep2025 03:28:00.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/194993, l='ServerLevel[world]', x=269.83, y=64.00, z=216.50] died, message: 'Farmer died'
+[24Sep2025 03:28:00.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/197191, l='ServerLevel[world]', x=270.61, y=63.94, z=203.46] died, message: 'Farmer died'
+[24Sep2025 03:28:00.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194869, l='ServerLevel[world]', x=296.56, y=63.94, z=307.46] died, message: 'Unemployed died'
+[24Sep2025 03:28:00.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/194994, l='ServerLevel[world]', x=264.52, y=64.00, z=194.14] died, message: 'Librarian died'
+[24Sep2025 03:28:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 03:28:04.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7941ms or 158 ticks behind
+[24Sep2025 03:28:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:28:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:28:33.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:28:33.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:28:36.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Sep2025 03:28:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 03:29:33.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/182550, l='ServerLevel[world]', x=115.94, y=65.00, z=496.09] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 03:29:33.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/197192, l='ServerLevel[world]', x=270.81, y=63.94, z=206.75] died, message: 'Farmer died'
+[24Sep2025 03:29:33.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/199547, l='ServerLevel[world]', x=274.56, y=78.50, z=161.95] died, message: 'Unemployed died'
+[24Sep2025 03:29:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Maximum: Meteor]
+[24Sep2025 03:29:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Lava Waves]
+[24Sep2025 03:29:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Flame Laser]
+[24Sep2025 03:29:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Disaster Flames]
+[24Sep2025 03:29:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Flame Cursed Technique]
+[24Sep2025 03:29:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has completed the challenge [Praying Requiem]
+[24Sep2025 03:29:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 03:29:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:29:47.430] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:29:47.431] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:29:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:29:59.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[24Sep2025 03:29:59.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:29:59.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:29:59.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:30:03.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:30:29.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind

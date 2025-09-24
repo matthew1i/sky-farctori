@@ -840,7 +840,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:09:22 +0000"
+      "update_0": "2025-09-24 03:28:16 +0000"
     },
     "done": true
   },
@@ -856,6 +856,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_cursed_spirit_grade_special_7": {
     "criteria": {
       "battle_cursed_spirit_grade_special_7_0": "2025-09-24 02:58:11 +0000"
@@ -865,6 +877,12 @@
   "jujutsucraft:battle_cursed_spirit_grade_special_6": {
     "criteria": {
       "battle_cursed_spirit_grade_special_6_0": "2025-09-24 03:04:28 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_dismantle": {
+    "criteria": {
+      "skill_dismantle_0": "2025-09-24 03:26:13 +0000"
     },
     "done": true
   },
@@ -886,6 +904,24 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_p": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:sorcerer_grade_special": {
     "criteria": {
       "sorcerer_grade_special_0": "2025-09-24 02:55:36 +0000"
@@ -895,6 +931,18 @@
   "jujutsucraft:battle_charles_bernard": {
     "criteria": {
       "battle_charles_bernard_0": "2025-09-24 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_sukuna": {
+    "criteria": {
+      "skill_sukuna_0": "2025-09-24 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
     },
     "done": true
   },
@@ -910,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-24 03:26:18 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_cursed_technique_reversal_red": {
     "criteria": {
       "skill_cursed_technique_reversal_red_0": "2025-09-24 03:09:22 +0000"
@@ -922,9 +976,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mei_mei": {
+    "criteria": {
+      "battle_mei_mei_0": "2025-09-24 03:13:24 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_high_speed": {
     "criteria": {
       "skill_high_speed_0": "2025-09-24 03:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
     },
     "done": true
   },
@@ -940,6 +1012,18 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_cleave": {
+    "criteria": {
+      "skill_cleave_0": "2025-09-24 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_jinichi_zenin": {
     "criteria": {
       "battle_jinichi_zenin_0": "2025-09-24 03:02:02 +0000"
@@ -949,6 +1033,18 @@
   "jujutsucraft:battle_hiromi_higuruma": {
     "criteria": {
       "battle_hiromi_higuruma_0": "2025-09-24 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/wrench": {
+    "criteria": {
+      "has_p": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
     },
     "done": true
   },
@@ -967,6 +1063,24 @@
   "jujutsucraft:battle_mahoraga": {
     "criteria": {
       "battle_mahoraga_0": "2025-09-24 02:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:observation_of_the_soul": {
+    "criteria": {
+      "observation_of_the_soul_0": "2025-09-24 03:26:18 +0000"
     },
     "done": true
   },
@@ -994,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-09-24 03:27:04 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_takuma_ino": {
     "criteria": {
       "battle_takuma_ino_0": "2025-09-24 03:05:10 +0000"
@@ -1015,6 +1135,12 @@
   "jujutsucraft:anti_open_barrier_type_domain": {
     "criteria": {
       "anti_open_barrier_type_domain_0": "2025-09-24 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_open": {
+    "criteria": {
+      "skill_open_0": "2025-09-24 03:26:13 +0000"
     },
     "done": true
   },
