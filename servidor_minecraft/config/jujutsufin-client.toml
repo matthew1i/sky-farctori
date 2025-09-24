@@ -1,0 +1,5 @@
+#Whether to hold or press Domain Hotkey
+holdDomainHotkey = true
+#Whether to hold or press Passive Hotkey
+holdPassiveHotkey = true
+

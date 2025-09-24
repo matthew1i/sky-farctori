@@ -1,569 +1,82 @@
 {
-  "sf4:age_allthethingsomglol/complete": {
+  "jujutsucraft:advancement_select_technique": {
     "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/oakwood": {
-    "criteria": {
-      "Obtain Oak Wood": "2025-05-02 05:28:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
+      "advancement_select_technique_0": "2025-09-24 00:32:19 +0000"
     },
     "done": true
   },
-  "sf4:age1/sapling/cottonwood": {
+  "jujutsucraft:jujutsu_craft_skills": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/oakplanks": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2025-05-02 05:29:04 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/complete": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/complete": {
-    "criteria": {
-      "Completed That\u0027s Dir-tree§r": "2025-05-02 05:17:52 +0000",
-      "Completed Sticky Keys§r": "2025-05-02 05:36:26 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000",
-      "Completed Captain Hook§r": "2025-05-02 05:28:10 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 05:17:23 +0000",
-      "Completed Starting from the Bottom§r": "2025-05-02 05:18:30 +0000",
-      "Completed Hardwood§r": "2025-05-02 05:46:26 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/dirt": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2025-05-02 05:17:52 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
+      "jujutsu_craft_skills_0": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/sapling/bacon": {
+  "jujutsucraft:skill_divine_dog_totality": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/resourcehogs": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/iron_ingot": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/green_slimy_dirt": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/nonpacifist": {
-    "criteria": {
-      "superflat2": "2025-05-02 05:17:23 +0000",
-      "superflat32": "2025-05-02 05:17:23 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
+      "skill_divine_dog_totality_0": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/iron_bucket": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/slime": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/silver": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/string": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/lead": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/complete_no_prestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed Age of Storage§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/placedirtsapling": {
-    "criteria": {
-      "Placed Dirt Sapling": "2025-05-02 05:17:54 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/petrified": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000",
-      "Obtain Petrified Sapling": "2025-05-02 05:46:26 +0000"
+      "unlock_right_away": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/sapling/redstone": {
+  "jujutsucraft:battle_advancements": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/gold": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/tin": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/dirtsapling": {
-    "criteria": {
-      "Obtain a Dirt Sapling": "2025-05-02 05:17:52 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/wooden_crook": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000",
-      "Obtain Wooden Crook": "2025-05-02 05:28:10 +0000"
+      "battle_advancements_0": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age_farming/skyorchards": {
+  "lootr:root": {
     "criteria": {
-      "Obtain Dirt Sapling": "2025-05-02 05:17:52 +0000",
-      "Obtain Petrified Sapling": "2025-05-02 05:46:26 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/skygriddragonkill": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/lapis": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "pacifist:pacifist_run/root": {
-    "criteria": {
-      "hasRock": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/coal": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/complete": {
-    "criteria": {
-      "Completed Age of Storage§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
+      "always_true": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/slabs": {
+  "jujutsucraft:update": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
+      "update_0": "2025-09-24 00:32:19 +0000"
     },
     "done": true
   },
-  "sf4:age1/diamond": {
+  "jujutsucraft:advancement_insect": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/obsidian": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/lavasource": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:17:23 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/petrifiedsapling": {
-    "criteria": {
-      "Obtain Petrified Sapling": "2025-05-02 05:46:26 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/sand": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/dirt": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/coal": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "hardcore:hardcore/forgivingvoid": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/complete": {
-    "criteria": {
-      "Completed Age of Enhancement§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/completenoprestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed Age of Enhancement§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/completenoprestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed That\u0027s Dir-tree§r": "2025-05-02 05:17:52 +0000",
-      "Completed Sticky Keys§r": "2025-05-02 05:36:26 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000",
-      "Completed Captain Hook§r": "2025-05-02 05:28:10 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 05:17:23 +0000",
-      "Completed Starting from the Bottom§r": "2025-05-02 05:18:30 +0000",
-      "Completed Hardwood§r": "2025-05-02 05:46:26 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/iron": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/stone_crook": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
+      "advancement_insect_0": "2025-09-24 00:31:52 +0000"
     },
     "done": true
   },
-  "sf4:age_exploration/completenoprestige": {
+  "ironfurnaces:coal": {
     "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:17:23 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
+      "rainbowcoal": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/sleep": {
+  "jujutsucraft:skill_merged_beast_agito": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/bone": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "pacifist:pacifist_run/peaceful": {
-    "criteria": {
-      "brokeLeaves": "2025-05-02 05:19:16 +0000",
-      "brokeLog": "2025-05-02 05:30:25 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/lead": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/diamond": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/water": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/acorn/dirt_cooked": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/watersource": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:17:23 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/twerk": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000",
-      "Obtain 8 Dirt Saplings": "2025-05-02 05:36:26 +0000",
-      "Obtain 8 Oak Logs": "2025-05-02 05:28:31 +0000"
+      "skill_merged_beast_agito_0": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age1/cauldron": {
+  "jujutsucraft:start_jujutsu_craft": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/cobblestone_generator": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/gravel": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/complete": {
-    "criteria": {
-      "Completed Age of Power§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/crushing_tub": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/prestige_notify": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "hardcore:hardcore/survive": {
-    "criteria": {
-      "Get killed": "2025-05-02 05:49:26 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/clay_bucket": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/petrifiedacorn": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2025-05-02 05:46:01 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/complete": {
-    "criteria": {
-      "Completed Age of Farming§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/lava": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/iron": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "pacifist:pacifist_run/lose": {
-    "criteria": {
-      "killed poor innocent creature": "2025-05-02 05:17:57 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/root": {
-    "criteria": {
-      "non_tutorial_start": "2025-05-02 05:17:23 +0000"
+      "start_jujutsu_craft_0": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "tutorial:tutorial/woodencrook": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "Obtain a Wooden Crook": "2025-05-02 05:28:10 +0000"
+      "minecraft:windswept_hills": "2025-09-24 00:28:46 +0000",
+      "minecraft:plains": "2025-09-24 00:31:32 +0000"
     },
     "done": false
   },
-  "sf4:age1/sapling/donut": {
+  "parcool:grant_parcool_guide": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/silver": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/completenoprestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed Age of Power§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/clay": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/cobblestone": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/gold": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/drying_rack": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/placeoak": {
-    "criteria": {
-      "Placed Oak Planks": "2025-05-02 05:22:28 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_allthethingsomglol/complete_no_prestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:17:23 +0000",
-      "Has Sapling": "2025-05-02 05:17:52 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/tin": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/complete_no_prestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:17:23 +0000",
-      "Completed Age of Farming§r": "2025-05-02 05:17:23 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/acorn/dirt": {
-    "criteria": {
-      "Obtain Dirt Acorn": "2025-05-02 05:18:30 +0000",
-      "Completed Root": "2025-05-02 05:17:23 +0000"
+      "tick": "2025-09-24 00:28:45 +0000"
     },
     "done": true
   },
-  "sf4:age_allthethingsomglol/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:17:23 +0000"
-    },
-    "done": true
-  }
+  "DataVersion": 3465
 }

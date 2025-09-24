@@ -1,1013 +1,155 @@
 {
-  "sf4:age1/sapling/cottonwood": {
+  "jujutsucraft:jujutsu_craft_skills": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000"
+      "jujutsu_craft_skills_0": "2025-09-24 00:28:20 +0000"
     },
     "done": true
   },
-  "tutorial:tutorial/oakplanks": {
+  "jujutsucraft:skill_divine_dog_totality": {
     "criteria": {
-      "Obtain Oak Wood Planks": "2025-05-02 05:18:37 +0000"
+      "skill_divine_dog_totality_0": "2025-09-24 00:28:20 +0000"
     },
-    "done": false
-  },
-  "sf4:age1/complete": {
-    "criteria": {
-      "Completed Tin Man§r": "2025-05-02 09:15:02 +0000",
-      "Completed Air Fryer§r": "2025-05-02 06:34:10 +0000",
-      "Completed That\u0027s Dir-tree§r": "2025-05-02 05:22:11 +0000",
-      "Completed Sticky Keys§r": "2025-05-02 05:48:17 +0000",
-      "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:51 +0000",
-      "Completed Water You Waiting For?§r": "2025-05-02 08:56:37 +0000",
-      "Completed Break a Leg§r": "2025-05-02 06:06:17 +0000",
-      "Completed This Tree is Forever§r": "2025-05-03 02:19:12 +0000",
-      "Completed Blue Man Group§r": "2025-05-02 08:29:50 +0000",
-      "Completed I Love Lucy§r": "2025-05-02 05:42:11 +0000",
-      "Completed Hotbois§r": "2025-05-02 07:56:16 +0000",
-      "Completed Palm Trees§r": "2025-05-02 06:58:43 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:41 +0000",
-      "Completed Captain Hook§r": "2025-05-02 05:45:29 +0000",
-      "Completed Trees to Diamonds§r": "2025-05-03 00:20:28 +0000",
-      "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
-      "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
-      "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
-      "Completed It\u0027s Electric§r": "2025-05-02 22:43:43 +0000",
-      "Completed Dirty Dancing§r": "2025-05-02 05:23:03 +0000",
-      "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 07:16:12 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
-      "Completed Don\u0027t Sieve on Me§r": "2025-05-02 05:49:44 +0000",
-      "Completed Lead Zeppelin§r": "2025-05-02 09:25:46 +0000",
-      "Completed Lead it Go§r": "2025-05-02 09:27:04 +0000",
-      "Completed Bubble, Bubble§r": "2025-05-02 07:54:50 +0000",
-      "Completed One Shiny Boi§r": "2025-05-02 22:32:20 +0000",
-      "Completed Money Grows on Trees§r": "2025-05-02 22:30:12 +0000",
-      "Completed Slop in the Bucket§r": "2025-05-02 06:26:07 +0000",
-      "Completed You Cotton Something?§r": "2025-05-02 06:18:05 +0000",
-      "Completed On the Rocks§r": "2025-05-02 05:53:37 +0000",
-      "Completed Starting from the Bottom§r": "2025-05-02 05:21:55 +0000",
-      "Completed Oh, the Irony§r": "2025-05-02 08:21:44 +0000",
-      "Completed COALateral Damage§r": "2025-05-03 00:57:06 +0000",
-      "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
-      "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
-      "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
-      "Completed Stop Slabbing Yourself§r": "2025-05-02 20:25:35 +0000",
-      "Completed Clay Aiken§r": "2025-05-02 06:21:41 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/bacon": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/nonpacifist": {
-    "criteria": {
-      "superflat2": "2025-05-02 05:16:31 +0000",
-      "superflat32": "2025-05-02 05:16:31 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/slime": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/string": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
-      "Obtain String": "2025-05-02 06:18:05 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_power/upgradeablegenerators": {
-    "criteria": {
-      "Obtain Simple Upgradable Combustion Generator": "2025-05-03 01:38:38 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_power/wirelesscharger": {
-    "criteria": {
-      "Obtain Wireless Charger": "2025-05-03 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "compactmachines:test/7x7x7": {
-    "criteria": {
-      "Obtain Netherrack": "2025-05-03 01:14:06 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/complete_no_prestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed Wood You Hand Me That Crate Please?§r": "2025-05-02 08:49:13 +0000",
-      "Completed 256 Liters of Cola§r": "2025-05-02 10:15:03 +0000",
-      "Completed Age of Storage§r": "2025-05-02 05:16:31 +0000",
-      "Completed Hop to It§r": "2025-05-02 08:33:53 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/petrified": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Petrified Sapling": "2025-05-02 05:45:47 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/redstone": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Redstone Sapling": "2025-05-02 22:43:43 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_storage/bdsandmupgrade2": {
-    "criteria": {
-      "Obtain x256 Storage Upgrade": "2025-05-02 10:15:03 +0000"
-    },
-    "done": true
-  },
-  "compactmachines:test/3x3x3": {
-    "criteria": {
-      "Obtain Grass Block": "2025-05-02 06:56:02 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/tin": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Tin Sapling": "2025-05-02 09:12:41 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_enhancement/melter": {
-    "criteria": {
-      "Obtain Porcelain Melter": "2025-05-02 07:50:39 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/wooden_crook": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Wooden Crook": "2025-05-02 05:45:29 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/sandsapling": {
-    "criteria": {
-      "Obtain Sand Sapling": "2025-05-02 06:58:43 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/bonsai": {
-    "criteria": {
-      "Obtain Bonsai Pot": "2025-05-02 06:27:44 +0000"
-    },
-    "done": true
-  },
-  "pacifist:pacifist_run/root": {
-    "criteria": {
-      "hasRock": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/complete": {
-    "criteria": {
-      "Completed Wood You Hand Me That Crate Please?§r": "2025-05-02 08:49:13 +0000",
-      "Completed 256 Liters of Cola§r": "2025-05-02 10:15:03 +0000",
-      "Completed Age of Storage§r": "2025-05-02 05:16:31 +0000",
-      "Completed Hop to It§r": "2025-05-02 08:33:53 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/slabs": {
-    "criteria": {
-      "Obtain Chest Slab": "2025-05-02 20:25:35 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/gold": {
-    "criteria": {
-      "Obtain Gold Amber": "2025-05-02 22:32:20 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/autopackager": {
-    "criteria": {
-      "Obtain Auto Packager": "2025-05-03 01:49:54 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/lavasource": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/petrifiedsapling": {
-    "criteria": {
-      "Obtain Petrified Sapling": "2025-05-02 05:45:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/bdsandmwoodencrate": {
-    "criteria": {
-      "Obtain Wood Crate": "2025-05-02 08:49:13 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/nether": {
-    "criteria": {
-      "Entered Nether": "2025-05-03 01:01:44 +0000"
-    },
-    "done": true
-  },
-  "hardcore:hardcore/forgivingvoid": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/completenoprestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed To Be ORe Not to Be§r": "2025-05-02 07:50:39 +0000",
-      "Completed Age of Enhancement§r": "2025-05-02 05:16:31 +0000",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:41:07 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/goldsapling": {
-    "criteria": {
-      "Obtain Gold Sapling": "2025-05-02 22:30:12 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/watercollection": {
-    "criteria": {
-      "Right Click Cauldron with Water Inside": "2025-05-02 06:09:18 +0000",
-      "Right Click Boiling Cauldron with Water Inside": "2025-05-02 09:17:21 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/completenoprestige": {
-    "criteria": {
-      "Completed Tin Man§r": "2025-05-02 09:15:02 +0000",
-      "Completed Air Fryer§r": "2025-05-02 06:34:10 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed That\u0027s Dir-tree§r": "2025-05-02 05:22:11 +0000",
-      "Completed Sticky Keys§r": "2025-05-02 05:48:17 +0000",
-      "Completed You Cotton Be Kidding Me§r": "2025-05-02 06:16:51 +0000",
-      "Completed Water You Waiting For?§r": "2025-05-02 08:56:37 +0000",
-      "Completed Break a Leg§r": "2025-05-02 06:06:17 +0000",
-      "Completed This Tree is Forever§r": "2025-05-03 02:19:12 +0000",
-      "Completed Blue Man Group§r": "2025-05-02 08:29:50 +0000",
-      "Completed I Love Lucy§r": "2025-05-02 05:42:11 +0000",
-      "Completed Hotbois§r": "2025-05-02 07:56:16 +0000",
-      "Completed Palm Trees§r": "2025-05-02 06:58:43 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Completed It\u0027s Tin This Pack§r": "2025-05-02 09:12:41 +0000",
-      "Completed Captain Hook§r": "2025-05-02 05:45:29 +0000",
-      "Completed Trees to Diamonds§r": "2025-05-03 00:20:28 +0000",
-      "Completed Cobble Cobble§r": "2025-05-02 10:14:00 +0000",
-      "Completed Not a Helmet§r": "2025-05-02 08:06:36 +0000",
-      "Completed Study in the Dark Arts§r": "2025-05-02 07:16:11 +0000",
-      "Completed It\u0027s Electric§r": "2025-05-02 22:43:43 +0000",
-      "Completed Dirty Dancing§r": "2025-05-02 05:23:03 +0000",
-      "Completed Amber is the Color of my Dinosaur§r": "2025-05-02 07:16:12 +0000",
-      "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
-      "Completed Don\u0027t Sieve on Me§r": "2025-05-02 05:49:44 +0000",
-      "Completed Lead Zeppelin§r": "2025-05-02 09:25:46 +0000",
-      "Completed Lead it Go§r": "2025-05-02 09:27:04 +0000",
-      "Completed Bubble, Bubble§r": "2025-05-02 07:54:50 +0000",
-      "Completed One Shiny Boi§r": "2025-05-02 22:32:20 +0000",
-      "Completed Money Grows on Trees§r": "2025-05-02 22:30:12 +0000",
-      "Completed Slop in the Bucket§r": "2025-05-02 06:26:07 +0000",
-      "Completed You Cotton Something?§r": "2025-05-02 06:18:05 +0000",
-      "Completed On the Rocks§r": "2025-05-02 05:53:37 +0000",
-      "Completed Starting from the Bottom§r": "2025-05-02 05:21:55 +0000",
-      "Completed Oh, the Irony§r": "2025-05-02 08:21:44 +0000",
-      "Completed COALateral Damage§r": "2025-05-03 00:57:06 +0000",
-      "Completed Ironwood§r": "2025-05-02 08:18:39 +0000",
-      "Completed Hardwood§r": "2025-05-02 05:45:47 +0000",
-      "Completed Sixteen Tons§r": "2025-05-02 07:16:41 +0000",
-      "Completed Stop Slabbing Yourself§r": "2025-05-02 20:25:35 +0000",
-      "Completed Clay Aiken§r": "2025-05-02 06:21:41 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/completenoprestige": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000",
-      "Completed Nether Here Nor There§r": "2025-05-03 01:01:44 +0000",
-      "Completed No Cake Like Home§r": "2025-05-03 01:01:44 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/slabs": {
-    "criteria": {
-      "Obtain Chest Slab": "2025-05-02 20:25:35 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/claysapling": {
-    "criteria": {
-      "Obtain a Clay Sapling": "2025-05-02 06:21:41 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/obsidian": {
-    "criteria": {
-      "Obtain Obsidian": "2025-05-02 07:16:11 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sleep": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/lead": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Lead Sapling": "2025-05-02 09:25:46 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/diamond": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/watersource": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/cauldron": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain a Cauldron": "2025-05-02 07:54:50 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/cobblestone_generator": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Open Chest Filled with Cobblestone": "2025-05-02 10:14:00 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/cobblestone": {
-    "criteria": {
-      "Obtain Cobblestone Block": "2025-05-02 05:53:37 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/gravel": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Gravel Sapling": "2025-05-02 05:49:44 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/crushing_tub": {
-    "criteria": {
-      "Obtain Crushing Tub": "2025-05-02 05:42:11 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/prestige_notify": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/petrifiedacorn": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2025-05-02 05:46:29 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/lava": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Lava Clay Bucket": "2025-05-02 07:56:16 +0000"
-    },
-    "done": true
-  },
-  "pacifist:pacifist_run/lose": {
-    "criteria": {
-      "killed poor innocent creature": "2025-05-02 06:11:11 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/root": {
-    "criteria": {
-      "non_tutorial_start": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/woodencrook": {
-    "criteria": {
-      "Obtain a Wooden Crook": "2025-05-02 05:45:29 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/donut": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/fertilesoil": {
-    "criteria": {
-      "Obtain Fertile Soil": "2025-05-02 06:30:08 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/ironsapling": {
-    "criteria": {
-      "Obtain Iron Sapling": "2025-05-02 08:18:39 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/silver": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/completenoprestige": {
-    "criteria": {
-      "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
-      "Completed Package Control§r": "2025-05-03 01:49:54 +0000",
-      "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
-      "Completed Need iiii Speed§r": "2025-05-03 01:43:40 +0000",
-      "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
-      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
-      "Completed Go, Go, Building Gadget§r": "2025-05-03 01:53:42 +0000",
-      "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
-      "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/clay": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain a Clay Sapling": "2025-05-02 06:21:41 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/cobblestone": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Cobblestone Block": "2025-05-02 05:53:37 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/gold": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Gold Sapling": "2025-05-02 22:30:12 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_farming/hoppingbonsai": {
-    "criteria": {
-      "Obtain Bonsai Pot": "2025-05-02 08:34:32 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/dryingrack": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2025-05-02 06:34:10 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/tin": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Tin Amber": "2025-05-02 09:15:02 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/acorn/dirt": {
-    "criteria": {
-      "Obtain Dirt Acorn": "2025-05-02 05:21:55 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:alt/compat/tconstruct": {
-    "criteria": {
-      "cast": "2025-05-02 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_allthethingsomglol/complete": {
-    "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/oakwood": {
-    "criteria": {
-      "Obtain Oak Wood": "2025-05-02 05:17:11 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/overworldcake": {
-    "criteria": {
-      "Obtain Overworld Cake": "2025-05-03 01:01:44 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/complete": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000",
-      "Completed Nether Here Nor There§r": "2025-05-03 01:01:44 +0000",
-      "Completed No Cake Like Home§r": "2025-05-03 01:01:44 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/dirt": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2025-05-02 05:22:11 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/resourcehogs": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/iron_ingot": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Iron Ingot": "2025-05-02 08:21:44 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/green_slimy_dirt": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/tank": {
-    "criteria": {
-      "Obtain Porcelain Tank": "2025-05-02 07:41:07 +0000"
-    },
-    "done": true
-  },
-  "sf4:age_storage/hopper": {
-    "criteria": {
-      "Obtain Hopper": "2025-05-02 08:33:53 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/iron_bucket": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Iron Bucket": "2025-05-02 08:06:36 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/gravelsapling": {
-    "criteria": {
-      "Obtain Gravel Sapling": "2025-05-02 05:49:44 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/silver": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/lead": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Lead Amber": "2025-05-02 09:27:04 +0000"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/placedirtsapling": {
-    "criteria": {
-      "Placed Dirt Sapling": "2025-05-02 05:25:01 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/gold": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Gold Amber": "2025-05-02 22:32:20 +0000"
-    },
     "done": true
-  },
-  "tutorial:tutorial/dirtsapling": {
-    "criteria": {
-      "Obtain a Dirt Sapling": "2025-05-02 05:22:11 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/cauldron": {
-    "criteria": {
-      "Obtain a Cauldron": "2025-05-02 07:54:50 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/skyorchards": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2025-05-02 05:22:11 +0000",
-      "Obtain Lead Sapling": "2025-05-02 09:25:46 +0000",
-      "Obtain Coal Sapling": "2025-05-02 07:16:41 +0000",
-      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000",
-      "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
-      "Obtain Lapis Sapling": "2025-05-02 08:29:50 +0000",
-      "Obtain Emerald Sapling": "2025-05-03 02:42:50 +0000",
-      "Obtain Petrified Sapling": "2025-05-02 05:45:47 +0000",
-      "Obtain Tin Sapling": "2025-05-02 09:12:41 +0000",
-      "Obtain Nickel Sapling": "2025-05-03 02:40:14 +0000",
-      "Obtain Iron Sapling": "2025-05-02 08:18:39 +0000",
-      "Obtain Sand Sapling": "2025-05-02 06:58:43 +0000",
-      "Obtain Gold Sapling": "2025-05-02 22:30:12 +0000",
-      "Obtain Redstone Sapling": "2025-05-02 22:43:43 +0000",
-      "Obtain Clay Sapling": "2025-05-02 06:21:41 +0000",
-      "Obtain Gravel Sapling": "2025-05-02 05:49:44 +0000",
-      "Obtain Bone Sapling": "2025-05-02 06:06:17 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/skygriddragonkill": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/crushingtub": {
-    "criteria": {
-      "Obtain Crushing Tub": "2025-05-02 05:42:11 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/water": {
-    "criteria": {
-      "Obtain Water in a Clay Bucket": "2025-05-02 08:56:37 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/sapling/lapis": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Lapis Sapling": "2025-05-02 08:29:50 +0000"
+      "unlock_right_away": "2025-09-24 00:28:20 +0000"
     },
     "done": true
   },
-  "sf4:age1/coal": {
+  "jujutsucraft:battle_advancements": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Coal": "2025-05-03 00:57:06 +0000"
+      "battle_advancements_0": "2025-09-24 00:28:20 +0000"
     },
     "done": true
   },
-  "tutorial:tutorial/copied/iron": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "Obtain Iron Amber": "2025-05-02 07:16:12 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
-    "done": false
-  },
-  "sf4:age_exploration/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
-    },
     "done": true
-  },
-  "tutorial:tutorial/copied/coalsapling": {
-    "criteria": {
-      "Obtain Coal Sapling": "2025-05-02 07:16:41 +0000"
-    },
-    "done": false
   },
-  "sf4:age_storage/root": {
+  "lootr:root": {
     "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
+      "always_true": "2025-09-24 00:28:20 +0000"
     },
     "done": true
   },
-  "sf4:age1/diamond": {
+  "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "Obtain Diamond": "2025-05-03 00:20:28 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
   },
-  "sf4:age1/obsidian": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Obsidian": "2025-05-02 07:16:11 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
-  },
-  "tutorial:tutorial/copied/lava": {
-    "criteria": {
-      "Obtain Lava Clay Bucket": "2025-05-02 07:56:16 +0000",
-      "Obtain Lava Iron Bucket": "2025-05-03 02:26:06 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/sapling/sand": {
+  "jujutsucraft:update": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Sand Sapling": "2025-05-02 06:58:43 +0000"
+      "update_0": "2025-09-24 00:31:21 +0000"
     },
     "done": true
   },
-  "sf4:age1/dirt": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Craft Dirt Block": "2025-05-02 05:23:03 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
   },
-  "sf4:age1/sapling/coal": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Coal Sapling": "2025-05-02 07:16:41 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
-  },
-  "sf4:age_enhancement/complete": {
-    "criteria": {
-      "Completed To Be ORe Not to Be§r": "2025-05-02 07:50:39 +0000",
-      "Completed Age of Enhancement§r": "2025-05-02 05:16:31 +0000",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2025-05-02 07:41:07 +0000"
-    },
-    "done": false
-  },
-  "compactmachines:test/5x5x5": {
-    "criteria": {
-      "Obtain Porcelain Melter": "2025-05-02 07:50:39 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/claybucket": {
-    "criteria": {
-      "Obtain Unfired Clay Bucket": "2025-05-02 06:26:07 +0000",
-      "Obtain Clay Bucket": "2025-05-02 06:26:27 +0000"
-    },
-    "done": false
   },
-  "sf4:age_power/simplegenerator": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "Obtain Simple Combustion Generator": "2025-05-03 00:53:20 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
   },
-  "sf4:age1/sapling/iron": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Iron Sapling": "2025-05-02 08:18:39 +0000"
+      "has_beef": "2025-09-24 00:32:25 +0000"
     },
     "done": true
-  },
-  "sf4:age1/stone_crook": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/sapling/bone": {
+  "jujutsucraft:advancement_insect": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Bone Sapling": "2025-05-02 06:06:17 +0000"
+      "advancement_insect_0": "2025-09-24 00:30:21 +0000"
     },
     "done": true
   },
-  "sf4:age_power/charger3": {
+  "ironfurnaces:coal": {
     "criteria": {
-      "Obtain Tier 3 Charger": "2025-05-03 00:20:51 +0000"
+      "rainbowcoal": "2025-09-24 00:28:20 +0000"
     },
     "done": true
   },
-  "pacifist:pacifist_run/peaceful": {
+  "jujutsucraft:skill_merged_beast_agito": {
     "criteria": {
-      "brokeLeaves": "2025-05-02 05:16:53 +0000",
-      "brokeLog": "2025-05-02 05:17:04 +0000"
+      "skill_merged_beast_agito_0": "2025-09-24 00:28:20 +0000"
     },
-    "done": false
-  },
-  "sf4:age_power/charger1": {
-    "criteria": {
-      "Obtain Tier 1 Charger": "2025-05-03 00:13:53 +0000"
-    },
     "done": true
   },
-  "sf4:age_power/charger2": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "Obtain Tier 2 Charger": "2025-05-03 00:16:50 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
   },
-  "sf4:age1/water": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Water in a Clay Bucket": "2025-05-02 08:56:37 +0000"
+      "killed_something": "2025-09-24 00:30:28 +0000"
     },
     "done": true
-  },
-  "sf4:age1/acorn/dirt_cooked": {
-    "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/twerk": {
+  "jujutsucraft:start_jujutsu_craft": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain 8 Dirt Saplings": "2025-05-02 05:48:17 +0000",
-      "Obtain 8 Oak Logs": "2025-05-02 05:46:00 +0000"
+      "start_jujutsu_craft_0": "2025-09-24 00:28:20 +0000"
     },
     "done": true
-  },
-  "tutorial:tutorial/copied/diamondsapling": {
-    "criteria": {
-      "Obtain Diamond Sapling": "2025-05-03 02:19:12 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/diamond": {
-    "criteria": {
-      "Obtain Diamond": "2025-05-03 00:20:28 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/string": {
-    "criteria": {
-      "Obtain Cottonwood Sapling": "2025-05-02 06:16:51 +0000",
-      "Obtain String": "2025-05-02 06:18:05 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_power/complete": {
-    "criteria": {
-      "Completed Charger 2: Electric Boogaloo§r": "2025-05-03 00:16:50 +0000",
-      "Completed Generator, I Hardly Know Her§r": "2025-05-03 00:53:20 +0000",
-      "Completed Package Control§r": "2025-05-03 01:49:54 +0000",
-      "Completed No Chargebacks§r": "2025-05-03 00:20:51 +0000",
-      "Completed Need iiii Speed§r": "2025-05-03 01:43:40 +0000",
-      "Completed Tesla was Right!§r": "2025-05-03 00:49:33 +0000",
-      "Completed Age of Power§r": "2025-05-02 05:16:31 +0000",
-      "Completed Go, Go, Building Gadget§r": "2025-05-03 01:53:42 +0000",
-      "Completed Level Up!§r": "2025-05-03 01:38:38 +0000",
-      "Completed Chargin\u0027 Mah Lazer!§r": "2025-05-03 00:13:53 +0000"
-    },
-    "done": false
   },
-  "hardcore:hardcore/survive": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "Get killed": "2025-05-02 05:24:06 +0000"
+      "minecraft:windswept_hills": "2025-09-24 00:28:20 +0000",
+      "minecraft:ocean": "2025-09-24 00:30:27 +0000",
+      "minecraft:plains": "2025-09-24 00:28:38 +0000"
     },
     "done": false
   },
-  "sf4:age1/clay_bucket": {
+  "parcool:grant_parcool_guide": {
     "criteria": {
-      "Obtain Unfired Clay Bucket": "2025-05-02 06:26:07 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
+      "tick": "2025-09-24 00:28:20 +0000"
     },
     "done": true
-  },
-  "compactmachines:test/5x5x52": {
-    "criteria": {
-      "Craft Simple Fluid Combustion Generator": "2025-05-03 00:55:05 +0000",
-      "Craft Simple Combustion Generator": "2025-05-03 00:53:20 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/dragonkill": {
-    "criteria": {
-      "Enter Custom End Dimension": "2025-05-03 01:01:44 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_farming/complete": {
-    "criteria": {
-      "Completed Bonsai!!!§r": "2025-05-02 06:27:44 +0000",
-      "Completed Age of Farming§r": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/amber/iron": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Iron Amber": "2025-05-02 07:16:12 +0000"
+      "has_beef": "2025-09-24 00:32:25 +0000"
     },
     "done": true
-  },
-  "tutorial:tutorial/copied/ironbucket": {
-    "criteria": {
-      "Obtain Iron Bucket": "2025-05-02 08:06:36 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/ironingot": {
-    "criteria": {
-      "Obtain Iron Ingot": "2025-05-02 08:21:44 +0000"
-    },
-    "done": false
   },
-  "sf4:age1/drying_rack": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "Completed Root": "2025-05-02 05:16:31 +0000",
-      "Obtain Drying Rack": "2025-05-02 06:34:10 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
-  },
-  "tutorial:tutorial/placeoak": {
-    "criteria": {
-      "Placed Oak Planks": "2025-05-02 05:18:40 +0000"
-    },
-    "done": false
   },
-  "sf4:age_power/speedmodifier": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "Obtain Speed Modifier": "2025-05-03 01:43:40 +0000"
+      "in_water": "2025-09-24 00:30:31 +0000"
     },
     "done": true
-  },
-  "sf4:age_allthethingsomglol/complete_no_prestige": {
-    "criteria": {
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2025-05-02 05:16:31 +0000",
-      "Has Sapling": "2025-05-02 05:22:11 +0000",
-      "Completed Root": "2025-05-02 05:16:31 +0000"
-    },
-    "done": false
   },
-  "sf4:age_farming/complete_no_prestige": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "Completed Cowabonsai!§r": "2025-05-02 08:34:32 +0000",
-      "Prestige Mode Disabled": "2025-05-02 05:16:31 +0000",
-      "Completed Fertile Soil§r": "2025-05-02 06:30:08 +0000",
-      "Completed Bonsai!!!§r": "2025-05-02 06:27:44 +0000",
-      "Completed Age of Farming§r": "2025-05-02 05:16:31 +0000"
+      "has_beef": "2025-09-24 00:32:25 +0000"
     },
-    "done": false
-  },
-  "sf4:age_allthethingsomglol/root": {
-    "criteria": {
-      "inventoryChange": "2025-05-02 05:16:31 +0000"
-    },
     "done": true
   },
-  "sf4:age_power/buildinggadget": {
-    "criteria": {
-      "Obtain Building Gadget": "2025-05-03 01:53:42 +0000"
-    },
-    "done": true
-  }
+  "DataVersion": 3465
 }
