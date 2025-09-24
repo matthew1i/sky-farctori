@@ -1636,3 +1636,126 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 01:38:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Nue: Titan]
 [24Sep2025 01:38:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Semi-Grade 2 Sorcerer]
 [24Sep2025 01:39:00.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved wrongly!
+[24Sep2025 01:40:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 01:40:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 01:40:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 01:40:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Divergent Fist]
+[24Sep2025 01:40:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Yuji Itadori's Skill]
+[24Sep2025 01:40:37.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Observation of the Soul]
+[24Sep2025 01:41:59.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[24Sep2025 01:42:16.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 01:42:40.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[24Sep2025 01:42:53.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[24Sep2025 01:42:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 01:42:53.088] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 01:43:50.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to 484.500000, 78.500000, 2346.500000]
+[24Sep2025 01:44:04.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:58695] logged in with entity id 42752 at (103.30000001192093, 66.0, 1300.524849234166)
+[24Sep2025 01:44:04.330] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 01:44:04.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 01:44:04.357] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 01:44:04.365] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 01:44:05.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was loaded
+[24Sep2025 01:44:05.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 01:44:05.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 01:44:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to -1657.500000, 76.500000, 4886.500000]
+[24Sep2025 01:44:13.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to -1667.500000, 63.500000, 4916.500000]
+[24Sep2025 01:44:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 01:44:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Reverse Cursed Technique Lv2]
+[24Sep2025 01:44:43.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 01:45:22.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Max Elephant]
+[24Sep2025 01:45:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 01:45:59.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Round Deer]
+[24Sep2025 01:46:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 01:46:21.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 01:47:14.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved wrongly!
+[24Sep2025 01:47:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 01:47:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Disme A Dozen]
+[24Sep2025 01:48:52.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved wrongly!
+[24Sep2025 01:49:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Hipster]
+[24Sep2025 01:49:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Hipster]
+[24Sep2025 01:49:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Hipster]
+[24Sep2025 01:49:57.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved wrongly!
+[24Sep2025 01:50:07.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Negi]
+[24Sep2025 01:50:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Semi-Grade 2 Sorcerer]
+[24Sep2025 01:50:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Inverse]
+[24Sep2025 01:50:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Inverse]
+[24Sep2025 01:51:25.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved too quickly! 9.481662479469833,-2.064366263232152,7.059494922204976
+[24Sep2025 01:51:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [The Tiger of Minecraft]
+[24Sep2025 01:51:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [The Tiger of Minecraft]
+[24Sep2025 01:51:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [The Tiger of Minecraft]
+[24Sep2025 01:52:00.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 01:52:00.512] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 01:52:00.513] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 01:52:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 01:52:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [I'm a Sandwich Person]
+[24Sep2025 01:52:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Witch]
+[24Sep2025 01:52:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Witch]
+[24Sep2025 01:53:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Reverse Cursed Technique Lv1]
+[24Sep2025 01:53:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Mahoraga Spawner]
+[24Sep2025 01:53:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Mahoraga Spawner]
+[24Sep2025 01:53:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Mahoraga Spawner]
+[24Sep2025 01:54:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 01:54:03.358] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 01:54:03.358] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 01:54:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 01:54:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Negi]
+[24Sep2025 01:54:37.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Negi]
+[24Sep2025 01:55:17.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Hanger Rack]
+[24Sep2025 01:55:17.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Hanger Rack]
+[24Sep2025 01:55:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 01:55:33.301] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 01:55:33.301] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 01:55:36.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 01:56:36.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Grade 2 Sorcerer]
+[24Sep2025 01:58:02.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Grade 2 Sorcerer]
+[24Sep2025 01:58:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Piercing Ox]
+[24Sep2025 01:59:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 13000]
+[24Sep2025 02:00:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Cartoonist]
+[24Sep2025 02:01:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Ushi no toki mairi]
+[24Sep2025 02:02:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 02:02:24.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Ushi no toki mairi]
+[24Sep2025 02:02:36.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 02:02:36.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 02:02:36.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 02:02:42.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:02:47.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Cutie Honey]
+[24Sep2025 02:04:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Force to submit the Tiger Funeral]
+[24Sep2025 02:07:14.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Fame -1-]
+[24Sep2025 02:07:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Grade 2 Sorcerer]
+[24Sep2025 02:07:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to zxymatthewyxz]
+[24Sep2025 02:07:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Junpei]
+[24Sep2025 02:07:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Junpei]
+[24Sep2025 02:08:17.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 10.220330822289384,0.0,3.5603711772237148
+[24Sep2025 02:09:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Naoya]
+[24Sep2025 02:09:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Naoya]
+[24Sep2025 02:09:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:09:58.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Witch]
+[24Sep2025 02:10:53.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 13000]
+[24Sep2025 02:11:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Junpei]
+[24Sep2025 02:11:42.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died whilst trying to escape Cursed Spirit Grade 2
+[24Sep2025 02:11:42.353] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 02:11:42.354] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 02:11:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:12:13.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has reached the goal [Reverse Cursed Technique Lv2]
+[24Sep2025 02:12:34.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -11.02834612544234,0.0,0.5447722807521131
+[24Sep2025 02:13:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Re-Creation]
+[24Sep2025 02:13:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Re-Creation]
+[24Sep2025 02:13:42.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Max Elephant: Piercing Blood]
+[24Sep2025 02:13:42.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Semi-Grade 1 Sorcerer]
+[24Sep2025 02:14:38.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 02:14:38.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed Pilin]
+[24Sep2025 02:14:39.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 02:14:39.220] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 02:14:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to zxymatthewyxz]
+[24Sep2025 02:14:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:15:47.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Naoya]
+[24Sep2025 02:16:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Deep Concentration]
+[24Sep2025 02:17:56.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved wrongly!
+[24Sep2025 02:18:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Black Flash]
+[24Sep2025 02:19:21.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 02:19:22.190] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 02:19:22.190] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 02:19:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 02:19:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 02:19:37.208] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 02:19:37.208] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
