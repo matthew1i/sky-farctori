@@ -53,6 +53,24 @@
     },
     "done": true
   },
+  "jujutsucraft:mastery_simple_domain": {
+    "criteria": {
+      "mastery_simple_domain_0": "2025-09-24 01:10:25 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_ogami": {
+    "criteria": {
+      "battle_ogami_0": "2025-09-24 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-09-24 01:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-24 00:43:52 +0000"
@@ -62,6 +80,12 @@
   "tetra:recipes/string": {
     "criteria": {
       "got_string": "2025-09-24 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-24 01:05:50 +0000"
     },
     "done": true
   },
@@ -161,9 +185,21 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_3": {
+    "criteria": {
+      "sorcerer_grade_3_0": "2025-09-24 01:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-09-24 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-24 01:15:09 +0000"
     },
     "done": true
   },
@@ -179,9 +215,21 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_nue": {
+    "criteria": {
+      "skill_nue_0": "2025-09-24 01:02:57 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_ten_shadows_technique": {
     "criteria": {
       "skill_ten_shadows_technique_0": "2025-09-24 00:34:44 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mimiko_nanako": {
+    "criteria": {
+      "battle_mimiko_nanako_0": "2025-09-24 01:09:56 +0000"
     },
     "done": true
   },
@@ -341,6 +389,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-09-24 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-24 01:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-09-24 00:43:52 +0000"
@@ -367,13 +427,25 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 00:50:38 +0000"
+      "update_0": "2025-09-24 01:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-24 01:11:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-09-24 00:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-24 01:15:09 +0000"
     },
     "done": true
   },
@@ -404,6 +476,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-09-24 00:43:52 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_great_serpent": {
+    "criteria": {
+      "skill_great_serpent_0": "2025-09-24 01:04:08 +0000"
     },
     "done": true
   },
@@ -521,6 +599,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-09-24 01:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-24 01:15:09 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:advancement_insect": {
     "criteria": {
       "advancement_insect_0": "2025-09-24 00:34:55 +0000"
@@ -623,9 +713,21 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_w": "2025-09-24 01:15:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-09-24 00:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-24 01:05:50 +0000"
     },
     "done": true
   },
@@ -655,11 +757,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-09-24 01:07:08 +0000",
       "minecraft:windswept_hills": "2025-09-24 00:33:19 +0000",
       "minecraft:beach": "2025-09-24 00:41:11 +0000",
       "minecraft:river": "2025-09-24 00:55:57 +0000",
       "minecraft:forest": "2025-09-24 00:56:20 +0000",
       "minecraft:ocean": "2025-09-24 00:44:14 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-24 01:06:06 +0000",
+      "minecraft:savanna": "2025-09-24 01:17:39 +0000",
       "minecraft:plains": "2025-09-24 00:36:33 +0000"
     },
     "done": false
@@ -679,6 +784,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-09-24 00:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-24 01:15:09 +0000"
     },
     "done": true
   },
@@ -715,6 +826,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-24 00:45:16 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_2": {
+    "criteria": {
+      "fame_2_0": "2025-09-24 00:58:25 +0000"
     },
     "done": true
   },
@@ -781,6 +898,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-09-24 00:49:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-09-24 01:02:09 +0000"
     },
     "done": true
   },

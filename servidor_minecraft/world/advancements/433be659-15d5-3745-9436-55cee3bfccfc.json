@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "jujutsucraft:mastery_simple_domain": {
+    "criteria": {
+      "mastery_simple_domain_0": "2025-09-24 01:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-09-24 00:53:06 +0000"
@@ -119,9 +125,21 @@
     },
     "done": true
   },
+  "jujutsucraft:sorcerer_grade_4": {
+    "criteria": {
+      "sorcerer_grade_4_0": "2025-09-24 01:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-24 00:53:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-09-24 01:09:26 +0000"
     },
     "done": true
   },
@@ -140,6 +158,12 @@
   "chiselsandbits:recipes/tools/modification_table": {
     "criteria": {
       "has_b": "2025-09-24 00:49:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mimiko_nanako": {
+    "criteria": {
+      "battle_mimiko_nanako_0": "2025-09-24 01:09:56 +0000"
     },
     "done": true
   },
@@ -187,7 +211,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-09-24 00:41:33 +0000"
+      "minecraft:skeleton": "2025-09-24 01:11:33 +0000",
+      "minecraft:spider": "2025-09-24 00:41:33 +0000",
+      "minecraft:creeper": "2025-09-24 01:06:03 +0000",
+      "minecraft:zombie": "2025-09-24 01:04:53 +0000"
     },
     "done": false
   },
@@ -206,6 +233,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-24 00:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-24 01:05:36 +0000"
     },
     "done": true
   },
@@ -247,7 +280,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 00:40:44 +0000"
+      "update_0": "2025-09-24 01:15:54 +0000"
     },
     "done": true
   },
@@ -396,6 +429,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-09-24 01:05:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-09-24 00:41:25 +0000"
@@ -494,6 +533,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-09-24 01:07:54 +0000",
       "minecraft:windswept_hills": "2025-09-24 00:28:20 +0000",
       "minecraft:beach": "2025-09-24 00:41:04 +0000",
       "minecraft:river": "2025-09-24 00:54:53 +0000",
@@ -534,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-24 01:09:26 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2025-09-24 00:49:20 +0000"
@@ -543,6 +589,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-09-24 00:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-24 01:09:26 +0000"
     },
     "done": true
   },
