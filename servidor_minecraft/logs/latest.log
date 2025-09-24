@@ -2466,3 +2466,359 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 04:10:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
 [24Sep2025 04:10:33.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
 [24Sep2025 04:10:56.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7538ms or 150 ticks behind
+[24Sep2025 04:11:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 04:11:22.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11462ms or 229 ticks behind
+[24Sep2025 04:11:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Spectator Mode]
+[24Sep2025 04:11:45.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7618ms or 152 ticks behind
+[24Sep2025 04:11:48.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[24Sep2025 04:11:54.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Survival Mode]
+[24Sep2025 04:12:04.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[24Sep2025 04:12:07.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Spectator Mode]
+[24Sep2025 04:13:00.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[24Sep2025 04:14:02.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 04:14:12.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Spectator Mode]
+[24Sep2025 04:14:28.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 04:14:33.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 04:14:33.571] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:14:33.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:14:47.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 04:14:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 04:15:00.726] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:15:00.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:15:03.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[24Sep2025 04:15:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 04:15:16.659] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:15:16.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217584, l='ServerLevel[world]', x=441.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:15:22.313] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:15:22.471] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217584, l='ServerLevel[world]', x=441.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:15:31.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13243ms or 264 ticks behind
+[24Sep2025 04:15:57.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[24Sep2025 04:16:01.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15625ms or 312 ticks behind
+[24Sep2025 04:16:04.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:16:04.344] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217584, l='ServerLevel[world]', x=441.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:16:46.381] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:17:09.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52768ms or 1055 ticks behind
+[24Sep2025 04:17:10.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Spectator Mode]
+[24Sep2025 04:17:41.590] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:17:41.591] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217584, l='ServerLevel[world]', x=441.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:17:50.384] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:17:50.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217584, l='ServerLevel[world]', x=441.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:17:52.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/217583, l='ServerLevel[world]', x=440.50, y=66.00, z=313.75, removed=DISCARDED]
+[24Sep2025 04:18:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:18:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:18:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed whilst fighting Ryomen Sukuna
+[24Sep2025 04:18:14.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 1981 entities]
+[24Sep2025 04:18:15.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:18:15.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:18:15.221] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:18:15.221] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:18:16.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:17.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 52453ms or 1049 ticks behind
+[24Sep2025 04:18:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:22.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:23.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:23.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:18:23.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:18:24.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:18:25.428] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:18:25.428] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:18:27.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:18:27.529] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:18:29.494] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:18:29.494] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:18:43.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 04:18:46.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to Pilin]
+[24Sep2025 04:19:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 04:19:39.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 04:19:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 1000]
+[24Sep2025 04:19:47.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:19:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:19:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed whilst fighting Spider
+[24Sep2025 04:19:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 295 entities]
+[24Sep2025 04:19:47.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:19:47.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:19:47.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:19:47.605] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:19:47.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:19:47.743] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:19:55.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 04:22:46.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:22:46.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:22:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:22:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 77 entities]
+[24Sep2025 04:22:46.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:22:46.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:22:46.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:22:46.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:22:47.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:22:47.220] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:23:01.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Spectator Mode]
+[24Sep2025 04:23:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 04:23:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Creative Mode]
+[24Sep2025 04:23:39.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 04:23:45.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to zxymatthewyxz]
+[24Sep2025 04:23:59.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 9.642392435669777,6.191061948020263,-1.7324810759045874
+[24Sep2025 04:24:02.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Sep2025 04:24:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:24:25.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:24:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 28 entities]
+[24Sep2025 04:24:25.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:24:25.689] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:24:25.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:24:25.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:24:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Kicked zxymatthewyxz: Kicked by an operator]
+[24Sep2025 04:24:36.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Kicked by an operator
+[24Sep2025 04:24:36.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 04:24:36.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 04:24:45.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:50104] logged in with entity id 298202 at (27.576175480134047, 50.33058705631447, 200.23608675896608)
+[24Sep2025 04:24:45.437] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 04:24:45.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 04:24:45.466] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 04:24:45.474] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 04:24:45.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was loaded
+[24Sep2025 04:24:45.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:24:45.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:25:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:25:00.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:00.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 23 entities]
+[24Sep2025 04:25:00.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:25:00.405] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:25:00.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:25:00.439] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:25:00.534] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:00.535] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:01.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:02.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:02.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:02.599] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:02.599] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:03.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:03.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:04.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:04.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:06.131] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:06.131] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:19.500] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:19.500] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:20.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:21.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:21.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:22.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:22.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:22.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:23.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:23.444] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:23.445] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:23.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:25.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:25.753] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:25.753] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:27.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:28.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:28.035] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:28.035] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:30.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:30.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:30.294] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:30.294] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:31.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:32.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:25:32.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:32.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:32.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:32.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:32.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:25:33.918] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:33.918] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:35.136] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:25:35.136] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:25:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 04:27:41.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:27:41.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:27:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:27:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 112 entities]
+[24Sep2025 04:27:42.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:27:42.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:27:42.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:27:42.349] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:27:42.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:27:42.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:27:53.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -3.8804944030644535,0.0,9.37630194425634
+[24Sep2025 04:28:23.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Set own game mode to Spectator Mode]
+[24Sep2025 04:28:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Kicked zxymatthewyxz: Kicked by an operator]
+[24Sep2025 04:28:51.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Kicked by an operator
+[24Sep2025 04:28:51.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 04:28:51.479] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 04:28:57.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:50753] logged in with entity id 303606 at (24.46402428206599, 48.0, 209.29933417344083)
+[24Sep2025 04:28:57.286] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 04:28:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 04:28:57.315] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 04:28:57.322] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 04:28:57.511] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was loaded
+[24Sep2025 04:28:57.511] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:28:57.511] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:12.499] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:29:12.499] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:12.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:13.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:13.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:13.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:29:13.595] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:13.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:13.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:14.746] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:29:14.746] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:15.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:16.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:29:16.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed
+[24Sep2025 04:29:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:16.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Killed zxymatthewyxz]
+[24Sep2025 04:29:17.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Kicked zxymatthewyxz: Kicked by an operator]
+[24Sep2025 04:29:17.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Kicked by an operator
+[24Sep2025 04:29:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 04:29:23.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:50812] logged in with entity id 304371 at (9.5, 53.0, 83.5)
+[24Sep2025 04:29:23.438] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 04:29:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 04:29:23.468] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 04:29:23.476] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 04:29:24.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:29:24.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:29:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 1000]
+[24Sep2025 04:30:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol was killed
+[24Sep2025 04:30:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin was killed
+[24Sep2025 04:30:13.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Special Grade Cursed Spirit -3-]
+[24Sep2025 04:30:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed whilst fighting Curse User 1
+[24Sep2025 04:30:13.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Killed 271 entities]
+[24Sep2025 04:30:13.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 04:30:13.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 04:30:13.899] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:30:13.900] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:30:13.996] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:30:14.001] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:30:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Banned zxymatthewyxz: Banned by an operator.]
+[24Sep2025 04:30:38.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: You are banned from this server
+[24Sep2025 04:30:38.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 04:30:38.083] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 04:30:49.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Unbanned zxymatthewyxz]
+[24Sep2025 04:30:50.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e849417[id=<null>,name=zxymatthewyxz,properties={},legacy=false] (/100.84.145.86:51105) lost connection: Disconnected
+[24Sep2025 04:30:57.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.84.145.86:51107] logged in with entity id 306737 at (37.880433792031305, 48.04553844222133, 228.65682219690964)
+[24Sep2025 04:30:57.652] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zxymatthewyxz
+[24Sep2025 04:30:57.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[24Sep2025 04:30:57.670] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: zxymatthewyxz
+[24Sep2025 04:30:57.678] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
+[24Sep2025 04:30:57.902] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was loaded
+[24Sep2025 04:30:57.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:30:57.903] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:31:08.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned Pilin: Banned by an operator.
+[24Sep2025 04:31:08.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin lost connection: You are banned from this server
+[24Sep2025 04:31:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin left the game
+[24Sep2025 04:31:08.081] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 349e4b3a-0018-34a8-a2fc-69a3b99167cc was unloaded
+[24Sep2025 04:31:14.335] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@43fdda1d[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49190): You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:14.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43fdda1d[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49190) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:14.381] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Sep2025 04:31:17.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@11e93492[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49191): You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:17.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11e93492[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49191) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:17.782] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Sep2025 04:31:21.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5a3ca49c[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49192): You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:21.731] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a3ca49c[id=349e4b3a-0018-34a8-a2fc-69a3b99167cc,name=Pilin,properties={},legacy=false] (/100.102.182.24:49192) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[24Sep2025 04:31:21.780] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Sep2025 04:31:24.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Unbanned Pilin]
+[24Sep2025 04:31:25.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pilin[/100.102.182.24:49193] logged in with entity id 307281 at (24.367649704536674, 56.00492677176209, 91.61015066060344)
+[24Sep2025 04:31:25.789] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Pilin
+[24Sep2025 04:31:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin joined the game
+[24Sep2025 04:31:25.817] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Pilin
+[24Sep2025 04:31:25.824] [Server thread/INFO] [Jade/]: Syncing config to Pilin (349e4b3a-0018-34a8-a2fc-69a3b99167cc)
+[24Sep2025 04:31:25.992] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 349e4b3a-0018-34a8-a2fc-69a3b99167cc was loaded
+[24Sep2025 04:31:25.992] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 04:31:25.992] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 04:31:51.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to liamsitol]
+[24Sep2025 04:32:43.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[24Sep2025 04:32:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 04:32:45.607] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:32:45.607] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:33:05.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7067ms or 141 ticks behind
+[24Sep2025 04:33:26.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6046ms or 120 ticks behind
+[24Sep2025 04:33:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 04:33:30.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:33:30.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:34:07.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -9.458570895407185,-2.626806449523265,-2.7528635984978536
+[24Sep2025 04:34:23.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol lost connection: Disconnected
+[24Sep2025 04:34:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol left the game
+[24Sep2025 04:34:23.484] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7a9396e1-947c-3ecf-b472-b97fcf5c0003 was unloaded
+[24Sep2025 04:34:27.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin lost connection: Disconnected
+[24Sep2025 04:34:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin left the game
+[24Sep2025 04:34:27.687] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 349e4b3a-0018-34a8-a2fc-69a3b99167cc was unloaded
+[24Sep2025 04:34:44.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Killed zxymatthewyxz]
+[24Sep2025 04:34:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was killed whilst fighting Sukuna
+[24Sep2025 04:34:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Killed zxymatthewyxz]
+[24Sep2025 04:34:51.097] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 04:34:51.097] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 04:34:52.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz lost connection: Disconnected
+[24Sep2025 04:34:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz left the game
+[24Sep2025 04:34:52.656] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 433be659-15d5-3745-9436-55cee3bfccfc was unloaded
+[24Sep2025 04:35:00.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Sep2025 04:35:00.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Sep2025 04:35:00.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Sep2025 04:35:00.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Sep2025 04:35:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Sep2025 04:35:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Sep2025 04:35:01.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Sep2025 04:35:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jujutsucraft:cursed_spirit_manipulation_dimension
+[24Sep2025 04:35:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[24Sep2025 04:35:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Sep2025 04:35:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Sep2025 04:35:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Sep2025 04:35:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cursed_spirit_manipulation_dimension): All chunks are saved
+[24Sep2025 04:35:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[24Sep2025 04:35:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Sep2025 04:35:02.615] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Sep2025 04:35:02.616] [Server thread/INFO] [Framework/]: Finished unloading server configs

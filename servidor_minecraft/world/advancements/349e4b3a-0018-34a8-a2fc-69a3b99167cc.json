@@ -1552,21 +1552,9 @@
     },
     "done": true
   },
-  "jujutsucraft:update": {
+  "jujutsucraft:observation_of_the_soul": {
     "criteria": {
-      "update_0": "2025-09-24 04:06:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-24 03:21:20 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:advancement_six_eyes": {
-    "criteria": {
-      "advancement_six_eyes_0": "2025-09-24 03:05:27 +0000"
+      "observation_of_the_soul_0": "2025-09-24 03:01:52 +0000"
     },
     "done": true
   },
@@ -1576,39 +1564,21 @@
     },
     "done": true
   },
-  "jujutsucraft:battle_cursed_spirit_grade_special_1": {
-    "criteria": {
-      "battle_cursed_spirit_grade_special_1_0": "2025-09-24 03:37:53 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_infinity": {
-    "criteria": {
-      "skill_infinity_0": "2025-09-24 03:26:36 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:mastery_falling_blossom_emotion": {
-    "criteria": {
-      "mastery_falling_blossom_emotion_0": "2025-09-24 03:26:49 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:completely_physically_gifted": {
-    "criteria": {
-      "completely_physically_gifted_0": "2025-09-24 03:36:30 +0000"
-    },
-    "done": true
-  },
   "jujutsucraft:skill_sukuna": {
     "criteria": {
       "skill_sukuna_0": "2025-09-24 03:01:54 +0000"
     },
     "done": true
   },
-  "jujutsucraft:skill_cursed_technique_reversal_red": {
+  "jujutsucraft:skill_cleave": {
     "criteria": {
-      "skill_cursed_technique_reversal_red_0": "2025-09-24 03:26:27 +0000"
+      "skill_cleave_0": "2025-09-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_open": {
+    "criteria": {
+      "skill_open_0": "2025-09-24 03:01:54 +0000"
     },
     "done": true
   },
@@ -1618,33 +1588,9 @@
     },
     "done": true
   },
-  "jujutsucraft:skill_high_speed": {
+  "jujutsucraft:advancement_six_eyes": {
     "criteria": {
-      "skill_high_speed_0": "2025-09-24 03:26:27 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:mastery_open_barrier_type_domain": {
-    "criteria": {
-      "mastery_open_barrier_type_domain_0": "2025-09-24 03:26:46 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_gojo": {
-    "criteria": {
-      "skill_gojo_0": "2025-09-24 03:26:27 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_strike_strengthening": {
-    "criteria": {
-      "skill_strike_strengthening_0": "2025-09-24 03:26:27 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_cleave": {
-    "criteria": {
-      "skill_cleave_0": "2025-09-24 03:01:54 +0000"
+      "advancement_six_eyes_0": "2025-09-24 03:05:27 +0000"
     },
     "done": true
   },
@@ -1660,27 +1606,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-24 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cursed_technique_reversal_red": {
+    "criteria": {
+      "skill_cursed_technique_reversal_red_0": "2025-09-24 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_high_speed": {
+    "criteria": {
+      "skill_high_speed_0": "2025-09-24 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_gojo": {
+    "criteria": {
+      "skill_gojo_0": "2025-09-24 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_strike_strengthening": {
+    "criteria": {
+      "skill_strike_strengthening_0": "2025-09-24 03:26:27 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_hollow_technique_purple": {
     "criteria": {
       "skill_hollow_technique_purple_0": "2025-09-24 03:26:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-24 03:27:57 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:observation_of_the_soul": {
-    "criteria": {
-      "observation_of_the_soul_0": "2025-09-24 03:01:52 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_miguel_2": {
-    "criteria": {
-      "battle_miguel_2_0": "2025-09-24 03:29:37 +0000"
     },
     "done": true
   },
@@ -1690,9 +1648,51 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_infinity": {
+    "criteria": {
+      "skill_infinity_0": "2025-09-24 03:26:36 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_open_barrier_type_domain": {
+    "criteria": {
+      "mastery_open_barrier_type_domain_0": "2025-09-24 03:26:46 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_falling_blossom_emotion": {
+    "criteria": {
+      "mastery_falling_blossom_emotion_0": "2025-09-24 03:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-24 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_miguel_2": {
+    "criteria": {
+      "battle_miguel_2_0": "2025-09-24 03:29:37 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:reward_weapons": {
     "criteria": {
       "reward_weapons_0": "2025-09-24 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:completely_physically_gifted": {
+    "criteria": {
+      "completely_physically_gifted_0": "2025-09-24 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_1": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_1_0": "2025-09-24 03:37:53 +0000"
     },
     "done": true
   },
@@ -1702,9 +1702,9 @@
     },
     "done": true
   },
-  "jujutsucraft:skill_open": {
+  "jujutsucraft:update": {
     "criteria": {
-      "skill_open_0": "2025-09-24 03:01:54 +0000"
+      "update_0": "2025-09-24 04:31:25 +0000"
     },
     "done": true
   },

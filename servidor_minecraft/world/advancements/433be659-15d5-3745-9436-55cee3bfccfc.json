@@ -57,6 +57,7 @@
       "minecraft:beach": "2025-09-24 00:41:04 +0000",
       "minecraft:dark_forest": "2025-09-24 01:23:35 +0000",
       "minecraft:river": "2025-09-24 00:54:53 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-24 04:32:24 +0000",
       "minecraft:snowy_plains": "2025-09-24 01:44:43 +0000",
       "minecraft:snowy_taiga": "2025-09-24 01:47:34 +0000",
       "minecraft:swamp": "2025-09-24 01:38:10 +0000",
@@ -1434,12 +1435,6 @@
     },
     "done": true
   },
-  "jujutsucraft:update": {
-    "criteria": {
-      "update_0": "2025-09-24 04:06:46 +0000"
-    },
-    "done": true
-  },
   "jujutsucraft:sorcerer_grade_special": {
     "criteria": {
       "sorcerer_grade_special_0": "2025-09-24 02:45:10 +0000"
@@ -1452,9 +1447,237 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_juzo_kumiya": {
+    "criteria": {
+      "battle_juzo_kumiya_0": "2025-09-24 02:47:04 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_dagon": {
+    "criteria": {
+      "battle_dagon_0": "2025-09-24 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mahoraga": {
+    "criteria": {
+      "battle_mahoraga_0": "2025-09-24 02:48:45 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_chojuro_zenin": {
+    "criteria": {
+      "battle_chojuro_zenin_0": "2025-09-24 02:51:51 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_hiromi_higuruma": {
+    "criteria": {
+      "battle_hiromi_higuruma_0": "2025-09-24 02:52:19 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_hajime_kashimo": {
+    "criteria": {
+      "battle_hajime_kashimo_0": "2025-09-24 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_larue": {
+    "criteria": {
+      "battle_larue_0": "2025-09-24 02:53:46 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_15": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_15_0": "2025-09-24 02:54:26 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_eso": {
+    "criteria": {
+      "battle_eso_0": "2025-09-24 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_supernova_itadori": {
+    "criteria": {
+      "skill_supernova_itadori_0": "2025-09-24 02:54:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_toji_fushiguro": {
+    "criteria": {
+      "battle_toji_fushiguro_0": "2025-09-24 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_open_barrier_type_domain": {
+    "criteria": {
+      "mastery_open_barrier_type_domain_0": "2025-09-24 02:58:10 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_7": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_7_0": "2025-09-24 02:58:11 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_yorozu": {
+    "criteria": {
+      "battle_yorozu_0": "2025-09-24 02:58:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_jinichi_zenin": {
+    "criteria": {
+      "battle_jinichi_zenin_0": "2025-09-24 03:02:02 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_ogi_zenin": {
+    "criteria": {
+      "battle_ogi_zenin_0": "2025-09-24 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_16": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_16_0": "2025-09-24 03:03:53 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_yuji_itadori_shinjuku": {
+    "criteria": {
+      "battle_yuji_itadori_shinjuku_0": "2025-09-24 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_kento_nanami": {
+    "criteria": {
+      "battle_kento_nanami_0": "2025-09-24 03:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-24 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-09-24 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-24 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-24 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_piercing_blood_itadori": {
+    "criteria": {
+      "skill_piercing_blood_itadori_0": "2025-09-24 03:16:28 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_flowing_red_scale": {
     "criteria": {
       "skill_flowing_red_scale_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_supernova": {
+    "criteria": {
+      "skill_supernova_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_blood_wave": {
+    "criteria": {
+      "skill_blood_wave_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_convergence": {
+    "criteria": {
+      "skill_convergence_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_blood_manipulation": {
+    "criteria": {
+      "skill_blood_manipulation_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_piercing_blood": {
+    "criteria": {
+      "skill_piercing_blood_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_dismantle": {
+    "criteria": {
+      "skill_dismantle_0": "2025-09-24 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_sukuna": {
+    "criteria": {
+      "skill_sukuna_0": "2025-09-24 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cleave": {
+    "criteria": {
+      "skill_cleave_0": "2025-09-24 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_open": {
+    "criteria": {
+      "skill_open_0": "2025-09-24 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_dismantle_itadori": {
+    "criteria": {
+      "skill_dismantle_itadori_0": "2025-09-24 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_naoya_zenin": {
+    "criteria": {
+      "battle_naoya_zenin_0": "2025-09-24 03:20:16 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_falling_blossom_emotion": {
+    "criteria": {
+      "mastery_falling_blossom_emotion_0": "2025-09-24 03:21:42 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:anti_open_barrier_type_domain": {
+    "criteria": {
+      "anti_open_barrier_type_domain_0": "2025-09-24 03:21:48 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_noritoshi_kamo": {
+    "criteria": {
+      "battle_noritoshi_kamo_0": "2025-09-24 03:22:25 +0000"
     },
     "done": true
   },
@@ -1470,153 +1693,9 @@
     },
     "done": true
   },
-  "jujutsucraft:battle_hajime_kashimo": {
-    "criteria": {
-      "battle_hajime_kashimo_0": "2025-09-24 02:52:52 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_supernova": {
-    "criteria": {
-      "skill_supernova_0": "2025-09-24 03:17:03 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_larue": {
-    "criteria": {
-      "battle_larue_0": "2025-09-24 02:53:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-09-24 03:15:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_cursed_spirit_grade_special_7": {
-    "criteria": {
-      "battle_cursed_spirit_grade_special_7_0": "2025-09-24 02:58:11 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_juzo_kumiya": {
-    "criteria": {
-      "battle_juzo_kumiya_0": "2025-09-24 02:47:04 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_dismantle": {
-    "criteria": {
-      "skill_dismantle_0": "2025-09-24 03:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_kento_nanami": {
-    "criteria": {
-      "battle_kento_nanami_0": "2025-09-24 03:13:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-09-24 03:36:15 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_blood_wave": {
-    "criteria": {
-      "skill_blood_wave_0": "2025-09-24 03:17:03 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_supernova_itadori": {
-    "criteria": {
-      "skill_supernova_itadori_0": "2025-09-24 02:54:58 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:mastery_falling_blossom_emotion": {
-    "criteria": {
-      "mastery_falling_blossom_emotion_0": "2025-09-24 03:21:42 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_yorozu": {
-    "criteria": {
-      "battle_yorozu_0": "2025-09-24 02:58:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-24 03:36:15 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_piercing_blood_itadori": {
-    "criteria": {
-      "skill_piercing_blood_itadori_0": "2025-09-24 03:16:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-24 03:36:15 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:completely_physically_gifted": {
-    "criteria": {
-      "completely_physically_gifted_0": "2025-09-24 03:35:01 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_sukuna": {
-    "criteria": {
-      "skill_sukuna_0": "2025-09-24 03:19:40 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_dismantle_itadori": {
-    "criteria": {
-      "skill_dismantle_itadori_0": "2025-09-24 03:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_chojuro_zenin": {
-    "criteria": {
-      "battle_chojuro_zenin_0": "2025-09-24 02:51:51 +0000"
-    },
-    "done": true
-  },
   "jujutsucraft:skill_disaster_flames": {
     "criteria": {
       "skill_disaster_flames_0": "2025-09-24 03:29:34 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_noritoshi_kamo": {
-    "criteria": {
-      "battle_noritoshi_kamo_0": "2025-09-24 03:22:25 +0000"
     },
     "done": true
   },
@@ -1626,21 +1705,39 @@
     },
     "done": true
   },
-  "jujutsucraft:battle_naoya_zenin": {
+  "jujutsucraft:skill_maximum_meteor": {
     "criteria": {
-      "battle_naoya_zenin_0": "2025-09-24 03:20:16 +0000"
+      "skill_maximum_meteor_0": "2025-09-24 03:29:34 +0000"
     },
     "done": true
   },
-  "jujutsucraft:skill_convergence": {
+  "jujutsucraft:reward_weapons": {
     "criteria": {
-      "skill_convergence_0": "2025-09-24 03:17:03 +0000"
+      "reward_weapons_0": "2025-09-24 03:34:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+  "jujutsucraft:completely_physically_gifted": {
     "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
+      "completely_physically_gifted_0": "2025-09-24 03:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
     },
     "done": true
   },
@@ -1650,99 +1747,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-09-24 03:15:07 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_eso": {
-    "criteria": {
-      "battle_eso_0": "2025-09-24 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-09-24 03:54:12 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_dagon": {
-    "criteria": {
-      "battle_dagon_0": "2025-09-24 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_kenjaku": {
-    "criteria": {
-      "battle_kenjaku_0": "2025-09-24 03:51:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-24 03:36:15 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_maximum_meteor": {
-    "criteria": {
-      "skill_maximum_meteor_0": "2025-09-24 03:29:34 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:mastery_open_barrier_type_domain": {
-    "criteria": {
-      "mastery_open_barrier_type_domain_0": "2025-09-24 02:58:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_cleave": {
-    "criteria": {
-      "skill_cleave_0": "2025-09-24 03:19:40 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_jinichi_zenin": {
-    "criteria": {
-      "battle_jinichi_zenin_0": "2025-09-24 03:02:02 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_blood_manipulation": {
-    "criteria": {
-      "skill_blood_manipulation_0": "2025-09-24 03:17:03 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_hiromi_higuruma": {
-    "criteria": {
-      "battle_hiromi_higuruma_0": "2025-09-24 02:52:19 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:skill_piercing_blood": {
-    "criteria": {
-      "skill_piercing_blood_0": "2025-09-24 03:17:03 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_yuji_itadori_shinjuku": {
-    "criteria": {
-      "battle_yuji_itadori_shinjuku_0": "2025-09-24 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1752,63 +1759,9 @@
     },
     "done": true
   },
-  "jujutsucraft:battle_cursed_spirit_grade_special_10": {
-    "criteria": {
-      "battle_cursed_spirit_grade_special_10_0": "2025-09-24 03:36:56 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_cursed_spirit_grade_special_16": {
-    "criteria": {
-      "battle_cursed_spirit_grade_special_16_0": "2025-09-24 03:03:53 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_cursed_spirit_grade_special_15": {
-    "criteria": {
-      "battle_cursed_spirit_grade_special_15_0": "2025-09-24 02:54:26 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_mahoraga": {
-    "criteria": {
-      "battle_mahoraga_0": "2025-09-24 02:48:45 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_ogi_zenin": {
-    "criteria": {
-      "battle_ogi_zenin_0": "2025-09-24 03:02:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-09-24 03:51:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-09-24 03:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-09-24 03:15:07 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_toji_fushiguro": {
-    "criteria": {
-      "battle_toji_fushiguro_0": "2025-09-24 02:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1830,15 +1783,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "jujutsucraft:battle_cursed_spirit_grade_special_10": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_10_0": "2025-09-24 03:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
-      "has_cod": "2025-09-24 03:15:07 +0000"
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
@@ -1848,27 +1849,45 @@
     },
     "done": true
   },
-  "jujutsucraft:reward_weapons": {
-    "criteria": {
-      "reward_weapons_0": "2025-09-24 03:34:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-09-24 03:51:31 +0000"
     },
     "done": true
   },
-  "jujutsucraft:anti_open_barrier_type_domain": {
+  "jujutsucraft:battle_kenjaku": {
     "criteria": {
-      "anti_open_barrier_type_domain_0": "2025-09-24 03:21:48 +0000"
+      "battle_kenjaku_0": "2025-09-24 03:51:54 +0000"
     },
     "done": true
   },
-  "jujutsucraft:skill_open": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "skill_open_0": "2025-09-24 03:19:40 +0000"
+      "netherite_armor": "2025-09-24 03:54:12 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-09-24 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_3": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_3_0": "2025-09-24 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-24 04:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-24 04:32:12 +0000"
     },
     "done": true
   },
