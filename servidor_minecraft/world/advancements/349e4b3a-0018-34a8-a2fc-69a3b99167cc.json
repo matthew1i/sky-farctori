@@ -1554,7 +1554,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:26:27 +0000"
+      "update_0": "2025-09-24 03:37:44 +0000"
     },
     "done": true
   },
@@ -1576,6 +1576,12 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_cursed_spirit_grade_special_1": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_1_0": "2025-09-24 03:37:53 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_infinity": {
     "criteria": {
       "skill_infinity_0": "2025-09-24 03:26:36 +0000"
@@ -1585,6 +1591,12 @@
   "jujutsucraft:mastery_falling_blossom_emotion": {
     "criteria": {
       "mastery_falling_blossom_emotion_0": "2025-09-24 03:26:49 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:completely_physically_gifted": {
+    "criteria": {
+      "completely_physically_gifted_0": "2025-09-24 03:36:30 +0000"
     },
     "done": true
   },
@@ -1666,9 +1678,21 @@
     },
     "done": true
   },
+  "jujutsucraft:battle_miguel_2": {
+    "criteria": {
+      "battle_miguel_2_0": "2025-09-24 03:29:37 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_cursed_technique_lapse_blue": {
     "criteria": {
       "skill_cursed_technique_lapse_blue_0": "2025-09-24 03:26:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:reward_weapons": {
+    "criteria": {
+      "reward_weapons_0": "2025-09-24 03:36:28 +0000"
     },
     "done": true
   },

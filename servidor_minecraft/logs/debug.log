@@ -7784,3 +7784,97 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 03:29:59.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
 [24Sep2025 03:30:03.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
 [24Sep2025 03:30:29.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[24Sep2025 03:31:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:31:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:31:11.481] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:31:11.481] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:31:11.743] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:31:11.743] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:31:11.749] [IO-Worker-153/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[24Sep2025 03:31:15.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:31:15.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:31:15.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:31:15.277] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:31:15.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 03:31:15.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Sep2025 03:31:21.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 03:31:38.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:31:38.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:31:38.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:31:42.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:32:18.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:32:19.004] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:32:19.004] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:32:24.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[24Sep2025 03:32:24.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:32:25.071] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:32:25.071] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:32:26.343] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[24Sep2025 03:32:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Pendant] to Pilin]
+[24Sep2025 03:32:45.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:32:57.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 03:33:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:33:02.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 03:33:02.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 03:33:02.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 03:33:02.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:33:02.801] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:33:05.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Teleported liamsitol to Pilin]
+[24Sep2025 03:33:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 03:33:06.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Sep2025 03:33:22.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 0.0,15.978536983297928,0.0
+[24Sep2025 03:33:32.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:33:32.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:34:22.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 18.99822238250482,-0.459035033423028,5.856842202569908
+[24Sep2025 03:34:24.811] [IO-Worker-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[24Sep2025 03:34:35.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! 15.219844300123157,1.3077244353498045,-3.80767178001679
+[24Sep2025 03:34:35.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -17.68199517529061,1.4922908685814633,3.26153226470376
+[24Sep2025 03:34:35.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: liamsitol moved too quickly! 15.17740705903833,2.1448180966399164,-9.560953604228587
+[24Sep2025 03:35:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Completely Physical Gifted]
+[24Sep2025 03:35:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:36:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Cursed Technique Changer] to Pilin]
+[24Sep2025 03:36:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has completed the challenge [Completely Physical Gifted]
+[24Sep2025 03:36:35.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -10.233355316705968,0.0,-7.190468269921439
+[24Sep2025 03:36:38.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -1.9193082409435647,0.0,12.645362670507495
+[24Sep2025 03:36:41.628] [IO-Worker-165/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_bow)
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:309,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:276,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:276,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.936] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:42.936] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:235,"bow/basic_string_material":"basic_string/string","bow/stave":"bow/straight_stave","bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick","bow/string":"bow/basic_string"})
+[24Sep2025 03:36:48.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 10.640248388597769,-0.04999999999999716,0.10718463012494794
+[24Sep2025 03:36:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Special Grade Cursed Spirit -10-]
+[24Sep2025 03:37:07.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]
+[24Sep2025 03:37:20.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set the time to 1000]
+[24Sep2025 03:37:40.356] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[24Sep2025 03:37:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 03:37:44.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:37:44.733] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 03:37:44.733] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 03:37:45.050] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:37:45.050] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:37:52.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:37:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has completed the challenge [Special Grade Cursed Spirit -1-]
+[24Sep2025 03:38:01.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 9.717999372681476,0.6549394492305112,-5.082601717073089
+[24Sep2025 03:38:07.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has reached the goal [Mastery Falling Blossom Emotion]
+[24Sep2025 03:38:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Creative Mode]
+[24Sep2025 03:38:32.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Sep2025 03:38:32.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Sep2025 03:38:35.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Okkotsu's Sword] to Pilin]
+[24Sep2025 03:38:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Inverted Spear of Heaven] to Pilin]
+[24Sep2025 03:38:43.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Split Soul Katana] to Pilin]
+[24Sep2025 03:38:45.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Playful Cloud] to Pilin]
+[24Sep2025 03:38:49.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Gave 1 [Armoury Cursed Spirit (WIP)] to Pilin]
+[24Sep2025 03:39:28.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! 3.7700717271176245,0.7978101442264105,-17.37475316134794
+[24Sep2025 03:39:33.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved too quickly! -10.149972356154592,0.0,1.3207580881171452
+[24Sep2025 03:39:43.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved too quickly! 6.455082597801038,0.6979215997868167,-16.109678945794883
+[24Sep2025 03:40:07.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pilin moved too quickly! 4.3292101331452955,-0.2762196943374491,-11.12619519768441
+[24Sep2025 03:40:26.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 03:40:26.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 03:40:26.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 03:40:36.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pilin: Teleported Pilin to liamsitol]
+[24Sep2025 03:40:37.078] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[24Sep2025 03:40:37.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [liamsitol: Set own game mode to Survival Mode]

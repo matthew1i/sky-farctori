@@ -1436,7 +1436,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:25:37 +0000"
+      "update_0": "2025-09-24 03:37:44 +0000"
     },
     "done": true
   },
@@ -1455,6 +1455,18 @@
   "jujutsucraft:skill_flowing_red_scale": {
     "criteria": {
       "skill_flowing_red_scale_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_flame_laser": {
+    "criteria": {
+      "skill_flame_laser_0": "2025-09-24 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_lava_waves": {
+    "criteria": {
+      "skill_lava_waves_0": "2025-09-24 03:29:34 +0000"
     },
     "done": true
   },
@@ -1506,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_blood_wave": {
     "criteria": {
       "skill_blood_wave_0": "2025-09-24 03:17:03 +0000"
@@ -1530,9 +1548,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:skill_piercing_blood_itadori": {
     "criteria": {
       "skill_piercing_blood_itadori_0": "2025-09-24 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:completely_physically_gifted": {
+    "criteria": {
+      "completely_physically_gifted_0": "2025-09-24 03:35:01 +0000"
     },
     "done": true
   },
@@ -1554,9 +1590,21 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_disaster_flames": {
+    "criteria": {
+      "skill_disaster_flames_0": "2025-09-24 03:29:34 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_noritoshi_kamo": {
     "criteria": {
       "battle_noritoshi_kamo_0": "2025-09-24 03:22:25 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_jogo": {
+    "criteria": {
+      "skill_jogo_0": "2025-09-24 03:29:34 +0000"
     },
     "done": true
   },
@@ -1569,6 +1617,12 @@
   "jujutsucraft:skill_convergence": {
     "criteria": {
       "skill_convergence_0": "2025-09-24 03:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
     },
     "done": true
   },
@@ -1587,6 +1641,18 @@
   "jujutsucraft:battle_dagon": {
     "criteria": {
       "battle_dagon_0": "2025-09-24 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_maximum_meteor": {
+    "criteria": {
+      "skill_maximum_meteor_0": "2025-09-24 03:29:34 +0000"
     },
     "done": true
   },
@@ -1632,6 +1698,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_cursed_spirit_grade_special_10": {
+    "criteria": {
+      "battle_cursed_spirit_grade_special_10_0": "2025-09-24 03:36:56 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:battle_cursed_spirit_grade_special_16": {
     "criteria": {
       "battle_cursed_spirit_grade_special_16_0": "2025-09-24 03:03:53 +0000"
@@ -1656,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-09-24 03:15:07 +0000"
@@ -1668,9 +1752,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-24 03:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-09-24 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:reward_weapons": {
+    "criteria": {
+      "reward_weapons_0": "2025-09-24 03:34:59 +0000"
     },
     "done": true
   },

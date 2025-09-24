@@ -840,7 +840,13 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 03:28:16 +0000"
+      "update_0": "2025-09-24 03:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-24 03:29:16 +0000"
     },
     "done": true
   },
@@ -901,6 +907,12 @@
   "jujutsucraft:sorcerer_grade_1": {
     "criteria": {
       "sorcerer_grade_1_0": "2025-09-24 02:45:10 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_falling_blossom_emotion": {
+    "criteria": {
+      "mastery_falling_blossom_emotion_0": "2025-09-24 03:38:07 +0000"
     },
     "done": true
   },
@@ -1123,6 +1135,12 @@
   "jujutsucraft:fame_1": {
     "criteria": {
       "fame_1_0": "2025-09-24 02:45:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-09-24 03:29:16 +0000"
     },
     "done": true
   },
