@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-09-24 00:54:01 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:jujutsu_craft_skills": {
     "criteria": {
       "jujutsu_craft_skills_0": "2025-09-24 00:28:45 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-09-24 00:40:44 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_4": {
+    "criteria": {
+      "sorcerer_grade_4_0": "2025-09-24 00:53:24 +0000"
     },
     "done": true
   },
@@ -105,6 +117,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-24 00:40:44 +0000",
       "minecraft:spider": "2025-09-24 00:40:48 +0000",
+      "minecraft:enderman": "2025-09-24 00:53:19 +0000",
       "minecraft:zombie": "2025-09-24 00:40:43 +0000"
     },
     "done": false
@@ -159,7 +172,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-09-24 00:43:41 +0000"
+      "update_0": "2025-09-24 00:53:24 +0000"
     },
     "done": true
   },
@@ -192,6 +205,12 @@
       "has_iron_ingot": "2025-09-24 00:44:21 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-09-24 00:54:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -300,6 +319,8 @@
       "minecraft:windswept_hills": "2025-09-24 00:28:46 +0000",
       "minecraft:beach": "2025-09-24 00:41:09 +0000",
       "minecraft:river": "2025-09-24 00:43:16 +0000",
+      "minecraft:forest": "2025-09-24 00:55:59 +0000",
+      "minecraft:ocean": "2025-09-24 00:52:07 +0000",
       "minecraft:plains": "2025-09-24 00:31:32 +0000"
     },
     "done": false

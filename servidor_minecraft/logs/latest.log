@@ -1346,3 +1346,67 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Sep2025 00:48:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
 [24Sep2025 00:49:00.288] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
 [24Sep2025 00:49:00.289] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has reached the goal [Reverse Cursed Technique Lv1]
+[24Sep2025 00:49:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:08.496] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:08.496] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:10.560] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:10.560] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:11.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=22, y=80, z=92}
+[24Sep2025 00:49:14.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:14.946] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:14.947] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:16.469] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:16.469] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:24.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:25.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:25.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:34.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:34.989] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:34.989] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:41.174] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:41.174] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:41.207] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:41.208] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:48.257] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:48.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:48.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:49:49.012] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:49:49.012] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:49:49.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=77, z=87}
+[24Sep2025 00:49:49.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=24, y=77, z=87}
+[24Sep2025 00:49:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol died
+[24Sep2025 00:49:55.291] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:49:55.292] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
+[24Sep2025 00:49:55.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=17, y=72, z=92}
+[24Sep2025 00:50:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin died
+[24Sep2025 00:50:38.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Pilin]
+[24Sep2025 00:50:38.800] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Pilin]
+[24Sep2025 00:51:34.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Disabled friendly fire for team [nopvp]]
+[24Sep2025 00:53:01.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Barrel Booty]
+[24Sep2025 00:53:09.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=79}
+[24Sep2025 00:53:09.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=66, z=79}
+[24Sep2025 00:53:24.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Grade 4 Sorcerer]
+[24Sep2025 00:54:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement ['X' Marks the Spot]
+[24Sep2025 00:56:15.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to Pilin]
+[24Sep2025 00:56:18.618] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[24Sep2025 00:56:28.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zxymatthewyxz moved wrongly!
+[24Sep2025 00:56:36.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/15746, l='ServerLevel[world]', x=238.48, y=65.00, z=338.30] died, message: 'Jujutsu Sorcerer was slain by Zombie'
+[24Sep2025 00:57:16.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/16006, l='ServerLevel[world]', x=284.24, y=65.00, z=413.76] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:57:16.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/15867, l='ServerLevel[world]', x=284.03, y=65.00, z=413.06] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:57:16.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/16005, l='ServerLevel[world]', x=282.13, y=65.00, z=407.42] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:57:18.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/16008, l='ServerLevel[world]', x=307.99, y=65.00, z=332.17] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:57:32.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/16005, l='ServerLevel[world]', x=270.30, y=65.00, z=380.50] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:58:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz died
+[24Sep2025 00:58:23.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [zxymatthewyxz]
+[24Sep2025 00:58:23.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [zxymatthewyxz]
+[24Sep2025 00:58:25.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: liamsitol has made the advancement [Fame -2-]
+[24Sep2025 00:58:25.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pilin has made the advancement [Fame -2-]
+[24Sep2025 00:58:31.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jujutsu Sorcerer'/15379, l='ServerLevel[world]', x=219.51, y=65.00, z=426.99] died, message: 'Jujutsu Sorcerer died'
+[24Sep2025 00:58:50.402] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [liamsitol]
+[24Sep2025 00:58:50.403] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [liamsitol]
