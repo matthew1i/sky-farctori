@@ -1,0 +1,489 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "east_blue"
+	group: "440D3F174C21B1F6"
+	icon: "minepiece:clothes_luffy_helmet"
+	id: "659D2D77196C055F"
+	images: [{
+		height: 2.0d
+		image: "kubejs:textures/quests/eastblue.png"
+		rotation: 0.0d
+		width: 11.0d
+		x: -7.0d
+		y: -4.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The world in Mine Piece is divided into five major seas: East Blue, North Blue, Grand Line, New World, and the mighty Red Line that separates them all."
+				"Early in your journey, you'll receive special compasses pointing toward each of these seas. Use the East Blue Compass to find your way to calmer waters, perfect for beginners looking to grow stronger."
+				"Every sea holds unique enemies, challenges, and treasures. Start by visiting the East Blue, a classic entry point into this vast ocean world."
+			]
+			id: "391DC20213C0161A"
+			tasks: [{
+				advancement: "minepiece:battle_east_blue"
+				criterion: ""
+				id: "49C51C66A6FDFE86"
+				type: "advancement"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Smash Alvida and her oversized mace."]
+			icon: {
+				Count: 1
+				id: "minepiece:takeru"
+				tag: {
+					Damage: 0
+					Haki: 4.0d
+					Knockback: 0.25d
+					Power: 0.25d
+					Range: 0.25d
+				}
+			}
+			id: "455EDEDBE3379C72"
+			rewards: [
+				{
+					count: 8
+					id: "28FDE82FDF784387"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "37FFF110F1C77F5E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:alvida"
+				id: "6C16E9B0FBEFA378"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Alvida the Iron Mace"
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Face Luffy at the start of his journey."]
+			icon: "minepiece:clothes_luffy_helmet"
+			id: "099DB25BAA4C57D6"
+			rewards: [
+				{
+					count: 8
+					id: "55F190E964DC60A3"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "41F423CE6DE23540"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:luffy_1"
+				id: "5A35FF98F7DD17E7"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Monkey D. Luffy (Early)"
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["099DB25BAA4C57D6"]
+			description: ["Duel Zoro before he becomes a legend."]
+			icon: {
+				Count: 1
+				id: "minepiece:wado_ichimonji"
+				tag: {
+					Damage: 0
+					Haki: 7.0d
+					Power: 0.1d
+				}
+			}
+			id: "23E7BD842C832158"
+			rewards: [
+				{
+					count: 8
+					id: "0F5BC0EC9717B680"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3D89A845FF4EFAFA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:zoro_1"
+				id: "79BA443CB76547D2"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Roronoa Zoro (Early)"
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Outsmart the sneaky Sham."]
+			icon: {
+				Count: 1
+				id: "aquaculture:iron_fillet_knife"
+				tag: {
+					Damage: 0
+					Power: 0.1d
+				}
+			}
+			id: "760CE8C11DBDB691"
+			rewards: [
+				{
+					count: 8
+					id: "2ECCCD660A2128C5"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "0DBC8F5EE14A5774"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:sham"
+				id: "1D6AA64598CCF794"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Sham"
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["760CE8C11DBDB691"]
+			description: ["Overpower the brute Buchi."]
+			icon: {
+				Count: 1
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							1205162913
+							-44610392
+							-2130504213
+							-1916085845
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhjMmYxZjdlOGNkNmIwMGQzMGYwZWRhZWVmY2UzOGU4ODkxNzNjMzBjNzAxZmFjMGRhODYwZTBhMjEyNWVjOCJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Lore: [
+							"{\"text\":\"Custom Head ID: 48466\",\"color\":\"gray\",\"italic\":false}"
+							"{\"text\":\"www.minecraft-heads.com\",\"color\":\"blue\",\"italic\":false}"
+						]
+						Name: "{\"text\":\"Black Cat\",\"color\":\"gold\",\"underlined\":true,\"bold\":true,\"italic\":false}"
+					}
+				}
+			}
+			id: "5A65354B166C725C"
+			rewards: [
+				{
+					count: 8
+					id: "151652D4D95924C0"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7D17B900F4E21573"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_buchi"
+				criterion: ""
+				id: "193519DCD6CBD7E3"
+				type: "advancement"
+			}]
+			title: "Beat Buchi"
+			x: -11.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Outlast Gin's poison and fury."]
+			icon: {
+				Count: 1
+				id: "minepiece:tonfa"
+				tag: {
+					Damage: 0
+					Haki: 1.0d
+				}
+			}
+			id: "2143CF865D612561"
+			rewards: [
+				{
+					count: 8
+					id: "6CA7D87623C4E295"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "5D4ECC7D75092BAF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:gin"
+				id: "63BCBCCC6462E7D5"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Gin the Demon"
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2143CF865D612561"]
+			description: ["Break Krieg’s iron will — and armor."]
+			icon: {
+				Count: 1
+				id: "minepiece:daisenso"
+				tag: {
+					Damage: 0
+					Haki: 1.0d
+					Knockback: 0.25d
+					Power: 0.25d
+					Range: 0.25d
+				}
+			}
+			id: "7F17A691BD592C1B"
+			rewards: [
+				{
+					count: 8
+					id: "3E4114B9ADDD7346"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "0611A79550CD70A2"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:krieg"
+				id: "41823A36FA7E8919"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Don Krieg"
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Defeat Buggy and his chaotic cannonballs."]
+			icon: {
+				Count: 1
+				id: "minecraft:player_head"
+				tag: {
+					SkullOwner: {
+						Id: [I;
+							-2103688482
+							460735789
+							-2135259546
+							-1427489329
+						]
+						Properties: {
+							textures: [{
+								Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFlNjM0NGNlYmFjZDIxZDhjNmNhMGQyZTM0YjNjMzQ5MmRjNzliZjQ0MzE0MGQxMmE1MDg4N2FlM2ViN2Y4ZiJ9fX0="
+							}]
+						}
+					}
+					display: {
+						Lore: [
+							"{\"text\":\"Custom Head ID: 111931\",\"color\":\"gray\",\"italic\":false}"
+							"{\"text\":\"www.minecraft-heads.com\",\"color\":\"blue\",\"italic\":false}"
+						]
+						Name: "{\"text\":\"Clown\",\"color\":\"gold\",\"underlined\":true,\"bold\":true,\"italic\":false}"
+					}
+				}
+			}
+			id: "651B569E3B258B98"
+			rewards: [
+				{
+					count: 8
+					id: "3C90AC884F22E769"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3F0FD6E5C9C03253"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:buggy"
+				id: "4C9C0F26871FF658"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Buggy the Clown"
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Cut down the tyrant Morgan."]
+			icon: {
+				Count: 1
+				id: "minepiece:arm_axe"
+				tag: {
+					Damage: 0
+					Haki: 1.0d
+					Knockback: 0.25d
+					Power: 0.25d
+					Range: 0.25d
+				}
+			}
+			id: "4BD22D6FF7DB87FB"
+			rewards: [
+				{
+					count: 8
+					id: "18177695759B6A87"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "40B5C20E482BA5D4"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:morgan"
+				id: "2A218F0C7D267657"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Axe-Hand Morgan"
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Take down Arlong, the tyrant of the seas."]
+			icon: {
+				Count: 1
+				id: "minepiece:kiribachi"
+				tag: {
+					Damage: 0
+					Haki: 1.0d
+					Power: 0.1d
+				}
+			}
+			id: "19A0C3D82717A069"
+			rewards: [
+				{
+					count: 8
+					id: "5BD34F1355AF4A07"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "1349BB069C0B6BCC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:arlong"
+				id: "2C469BC6E24C3FA5"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Arlong"
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["391DC20213C0161A"]
+			description: ["Show the Navy your strength."]
+			icon: "minepiece:uniform_marine_1_helmet"
+			id: "2B58C41A600EFB3C"
+			rewards: [
+				{
+					count: 8
+					id: "252CC22FCB4736B2"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "025F73728637FCCA"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:marine"
+				id: "749CEA2AD1FE7EC1"
+				type: "kill"
+				value: 8L
+			}]
+			title: "Beat 8 Marines"
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2B58C41A600EFB3C"]
+			description: ["Evade and conquer Smoker’s smoke."]
+			icon: {
+				Count: 1
+				id: "minepiece:jitte"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7B0A4AB5C9F0041A"
+			rewards: [
+				{
+					count: 8
+					id: "388694A05587B2F3"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "16AD6415D4A32708"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minepiece:smoker"
+				id: "544B147FBA868CF2"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Beat Smoker the White Hunter"
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+	title: "East Blue"
+}

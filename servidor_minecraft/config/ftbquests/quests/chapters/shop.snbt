@@ -1,0 +1,252 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: ""
+	icon: "minecraft:emerald"
+	id: "49A4382F49D11AD6"
+	images: [{
+		height: 2.0d
+		image: "kubejs:textures/quests/shop.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: -3.5d
+		y: -2.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_gomu_gomu"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "19D0A0055D7174C3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "356DE2662FA520E7"
+				table_id: 8515184777358181616L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "7374FC86DE6C18F0"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Random Fruit"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "minepiece:item_devil_fruit"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6D5B3EBBFC9C006F"
+			rewards: [{
+				id: "5895C6B87B5556D2"
+				item: {
+					Count: 1
+					id: "minepiece:item_devil_fruit"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "778EC61B9D09F0A2"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Void Fruit (Clear Your Fruit)"
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_mera_mera"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "23C0A628DF213B8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "187A807FAEF01F16"
+				table_id: 8515184777358181616L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 768L
+				id: "14EC9DBE0E0DE396"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Choice Your Fruit"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:cooked_beef"
+			id: "0EA2C1956764DC54"
+			rewards: [{
+				count: 16
+				id: "09AF886E283BEACA"
+				item: "minecraft:cooked_beef"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "76DBBD6C3C5DDE55"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Steak"
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "vs_eureka:floater"
+			id: "22E0D4A33D239F2F"
+			rewards: [{
+				count: 32
+				id: "64AAE5BD6008B00C"
+				item: "vs_eureka:floater"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "12DDA01582D0EAA4"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Floater"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "vs_eureka:engine"
+			id: "1BBB024D1DB3308C"
+			rewards: [{
+				count: 4
+				icon: "vs_eureka:engine"
+				id: "70C8532CDC24E7F3"
+				item: "vs_eureka:engine"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "463707AAA8C4684F"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Ship Engine"
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: "naturescompass:naturescompass"
+			id: "30EAFC6A31F81DA8"
+			rewards: [{
+				id: "49046502A45DA7A3"
+				item: "naturescompass:naturescompass"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "52036C1CE2EFCADC"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Nature's Compass"
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: "explorerscompass:explorerscompass"
+			id: "3D6488D10161C22B"
+			rewards: [{
+				id: "7DE92EBFE9C680AB"
+				item: "explorerscompass:explorerscompass"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "0C910CC05E8A0C20"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Explorer's Compass"
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:coal"
+			id: "6FA3C727F6AC0624"
+			rewards: [{
+				count: 64
+				id: "1744403474FA90EB"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "71A19292D5FFBBEC"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Coal"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:diamond"
+			id: "486BEE4803AD4B16"
+			rewards: [{
+				id: "57661B76E57A6C50"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "2F2CC653DE27CB37"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			title: "Diamond"
+			x: -1.5d
+			y: 2.0d
+		}
+	]
+	title: "Shop"
+}

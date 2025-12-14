@@ -1,0 +1,17 @@
+{
+	id: "433be659-15d5-3745-9436-55cee3bfccfc"
+	type: "player"
+	player_name: "zxymatthewyxz"
+	ranks: {
+		433be659-15d5-3745-9436-55cee3bfccfc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zxymatthewyxz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,6 @@
+#if you want to make transforms to the gun parts or hands active this
+"do debug stuff" = false
+#This value controls how long the hit marker is displayed
+#Range: 0 ~ 10000
+HitmarkerTime = 8
+

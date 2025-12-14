@@ -1,0 +1,410 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grand_line"
+	group: "440D3F174C21B1F6"
+	icon: "minecraft:compass"
+	id: "3084E671BCE76336"
+	images: [{
+		height: 2.0d
+		image: "kubejs:textures/quests/grandline.png"
+		rotation: 0.0d
+		width: 13.0d
+		x: -1.0d
+		y: -4.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "097E95B30436E0F8"
+			tasks: [{
+				advancement: "minepiece:battle_grand_line"
+				criterion: ""
+				id: "078CB93B18F6EE98"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Break through the defense of Vegapunk's bodyguard."]
+			id: "1E36B442799CA6C8"
+			rewards: [
+				{
+					count: 16
+					id: "4D5729876C52D971"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4F8F593FB197D7D2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_sentomaru"
+				criterion: ""
+				id: "3AA67BEB18E7AB69"
+				type: "advancement"
+			}]
+			title: "Beat Sentomaru"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Shatter Vergo’s iron body and cold heart."]
+			id: "67AF9D94437DA688"
+			rewards: [
+				{
+					count: 16
+					id: "6A01B5FA19820A68"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "224FE9EB542899C3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_vergo"
+				criterion: ""
+				id: "1D078497DD0BAC9E"
+				type: "advancement"
+			}]
+			title: "Beat Vergo-san"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Crush the wrath of the smiling monk."]
+			id: "3ED854A4ADF7F434"
+			rewards: [
+				{
+					count: 16
+					id: "7E1847D54CA77BC9"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "2FF314EF477A4688"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_urouge"
+				criterion: ""
+				id: "53F499A32A6DCA59"
+				type: "advancement"
+			}]
+			title: "Beat Urouge"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Dodge the soap and take down the assassin."]
+			id: "50A2D7B44E3AA71C"
+			rewards: [
+				{
+					count: 16
+					id: "248CB77DC5AFCA6A"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "49713E2407337C84"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_kalifa_cp_9"
+				criterion: ""
+				id: "13298E37505910F9"
+				type: "advancement"
+			}]
+			title: "Beat Kalifa (CP9)"
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Face the undead swordsman with honor."]
+			id: "10A55337609AAE61"
+			rewards: [
+				{
+					count: 16
+					id: "2508B90DC6074D56"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "6C2C8B5E51A4FC3A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_ryuma"
+				criterion: ""
+				id: "062AA8E903759A38"
+				type: "advancement"
+			}]
+			title: "Beat Ryuma the Legendary Samurai"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Stand against the full might of the future Pirate King."]
+			id: "2C07FF5C340786D8"
+			rewards: [
+				{
+					count: 16
+					id: "2E88870B6EBFD0E0"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "04E8C6B876AE1D09"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_luffy_2years"
+				criterion: ""
+				id: "596BB591882D3541"
+				type: "advancement"
+			}]
+			title: "Beat Monkey D. Luffy (2 Years Later)"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1E36B442799CA6C8"]
+			description: ["Survive the pressure of the Tyrant’s paws."]
+			id: "72FB9A0A3352151B"
+			rewards: [
+				{
+					count: 16
+					id: "2B75CC087E216238"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4E6B1346288CA01B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_kuma"
+				criterion: ""
+				id: "4058D4AC1AAF6A6D"
+				type: "advancement"
+			}]
+			title: "Beat Bartholomew Kuma"
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3ED854A4ADF7F434"]
+			description: ["Outspeed the deadly blades of Killer."]
+			id: "76D8FD1C1A5B6172"
+			rewards: [
+				{
+					count: 16
+					id: "053354A84FE97282"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3D79571D685D7DC8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_killer"
+				criterion: ""
+				id: "7B2255C29D04C8D9"
+				type: "advancement"
+			}]
+			title: "Beat Killer"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2C07FF5C340786D8"]
+			description: ["Survive the fury of a master swordsman."]
+			id: "528E9836A685DFC7"
+			rewards: [
+				{
+					count: 16
+					id: "1CD51707151EB5A5"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3A518BCB77614560"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_zoro_2years"
+				criterion: ""
+				id: "6AE1F84AAB3F06D5"
+				type: "advancement"
+			}]
+			title: "Beat Roronoa Zoro (2 Years Later)"
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["10A55337609AAE61"]
+			description: ["Bring down the monstrous giant of darkness."]
+			id: "57452CC764B9BF7A"
+			rewards: [
+				{
+					count: 16
+					id: "19D88DEB76CE46FF"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "78DD87802167C05F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_oars"
+				criterion: ""
+				id: "5E154149059D9B08"
+				type: "advancement"
+			}]
+			title: "Beat Oars the Continent-Puller"
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["50A2D7B44E3AA71C"]
+			description: ["Close the door on Blueno’s escape."]
+			id: "62505575BD9AFC41"
+			rewards: [
+				{
+					count: 16
+					id: "69F25E28A1F0B11F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "063EF48C4A091E57"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_blueno_cp_9"
+				criterion: ""
+				id: "37A35580F5D0583D"
+				type: "advancement"
+			}]
+			title: "Beat Blueno (CP9)"
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Endure the punch that shakes armies."]
+			id: "3BA93A61476CAC45"
+			rewards: [
+				{
+					count: 16
+					id: "68E27FBF04969BCA"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "12B3D88AD184AD67"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_elizabello_2"
+				criterion: ""
+				id: "56C0A66E22050F81"
+				type: "advancement"
+			}]
+			title: "Beat Elizabello II"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["097E95B30436E0F8"]
+			description: ["Challenge the ancient warrior of Elbaf."]
+			id: "79733D0FCA2CC66A"
+			rewards: [
+				{
+					count: 16
+					id: "63548952A5729259"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7B9D568AF7D7C92A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_dorry"
+				criterion: ""
+				id: "731E75FF99ECCC23"
+				type: "advancement"
+			}]
+			title: "Beat Dorry the Giant"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["79733D0FCA2CC66A"]
+			description: ["Prove your strength to a living legend."]
+			id: "7515CA8524C2E2CB"
+			rewards: [
+				{
+					count: 16
+					id: "0730DC9258047BFB"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "340FBEB03F2B25DB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_brogy"
+				criterion: ""
+				id: "01268C1136CF48A6"
+				type: "advancement"
+			}]
+			title: "Beat Brogy the Giant"
+			x: 3.0d
+			y: 1.5d
+		}
+	]
+	title: "Grand Line"
+}

@@ -1,0 +1,361 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pirates_life"
+	group: "6A748E45BD7D92A3"
+	icon: {
+		Count: 1
+		id: "lfpirates:pirate_tier_3_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "262D844DB9D3D792"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Press V to create your Pirate Crew!"]
+			id: "2429CFC8EF11124E"
+			rewards: [
+				{
+					count: 5
+					id: "31344EB379842E98"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "48AB0785277B030A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:basic_operations_create_crew"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "taxov:item/tool_pirate_shield"
+					}
+				}
+				id: "29086AB1A00F2022"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2429CFC8EF11124E"]
+			description: ["To invite friends to your pirate crew, simply right-click them while holding your Pirate Flag!"]
+			id: "3E384F740892BF65"
+			rewards: [
+				{
+					count: 5
+					id: "5D1CDC2B0CEC1361"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7BAF0AE6F1DB1343"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:basic_operations_the_first"
+				criterion: ""
+				icon: "minepiece:pirate_flag"
+				id: "5C787553D77BD22F"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "087AC32DB6EEF037"
+			rewards: [{
+				count: 2
+				id: "5C0C04B2CC5D2A6C"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minepiece:basic_operations_select_skill"
+				criterion: ""
+				icon: "minepiece:skill_selector"
+				id: "4DA0AEFE0110ED64"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["087AC32DB6EEF037"]
+			id: "1A1FED3E5971590B"
+			rewards: [{
+				count: 2
+				id: "722866D1FB55E881"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minepiece:basic_operations_change_technique"
+				criterion: ""
+				id: "1FE4797475F04097"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A1FED3E5971590B"]
+			id: "67103746C6472E6A"
+			rewards: [{
+				count: 2
+				id: "33433A7B86D49E9B"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minepiece:basic_operations_use_technique"
+				criterion: ""
+				id: "0CF1B89E5B0D1D89"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Your name is starting to echo across the seas… With a bounty of B30,000,000 on your head, you're no longer just a rookie. Keep causing chaos, conquering islands, and defeating enemies to raise your infamy even further!"]
+			id: "6FB0F5339D1B5621"
+			rewards: [
+				{
+					count: 8
+					id: "414B9517623466A4"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "1104AF512CBBC79A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_30_m"
+				criterion: ""
+				id: "08A9A08808221494"
+				type: "advancement"
+			}]
+			title: "30 Million Belly Bounty"
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6FB0F5339D1B5621"]
+			description: ["You've shattered expectations and now bear a bounty of B100,000,000! The world sees you as a true threat — marines will chase you, enemies will fear you, and your journey has officially become legendary. Keep pushing forward, captain!"]
+			id: "649BE9FAB8221F2C"
+			rewards: [
+				{
+					count: 8
+					id: "7FE81ABE8FCD61EB"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "79349221C7C40506"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_100_m"
+				criterion: ""
+				id: "30B9DB72B362CCFA"
+				type: "advancement"
+			}]
+			title: "100 Million Belly Bounty"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			description: ["Set sail with Eureka!, the ultimate ship-building mod. Check the \"Your Own Ship\" chapter."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "smallships:item/ship/oak_dhow"
+				}
+			}
+			id: "78F3542CB605EE63"
+			tasks: [{
+				id: "4BFC68DBB68E0F03"
+				title: "Build Your Own Ship – Eureka!"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"72D0A9E3A848DA4A"
+				"78F3542CB605EE63"
+			]
+			description: ["Congratulations, Captain! You've successfully built your own ship — your journey across the vast seas truly begins now."]
+			icon: {
+				Count: 1
+				id: "lfpirates:pirate_tier_3_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "476B18930F5D0465"
+			rewards: [{
+				count: 8
+				id: "7B8990A54CC762F4"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0974275FF4EFCE63"
+				title: "You Are Now a Captain!"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["649BE9FAB8221F2C"]
+			id: "16846AB5054DE28C"
+			rewards: [
+				{
+					count: 8
+					id: "442189773951F4E2"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "16CB39F6033F90DB"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_300_m"
+				criterion: ""
+				id: "069DE2607C25D1BC"
+				type: "advancement"
+			}]
+			title: "300 Million Belly Bounty"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["16846AB5054DE28C"]
+			id: "427C52FB94213FF4"
+			rewards: [
+				{
+					count: 8
+					id: "34FA179218F2713F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4D3F1FD90D2678CC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_400_m"
+				criterion: ""
+				id: "66EABC044A016AFE"
+				type: "advancement"
+			}]
+			title: "400 Million Belly Bounty"
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["427C52FB94213FF4"]
+			id: "2A5674D4F4F451FE"
+			rewards: [
+				{
+					count: 8
+					id: "5DC218E333E9B660"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "1D748FAC691BC66A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_500_m"
+				criterion: ""
+				id: "774A801779793C0E"
+				type: "advancement"
+			}]
+			title: "500 Million Belly Bounty"
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2A5674D4F4F451FE"]
+			id: "545FC514B8525C9C"
+			rewards: [
+				{
+					count: 32
+					id: "55EC053EDC4B1F0D"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "762DB0376F48844F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_1500_m"
+				criterion: ""
+				id: "68D307F9452654AF"
+				type: "advancement"
+			}]
+			title: "1.5 Billion Belly Bounty"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["545FC514B8525C9C"]
+			id: "053AD19E8CA3E076"
+			rewards: [
+				{
+					count: 32
+					id: "4B4EE01178F458CA"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "17F80E8DFE3B5364"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:grade_3000_m"
+				criterion: ""
+				id: "29C634C53CB09886"
+				type: "advancement"
+			}]
+			title: "3 Billion Belly Bounty"
+			x: 10.0d
+			y: 2.0d
+		}
+	]
+	title: "Pirates Life"
+}

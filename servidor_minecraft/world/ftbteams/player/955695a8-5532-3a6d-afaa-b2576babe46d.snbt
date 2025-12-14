@@ -1,0 +1,17 @@
+{
+	id: "955695a8-5532-3a6d-afaa-b2576babe46d"
+	type: "player"
+	player_name: "Muyculoso"
+	ranks: {
+		955695a8-5532-3a6d-afaa-b2576babe46d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Muyculoso"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598AFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

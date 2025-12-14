@@ -1,0 +1,17 @@
+{
+	id: "7a9396e1-947c-3ecf-b472-b97fcf5c0003"
+	type: "player"
+	player_name: "liamsitol"
+	ranks: {
+		7a9396e1-947c-3ecf-b472-b97fcf5c0003: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "liamsitol"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

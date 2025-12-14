@@ -1,0 +1,206 @@
+{
+	id: "762C03708B3F84F0"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_mera_mera"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_bisu_bisu"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_zushi_zushi"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_kira_kira"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_nikyu_nikyu"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_horo_horo"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_supa_supa"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_gomu_gomu"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_hie_hie"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_gura_gura"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_yami_yami"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_mochi_mochi"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_inu_inu_okuchi_no_makami"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_ryu_ryu_pachycephalosaurus"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_batto_batto"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_tori_tori_phoenix"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_ushi_ushi_giraffe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_inu_inu_wolf"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_pika_pika"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_magu_magu"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_neko_neko_leopard"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_hito_hito_daibutsu"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Fruits"
+}

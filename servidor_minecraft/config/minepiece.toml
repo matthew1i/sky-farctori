@@ -1,0 +1,8 @@
+
+#General settings
+[general]
+	forceNoSkills = false
+	hideSeaLocation = false
+	doVanillaMobSpawning = false
+	automaticallyEquip = false
+

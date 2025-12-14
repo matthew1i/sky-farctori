@@ -1,0 +1,184 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduction"
+	group: ""
+	icon: "minecraft:writable_book"
+	id: "5C1288A82C73861C"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/quests/onepiece.png"
+		rotation: 0.0d
+		width: 9.0d
+		x: -0.5d
+		y: -4.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["In a world ruled by the strong, your fists speak louder than words. The Skill Changer Book holds the key to mastering a vast array of fighting techniques — from swift strikes to earth-shaking blows. Every warrior sails with their own style… now it's your turn to discover yours. The sea is calling — will you rise to its challenge?"]
+			id: "1CF1CCA62A3359D2"
+			rewards: [
+				{
+					count: 2
+					id: "4E8DC215FBB4E55F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "1547629CE0167B40"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "248EA868E4623D1B"
+				title: "Awaken Your Spirit"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1CF1CCA62A3359D2"]
+			description: [
+				"&lIMPORTANT: Only eat the fruit after using the Skill Changer book in your inventory."
+				""
+				"Across the vast seas lie ancient treasure chests, hidden in ruins, buried deep underground, or lost in the wreckage of forgotten ships. These chests hold the key to unimaginable power — a Devil Fruit. There are 22 different fruits, each granting a unique ability, and you never know which one you'll get. Open this quest to receive one random fruit, just as if you had cracked open a treasure chest in the wild. Keep your eyes sharp — these chests are the only way to find more!"
+			]
+			icon: {
+				Count: 1
+				id: "minepiece:item_devil_fruit_gomu_gomu"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4DACD7E64977F41F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58B4BD59C9924627"
+				table_id: 8515184777358181616L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7EEC23BD297980A4"
+				title: "A Random Fruit"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1CF1CCA62A3359D2"]
+			description: ["The world of One Piece: The Ultimate Experience is made up of vast oceans and scattered islands — a true sailor’s paradise. To survive and explore, you’ll need a ship. Craft your first vessel using any blocks you like, large or small, then place a Ship Helm to control it. To raise your sails and set off on your journey, press the \"]\" key. The sea is your new home — sail wisely, captain."]
+			icon: "smallships:oak_cog"
+			id: "4B9692634D2DC7A2"
+			rewards: [
+				{
+					id: "4901824AFAAF7C17"
+					item: "smallships:oak_cog"
+					type: "item"
+				}
+				{
+					id: "141989B3464E6A2E"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "66169036C9DB0924"
+				title: "Your First Boat"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1CF1CCA62A3359D2"]
+			description: ["Before you conquer the seas, you must master the basics. Mine Piece introduces powerful abilities and a pirate crew system. Press R to switch between your combat skills, and Z to unleash them in battle. Feeling ambitious? Press V to create your very own pirate faction and carve your name into the ocean's legacy. Learn the controls, then claim the Grand Line as your own!"]
+			icon: "aquamirae:dead_sea_scroll"
+			id: "7AFEE3B8B42060E6"
+			rewards: [
+				{
+					count: 2
+					id: "6F3EE737577DD2BF"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "64DBA189A2DFA6DC"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "023C3594332590FA"
+				title: "Learn the Ropes"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1CF1CCA62A3359D2"]
+			description: ["As you sail further and grow in infamy, the world won’t stay quiet. Enemies become fiercer, bosses deadlier, and the seas more unforgiving. To survive, open your skill tree with K and unlock powerful new techniques. Choose your path wisely—every decision shapes your destiny as a pirate in a world that never stops getting harder."]
+			icon: {
+				Count: 1
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+					Power: 0.1d
+				}
+			}
+			id: "21A556FE0896F7EC"
+			rewards: [
+				{
+					count: 2
+					id: "70D5A492C2062CAA"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "116D08FFE5888026"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "6F7B24720F0DFC43"
+				title: "Stronger Seas, Stronger You"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1CF1CCA62A3359D2"]
+			description: ["Every great pirate needs a place to trade, upgrade, or start fresh. Open the Shop to buy powerful items, roll for a brand new Devil Fruit, or even reset your current one if you're ready for a change. Spend your hard-earned rewards wisely—fortune favors the bold, but the sea punishes the careless."]
+			icon: "minecraft:emerald"
+			id: "22DE6D5F71494470"
+			rewards: [
+				{
+					count: 2
+					id: "0B8352139FE06E86"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "699824B41EC5368F"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "0B3547C28DA1B18D"
+				title: "The Pirate's Market"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+	]
+	title: "Introduction"
+}

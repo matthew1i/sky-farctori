@@ -1,0 +1,944 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      10798,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      11095,
+      0.0469
+    ],
+    "aquaculture:diamond_fillet_knife": [
+      9566,
+      2.3810277
+    ],
+    "aquaculture:gold_fillet_knife": [
+      11524,
+      0.0039999997
+    ],
+    "aquaculture:iron_fillet_knife": [
+      11242,
+      0.0322
+    ],
+    "aquaculture:neptunium_axe": [
+      8341,
+      5.9057183
+    ],
+    "aquaculture:neptunium_bow": [
+      4764,
+      13.389866
+    ],
+    "aquaculture:neptunium_fillet_knife": [
+      11555,
+      8.999999E-4
+    ],
+    "aquaculture:neptunium_sword": [
+      8407,
+      5.767269
+    ],
+    "aquaculture:stone_fillet_knife": [
+      11396,
+      0.0168
+    ],
+    "aquaculture:wooden_fillet_knife": [
+      11490,
+      0.0074
+    ],
+    "aquamirae:coral_lance": [
+      8926,
+      4.662123
+    ],
+    "aquamirae:dagger_of_greed": [
+      11367,
+      0.019699998
+    ],
+    "aquamirae:divider": [
+      7734,
+      7.172319
+    ],
+    "aquamirae:fin_cutter": [
+      9799,
+      2.0735214
+    ],
+    "aquamirae:poisoned_blade": [
+      10670,
+      0.94598794
+    ],
+    "aquamirae:remnants_saber": [
+      11350,
+      0.021399999
+    ],
+    "aquamirae:sweet_lance": [
+      8926,
+      4.662123
+    ],
+    "aquamirae:terrible_sword": [
+      10224,
+      1.5193686
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      8926,
+      4.662123
+    ],
+    "cataclysm:athame": [
+      11095,
+      0.0469
+    ],
+    "cataclysm:black_steel_axe": [
+      10137,
+      1.6320775
+    ],
+    "cataclysm:black_steel_sword": [
+      10224,
+      1.5193686
+    ],
+    "cataclysm:final_fractal": [
+      2,
+      23.563541
+    ],
+    "cataclysm:khopesh": [
+      10245,
+      1.4922183
+    ],
+    "cataclysm:zweiender": [
+      2,
+      23.563541
+    ],
+    "endermanoverhaul:corrupted_blade": [
+      11074,
+      0.049
+    ],
+    "lfpirates:bone_cutlass": [
+      11062,
+      0.26597553
+    ],
+    "lfpirates:hook": [
+      11112,
+      0.045199998
+    ],
+    "lfpirates:iron_cutlass": [
+      11085,
+      0.0479
+    ],
+    "lfpirates:poison_bone_cutlass": [
+      11062,
+      0.26597553
+    ],
+    "minecraft:bow": [
+      8996,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      9290,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      8759,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      8821,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      9964,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      11420,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      11483,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      10987,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      11074,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      10064,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      7923,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      7993,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      11014,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      10064,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      11190,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      11298,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      9864,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      9064,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      11374,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      11437,
+      0.0127
+    ]
+  },
+  "OFFHAND": {
+    "cataclysm:black_steel_targe": [
+      275,
+      4.1986494
+    ],
+    "endermanoverhaul:corrupted_shield": [
+      611,
+      3.2997048
+    ],
+    "minecraft:ender_pearl": [
+      1605,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      1577,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      1205,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      1283,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      4750,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      4188,
+      0.6972618
+    ],
+    "aquaculture:neptunium_boots": [
+      2972,
+      2.2764862
+    ],
+    "aquamirae:abyssal_boots": [
+      3446,
+      1.6554433
+    ],
+    "aquamirae:terrible_boots": [
+      3500,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_boots": [
+      2838,
+      3.1174598
+    ],
+    "cataclysm:cursium_boots": [
+      1245,
+      6.789111
+    ],
+    "cataclysm:ignitium_boots": [
+      35,
+      9.309818
+    ],
+    "lfpirates:corsair_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:craftsman_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:deckhand_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:fisherman_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:merchant_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:merchant_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:merchant_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_1_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_2_boots": [
+      2980,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_3_boots": [
+      2980,
+      2.2659154
+    ],
+    "minecraft:chainmail_boots": [
+      4299,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      3383,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      4365,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      4051,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      4647,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      3256,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      2611,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      3846,
+      1.173019
+    ],
+    "aquaculture:neptunium_leggings": [
+      2998,
+      2.2764862
+    ],
+    "aquamirae:abyssal_leggings": [
+      3472,
+      1.6554433
+    ],
+    "aquamirae:terrible_leggings": [
+      3526,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_leggings": [
+      2864,
+      3.1174598
+    ],
+    "cataclysm:cursium_leggings": [
+      1271,
+      6.789111
+    ],
+    "cataclysm:ignitium_leggings": [
+      61,
+      9.309818
+    ],
+    "lfpirates:corsair_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:craftsman_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:deckhand_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:fisherman_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_1_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_2_leggings": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_3_leggings": [
+      3006,
+      2.2659154
+    ],
+    "minecraft:chainmail_leggings": [
+      4325,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      3409,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      4391,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      4077,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      4673,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      3282,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      3635,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      3714,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      4062,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      4285,
+      0.59963983
+    ],
+    "aquaculture:neptunium_chestplate": [
+      2998,
+      2.2764862
+    ],
+    "aquamirae:abyssal_brigantine": [
+      3472,
+      1.6554433
+    ],
+    "aquamirae:terrible_chestplate": [
+      3526,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_suit": [
+      2864,
+      3.1174598
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      2882,
+      3.0056863
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      1102,
+      7.1410875
+    ],
+    "cataclysm:cursium_chestplate": [
+      1271,
+      6.789111
+    ],
+    "cataclysm:ignitium_chestplate": [
+      61,
+      9.309818
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      61,
+      9.309818
+    ],
+    "endermanoverhaul:badlands_hood": [
+      4168,
+      0.75818443
+    ],
+    "endermanoverhaul:savanna_hood": [
+      4168,
+      0.75818443
+    ],
+    "endermanoverhaul:snowy_hood": [
+      4168,
+      0.75818443
+    ],
+    "lfpirates:corsair_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:craftsman_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:deckhand_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:fisherman_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_1_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_2_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_3_chestplate": [
+      3006,
+      2.2659154
+    ],
+    "minecraft:chainmail_chestplate": [
+      4325,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      3409,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      4391,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      4077,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      4673,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      3282,
+      1.9030677
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      4478,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      4172,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      4265,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      4163,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      4478,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      4449,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      3913,
+      1.0871058
+    ],
+    "aquaculture:neptunium_helmet": [
+      2998,
+      2.2764862
+    ],
+    "aquamirae:abyssal_heaume": [
+      3472,
+      1.6554433
+    ],
+    "aquamirae:abyssal_tiara": [
+      3133,
+      2.0985024
+    ],
+    "aquamirae:terrible_helmet": [
+      3526,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_helmet": [
+      2864,
+      3.1174598
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      1102,
+      7.1410875
+    ],
+    "cataclysm:cursium_helmet": [
+      1271,
+      6.789111
+    ],
+    "cataclysm:ignitium_helmet": [
+      61,
+      9.309818
+    ],
+    "cataclysm:monstrous_helm": [
+      3282,
+      1.9030677
+    ],
+    "lfpirates:corsair_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:corsair_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:craftsman_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:deckhand_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:fisherman_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:merchant_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:pirate_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_blue_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_gray_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_nordic_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_1_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_2_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:sailor_red_tier_3_helmet": [
+      3006,
+      2.2659154
+    ],
+    "lfpirates:skull_1_helmet": [
+      3808,
+      1.2217841
+    ],
+    "lfpirates:skull_2_helmet": [
+      3808,
+      1.2217841
+    ],
+    "lfpirates:skull_3_helmet": [
+      3808,
+      1.2217841
+    ],
+    "lfpirates:skull_4_helmet": [
+      3808,
+      1.2217841
+    ],
+    "lfpirates:skull_5_helmet": [
+      3808,
+      1.2217841
+    ],
+    "minecraft:chainmail_helmet": [
+      4325,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      3409,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      4391,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      4077,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      4673,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      3282,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      4021,
+      0.948558
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "grand_line__new_world"
+	group: "440D3F174C21B1F6"
+	icon: {
+		Count: 1
+		id: "minepiece:yoru"
+		tag: {
+			Haki: 10.0d
+			Power: 0.1d
+			Reach: 0.5d
+			color1: "0.75 1 0.75 1"
+			slash_color: "slash_green"
+		}
+	}
+	id: "2B80CF578F9E309A"
+	images: [{
+		height: 2.5d
+		image: "kubejs:textures/quests/grandlinenw.png"
+		rotation: 0.0d
+		width: 14.0d
+		x: 0.0d
+		y: -3.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0BF674E0690125B4"
+			tasks: [{
+				advancement: "minepiece:battle_new_world"
+				criterion: ""
+				id: "169AFFA5A7C009C5"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "23953FB61EA8CCAC"
+			rewards: [
+				{
+					count: 24
+					id: "7D89934AA6BC593F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "343D3227155A6DCD"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_mihawk"
+				criterion: ""
+				id: "030FBF9D2F3B2347"
+				type: "advancement"
+			}]
+			title: "Beat Dracule Mihawk"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "3193B244AAA48546"
+			rewards: [
+				{
+					count: 24
+					id: "53E6E7486340643C"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "2D28C490CCDDAE9F"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_vista"
+				criterion: ""
+				id: "01ADCCCDE21DB9EF"
+				type: "advancement"
+			}]
+			title: "Beat Vista"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3193B244AAA48546"]
+			id: "001243498C94CC7A"
+			rewards: [
+				{
+					count: 24
+					id: "41DF74BB80A14B80"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4A49F4A957EEBB25"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_jozu"
+				criterion: ""
+				id: "1A21B724DE68D76D"
+				type: "advancement"
+			}]
+			title: "Beat Jozu"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "65BD2C7387035629"
+			rewards: [
+				{
+					count: 24
+					id: "70D53CDF08614799"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "26FF0C5EDC13AED5"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_yamato"
+				criterion: ""
+				id: "33BDC6FEF2B5A604"
+				type: "advancement"
+			}]
+			title: "Beat Yamato"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["65BD2C7387035629"]
+			id: "6BB42D9664D07D9D"
+			rewards: [
+				{
+					count: 24
+					id: "6339A0AEB6968216"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "06C724E1CD767E70"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_page_one"
+				criterion: ""
+				id: "21A86B3A9D0DF6B0"
+				type: "advancement"
+			}]
+			title: "Beat Page One"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "0E24ED6A2994E893"
+			rewards: [
+				{
+					count: 24
+					id: "6EB183F1C7C675C1"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "0047554785F03C7C"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_z"
+				criterion: ""
+				id: "1ED24DC1935FFDED"
+				type: "advancement"
+			}]
+			title: "Beat Z"
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0E24ED6A2994E893"]
+			id: "7FD0B2F52FB7CE54"
+			rewards: [
+				{
+					count: 24
+					id: "38B533DDC9254798"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "258C830A825A7F76"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_kizaru"
+				criterion: ""
+				id: "67379C22391940F7"
+				type: "advancement"
+			}]
+			title: "Beat Kizaru"
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "08E424D3CAEB4BD9"
+			rewards: [
+				{
+					count: 24
+					id: "789A55CA6D1EBF19"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "5E1A106B8D21432C"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_kozuki_oden"
+				criterion: ""
+				id: "0D636CECA4812461"
+				type: "advancement"
+			}]
+			title: "Beat Kozuki Oden"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["08E424D3CAEB4BD9"]
+			id: "26CC8991A9EE78DD"
+			rewards: [
+				{
+					count: 24
+					id: "33BDFF8F1432BE0E"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "1CFF2C82B813BCFF"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_scopper_gaban"
+				criterion: ""
+				id: "501D5283A986232C"
+				type: "advancement"
+			}]
+			title: "Beat Scopper Gaban"
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "2ACD0D40FE31F7AF"
+			rewards: [
+				{
+					count: 24
+					id: "385ED8AF9ED0E94F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "12A1BED55EDCB744"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_luffy_wano_country"
+				criterion: ""
+				id: "0D64816B3293F81F"
+				type: "advancement"
+			}]
+			title: "Beat Luffy (Onigashima)"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2ACD0D40FE31F7AF"]
+			id: "210EC6186E3586AD"
+			rewards: [
+				{
+					count: 24
+					id: "55D45DD317BD25EE"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "5BE011377DCDF47C"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_zoro_onigashima"
+				criterion: ""
+				id: "67C742D16C140CBA"
+				type: "advancement"
+			}]
+			title: "Beat Zoro (Onigashima)"
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "416C2797EEA1FA72"
+			rewards: [
+				{
+					count: 24
+					id: "661E0A23CD9F6FED"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "221196E19119F7D5"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_cracker"
+				criterion: ""
+				id: "2FA8C1F184577F32"
+				type: "advancement"
+			}]
+			title: "Beat Charlotte Cracker"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["416C2797EEA1FA72"]
+			id: "440DE1925F8D80A2"
+			rewards: [
+				{
+					count: 24
+					id: "094EA4FE67480A85"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7AEBB7082E8D615A"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_katakuri"
+				criterion: ""
+				id: "7644BB30F472E417"
+				type: "advancement"
+			}]
+			title: "Beat Charlotte Katakuri"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "4BDFDECC26EB53FC"
+			rewards: [
+				{
+					count: 24
+					id: "7D3C15A4AFE125CC"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "668BE8AF62C29868"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_hancock"
+				criterion: ""
+				id: "51B19A17B6F9AFA9"
+				type: "advancement"
+			}]
+			title: "Beat Boa Hancock"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "4BDA7AAA79E301AF"
+			rewards: [
+				{
+					count: 24
+					id: "5614D9B73AF990FC"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3E787118A068075F"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_van_augur"
+				criterion: ""
+				id: "3092156782236602"
+				type: "advancement"
+			}]
+			title: "Beat Van Augur"
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4BDA7AAA79E301AF"]
+			id: "2A849DC0A8D18683"
+			rewards: [
+				{
+					count: 24
+					id: "5589EE6C97EBE0EC"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7171EC1DB0B1CF64"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_jesus_burgess"
+				criterion: ""
+				id: "05C95E4DD5394D41"
+				type: "advancement"
+			}]
+			title: "Beat Jesus Burgess"
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0BF674E0690125B4"]
+			id: "74C4F03FB08EB1A1"
+			rewards: [
+				{
+					count: 24
+					id: "2585E1CD05D9F40B"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "18E656FA77358D63"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_yasopp"
+				criterion: ""
+				id: "02ACA91306777C1C"
+				type: "advancement"
+			}]
+			title: "Beat Yasopp"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["74C4F03FB08EB1A1"]
+			id: "5139FDD64DFF0FCF"
+			rewards: [
+				{
+					count: 24
+					id: "1609E391F3331289"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "07E2797BCC3D56B4"
+					type: "xp"
+					xp: 200
+				}
+			]
+			tasks: [{
+				advancement: "minepiece:battle_ben_beckman"
+				criterion: ""
+				id: "408D0B63071972E3"
+				type: "advancement"
+			}]
+			title: "Beat Ben Beckman"
+			x: 4.0d
+			y: 5.0d
+		}
+	]
+	title: "Grand Line - New World"
+}

@@ -1,0 +1,254 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storages"
+	group: "6A748E45BD7D92A3"
+	icon: "sophisticatedbackpacks:backpack"
+	id: "7D1514678C08763E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6C6D4880AC5325C3"
+			rewards: [
+				{
+					count: 4
+					id: "2D3675C9AB8BE1E1"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "106FD0E1F89B86B0"
+					type: "xp"
+					xp: 20
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "3AF6876E512062D4"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6C6D4880AC5325C3"]
+			id: "6DD9FD7729C75784"
+			rewards: [
+				{
+					count: 4
+					id: "019E901F5A026CD3"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "21157AAAB5C6E4E1"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "57FE7530285DB49B"
+				item: "sophisticatedbackpacks:iron_backpack"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6DD9FD7729C75784"]
+			id: "05A1910505F4E5C6"
+			rewards: [
+				{
+					count: 4
+					id: "62DF869E461D8548"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "5130E325191D7735"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "6FDF6DF6ECDFDBD9"
+				item: "sophisticatedbackpacks:gold_backpack"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["05A1910505F4E5C6"]
+			id: "77F63F0312615A31"
+			rewards: [
+				{
+					count: 4
+					id: "432FE01B5A2FD47C"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "71630CB6ECEAF8DD"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "434E451F965FA8D7"
+				item: "sophisticatedbackpacks:diamond_backpack"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["77F63F0312615A31"]
+			id: "69DCD66A06389DC5"
+			rewards: [
+				{
+					count: 4
+					id: "118EDE2DF5355446"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4BE808EEDF5DAA59"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "08BDA71B3510765A"
+				item: "sophisticatedbackpacks:netherite_backpack"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["728FC2EFFBA0C4B0"]
+			dependency_requirement: "all_started"
+			id: "046DEF0BD815830E"
+			rewards: [
+				{
+					count: 4
+					id: "0BBE2C6E41281E91"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "11E3268251F66460"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "2E95CD13F932E733"
+				item: "ironchest:iron_chest"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["046DEF0BD815830E"]
+			id: "7F793E83F73D364B"
+			rewards: [
+				{
+					count: 4
+					id: "55C5DC9401455338"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3ACEFA684FF9FD1A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "4326CD02974414BE"
+				item: "ironchest:gold_chest"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F793E83F73D364B"]
+			id: "228B0920A1FF5A01"
+			rewards: [
+				{
+					count: 4
+					id: "1B049094CE9DBB13"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4E9134FB356C6F66"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "70F182EF629F2CA8"
+				item: "ironchest:diamond_chest"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["228B0920A1FF5A01"]
+			id: "197228665CC15A64"
+			rewards: [
+				{
+					count: 4
+					id: "6C3A893528CD5CB8"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "20970D05222A309D"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "6550E462F1C2DD83"
+				item: "ironchest:obsidian_chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "728FC2EFFBA0C4B0"
+			rewards: [
+				{
+					count: 4
+					id: "13A9205542D84970"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "31497F68466ABD6A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "34039C49370F3837"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+	]
+	title: "Storages"
+}
